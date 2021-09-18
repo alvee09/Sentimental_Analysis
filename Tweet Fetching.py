@@ -71,14 +71,12 @@ for tweet in t.hydrate(data4["tweet_ID"]):
     print(tweet['full_text'])
     #print(tweet.keys())
         
-    
     rowcount+=1
     
     #print(tweet['id'])
     
     #if tweet['place']:
      #   print(tweet['place']['country'])
-
 
 # In[147]:
 
