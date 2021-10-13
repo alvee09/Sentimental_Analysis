@@ -10,6 +10,7 @@ import csv
 # nltk.download('wordnet')
 # nltk.download('punkt')
 import pandas as pd
+import os
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.corpus import twitter_samples, stopwords
 from nltk.tag import pos_tag
@@ -18,17 +19,21 @@ from nltk import FreqDist, classify, NaiveBayesClassifier
 from pandas import Series
 import re, string, random
 from nltk.tokenize import TweetTokenizer
+
 tknzr = TweetTokenizer()
 from sklearn.naive_bayes import (
     BernoulliNB,
     ComplementNB,
     MultinomialNB,
 )
+from sklearn.naive_bayes import MultinomialNB
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier, AdaBoostClassifier
+from sklearn.svm import LinearSVC
 from sklearn.linear_model import LogisticRegression
 from sklearn.neural_network import MLPClassifier
+from sklearn.linear_model import SGDClassifier
 from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
 
 
@@ -38,6 +43,9 @@ def remove_noise(tweet_tokens, stop_words=()):
     for token, tag in pos_tag(tweet_tokens):
         token = re.sub('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+#]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', '', token)
         token = re.sub("(@[A-Za-z0-9_]+)", "", token)
+        token = re.sub("Covid", "", token)
+        token = re.sub("COVID", "", token)
+
 
         if tag.startswith("NN"):
             pos = 'n'
@@ -49,7 +57,7 @@ def remove_noise(tweet_tokens, stop_words=()):
         lemmatizer = WordNetLemmatizer()
         token = lemmatizer.lemmatize(token, pos)
 
-        if len(token) > 0 and token not in string.punctuation and token.lower() not in stop_words:
+        if len(token) > 0 and token not in string.punctuation and token.lower() not in stop_words and token != "..." and token != "’" and token != 'covid':
             cleaned_tokens.append(token.lower())
     return cleaned_tokens
 
@@ -67,51 +75,53 @@ def get_tweets_for_model(cleaned_tokens_list):
 
 if __name__ == "__main__":
     # --------------------------------------------
-    # Read from general dataset with positive/negative sentiments
-    file = open('dataset.csv')
-    csvreader = csv.reader(file)
-    df = pd.read_csv(file)
-    print(df.head())
-    df = df.sample(frac=1).reset_index(drop=True)
-    print(df.head())
-    df = df.iloc[:50000]
-    print(df.head())
 
-    #---------------------------------------------
-    # df = pd.read_csv('mergedfile.csv', index_col=False)
+    # Read from general dataset with positive/negative sentiments
+
+    # file = open('dataset.csv')
+    # csvreader = csv.reader(file)
+    # df = pd.read_csv(file)
+    # print(df.head())
+    # df = df.sample(frac=1).reset_index(drop=True)
+    # print(df.head())
+    # df = df.iloc[:50000]
+    # print(df.head())
+
+    # ---------------------------------------------
+    df = pd.read_csv('~/Desktop/Data_output/jan_feb_mar_mergedfile.csv', index_col=False)
 
     df = df[['Sentiment_Label', 'Tweet_text']]
     print("1")
     positive_tweets = df.loc[df['Sentiment_Label'] == 'positive']
     negative_tweets = df.loc[df['Sentiment_Label'] == 'negative']
-    # neutral_tweets = df.loc[df['Sentiment_Label'] == 'neutral']
+    neutral_tweets = df.loc[df['Sentiment_Label'] == 'neutral']
 
     positive_tweets = positive_tweets[['Tweet_text']]
     negative_tweets = negative_tweets[['Tweet_text']]
-    # neutral_tweets = neutral_tweets[['Tweet_text']]
+    neutral_tweets = neutral_tweets[['Tweet_text']]
 
     positive_tweet_tokens = []
     negative_tweet_tokens = []
-    # neutral_tweet_tokens = []
+    neutral_tweet_tokens = []
 
     for index, row in positive_tweets.iterrows():
-        # print(row['Tweet_text'])
         positive_tweet_tokens.append(tknzr.tokenize(row['Tweet_text']))
+        # positive_tweet_tokens.append(nltk.word_tokenize(row['Tweet_text']))
 
     for index, row in negative_tweets.iterrows():
-        # print(row['Tweet_text'])
         negative_tweet_tokens.append(tknzr.tokenize(row['Tweet_text']))
+        # negative_tweet_tokens.append(nltk.word_tokenize(row['Tweet_text']))
 
-    # for index, row in neutral_tweets.iterrows():
-    #     # print(row['Tweet_text'])
-    #     neutral_tweet_tokens.append(tknzr.tokenize(row['Tweet_text']))
+    for index, row in neutral_tweets.iterrows():
+        neutral_tweet_tokens.append(tknzr.tokenize(row['Tweet_text']))
+        # neutral_tweet_tokens.append(nltk.word_tokenize(row['Tweet_text']))
 
-    #---------------------------------------------
+    # ---------------------------------------------
     stop_words = stopwords.words('english')
 
     positive_cleaned_tokens_list = []
     negative_cleaned_tokens_list = []
-    # neutral_cleaned_tokens_list = []
+    neutral_cleaned_tokens_list = []
     print("2")
     for tokens in positive_tweet_tokens:
         positive_cleaned_tokens_list.append(remove_noise(tokens, stop_words))
@@ -119,8 +129,8 @@ if __name__ == "__main__":
     for tokens in negative_tweet_tokens:
         negative_cleaned_tokens_list.append(remove_noise(tokens, stop_words))
 
-    # for tokens in neutral_tweet_tokens:
-    #     neutral_cleaned_tokens_list.append(remove_noise(tokens, stop_words))
+    for tokens in neutral_tweet_tokens:
+        neutral_cleaned_tokens_list.append(remove_noise(tokens, stop_words))
 
     print("Most common occuring words in positive tweets")
     all_pos_words = get_all_words(positive_cleaned_tokens_list)
@@ -132,14 +142,14 @@ if __name__ == "__main__":
     freq_dist_neg = FreqDist(all_neg_words)
     print(freq_dist_neg.most_common(10))
 
-    # print("Most common occuring words in neutral tweets")
-    # all_neu_words = get_all_words(neutral_cleaned_tokens_list)
-    # freq_dist_neu = FreqDist(all_neu_words)
-    # print(freq_dist_neu.most_common(10))
+    print("Most common occuring words in neutral tweets")
+    all_neu_words = get_all_words(neutral_cleaned_tokens_list)
+    freq_dist_neu = FreqDist(all_neu_words)
+    print(freq_dist_neu.most_common(10))
 
     positive_tokens_for_model = get_tweets_for_model(positive_cleaned_tokens_list)
     negative_tokens_for_model = get_tweets_for_model(negative_cleaned_tokens_list)
-    # neutral_tokens_for_model = get_tweets_for_model(neutral_cleaned_tokens_list)
+    neutral_tokens_for_model = get_tweets_for_model(neutral_cleaned_tokens_list)
 
     positive_dataset = [(tweet_dict, "Positive")
                         for tweet_dict in positive_tokens_for_model]
@@ -147,17 +157,18 @@ if __name__ == "__main__":
     negative_dataset = [(tweet_dict, "Negative")
                         for tweet_dict in negative_tokens_for_model]
 
-    # neutral_dataset = [(tweet_dict, "Neutral")
-    #                     for tweet_dict in neutral_tokens_for_model]
+    neutral_dataset = [(tweet_dict, "Neutral")
+                       for tweet_dict in neutral_tokens_for_model]
 
-    dataset = positive_dataset + negative_dataset
-    #+ neutral_dataset
+    dataset = positive_dataset + negative_dataset + neutral_dataset
 
     random.shuffle(dataset)
     print(len(dataset))
-    train_data = dataset[:40000]
-    test_data = dataset[40000:]
-    print("3")
+    train_data = dataset[:8500]
+    print(len(train_data))
+    test_data = dataset[8500:]
+    print(len(test_data))
+    # print("3")
     classifier = NaiveBayesClassifier.train(train_data)
 
     print("Accuracy is:", classify.accuracy(classifier, test_data))
@@ -166,21 +177,23 @@ if __name__ == "__main__":
 
     # ALl other classifiers
     classifiers = {
+        "SGDClassifier": SGDClassifier(max_iter=1000),
+        "MultinomialNB": MultinomialNB(),
+        "LinearSVC": LinearSVC(),
         "BernoulliNB": BernoulliNB(),
         "ComplementNB": ComplementNB(),
         "MultinomialNB": MultinomialNB(),
         "KNeighborsClassifier": KNeighborsClassifier(),
         "DecisionTreeClassifier": DecisionTreeClassifier(),
         "RandomForestClassifier": RandomForestClassifier(),
-        "LogisticRegression": LogisticRegression(),
-        "MLPClassifier": MLPClassifier(max_iter=1000),
+        "LogisticRegression": LogisticRegression(max_iter= 20000),
+        "MLPClassifier": MLPClassifier(max_iter=10000),
         "AdaBoostClassifier": AdaBoostClassifier(),
     }
 
-    train_count = 40000
-    print("4")
+    train_count = 6500
+    # print("4")
     for name, sklearn_classifier in classifiers.items():
-
         classifier = nltk.classify.SklearnClassifier(sklearn_classifier)
 
         classifier.train(train_data)
@@ -189,8 +202,8 @@ if __name__ == "__main__":
 
         print(F"{accuracy:.2%} - {name}")
 
-    custom_tweet = "@Vince34359049 @normanswan I am hating my life and I am depressed all the time for the continous lockdowns "
-    print("5")
+    custom_tweet = "This is bad and wrong"
+    # print("5")
     custom_tokens = remove_noise(word_tokenize(custom_tweet))
 
     print(custom_tweet, classifier.classify(dict([token, True] for token in custom_tokens)))
