@@ -1,0 +1,565 @@
+Tweet_ID,Sentiment_Label,Logits_Neutral,Logits_Positive,Logits_Negative,Tweet_text,hashtags,country,created_at
+1359804399518851072,neutral,1.890007257461548,1.384394645690918,-0.036377377808094025,"If we (heaven forbid) have another lockdown, I’ll be spending my time learning more shadow puppets. I just entertained my 18-month-old with a dog (the only one I know) and she responded by saying: “More? ... Turtle?”",,Australia,Thu Feb 11 10:00:07 +0000 2021
+1359804778570682370,positive,0.5092253088951111,0.6464264392852783,0.39531731605529785,@AngeloSabag @drbelindambrown @DrHelen_Mac @Freya_MacMillan Lockdown babies!,,Australia,Thu Feb 11 10:01:37 +0000 2021
+1359806768319143943,neutral,1.753398299217224,0.8509580492973328,-0.16799180209636688,We're all still learning about corona and vaccines  #qanda,qanda,Australia,Thu Feb 11 10:09:32 +0000 2021
+1359809060934090753,negative,0.8121507167816162,0.4005594551563263,1.2565971612930298,@TadhgMacIntyre Oh I feel for you @TadhgMacIntyre - we had a tough lock down here and we do afraid for future ones,,Australia,Thu Feb 11 10:18:38 +0000 2021
+1359811297299238912,negative,1.171709656715393,0.9873522520065308,1.2213010787963867,Finally! “Australia First” is not the answer in a global community. We owe it to our near neighbours to assist them to manage a PANdemic. #qanda,qanda,Australia,Thu Feb 11 10:27:32 +0000 2021
+1359813789118386180,positive,0.690388023853302,3.013606071472168,-0.4901763200759888,"Kudos to all #WomenInScience past, present &amp; future! 🧫🧪🔬 https://t.co/rY4mUJdG55",WomenInScience,Australia,Thu Feb 11 10:37:26 +0000 2021
+1359808116150341636,neutral,1.8829407691955569,-0.7300462126731873,1.174115538597107,Naval Group boss exempted from SA coronavirus hotel quarantine for security reasons - ABC News https://t.co/s5fZZ0QkHq,,Australia,Thu Feb 11 10:14:53 +0000 2021
+1359812885698945027,negative,0.6549368500709534,-0.4847545325756073,1.806401371955872,"@HaydenJOConnor That's not hard to find...
+
+https://t.co/H3YVjodXge",,Australia,Thu Feb 11 10:33:50 +0000 2021
+1359813011267936256,negative,0.061155255883932114,0.13607600331306458,0.988881766796112,"Seriously..
+
+https://t.co/H3YVjodXge https://t.co/Z0iwIocTSe",,Australia,Thu Feb 11 10:34:20 +0000 2021
+1359806060186398721,positive,1.148046851158142,1.829814910888672,0.4372385144233704,"The biggest experimental play ground in the world. The @pfizer Covid-19 🦠 vaccine 💉 is working!! 
+@ScottMorrisonMP @GregHuntMP start vaccinations in Australia now! https://t.co/NxU3cDhKuj",,Australia,Thu Feb 11 10:06:43 +0000 2021
+1359809505186353161,negative,0.5152441263198853,-1.0255962610244749,3.0403921604156494,"Can @ScottMorrisonMP permanently smirking,shirking responsibility but claiming a great result re covid 19 when it was the states and their citizens hard work and sacrifice that prevented a disaster.  That idiot @PeterDutton_MP should be your focus",,Australia,Thu Feb 11 10:20:24 +0000 2021
+1359813522117459969,negative,0.6482661962509155,-0.817266047000885,4.034076690673828,"@colonelhogans @MikeCarlton01 I’m watching him on the drum. A despicable cockwombling fuckwit. Stated in WA our state overacted to the 1 community spread of a UK strain COVID with the 5 day lockdown, it’s a rampant strain &amp; it probably crushed it",,Australia,Thu Feb 11 10:36:22 +0000 2021
+1359805391673036800,neutral,1.3788491487503052,0.857611358165741,0.18442164361476895,"So many questions, so much to learn #COVID19Vic vaccine. #qanda","COVID19Vic, qanda",Australia,Thu Feb 11 10:04:03 +0000 2021
+1359805917596848128,neutral,1.2109194993972778,-0.12527412176132202,0.7984028458595276,I'm fatigued and I haven't had the vaccine  #qanda,qanda,Australia,Thu Feb 11 10:06:09 +0000 2021
+1359806658910638080,negative,1.5887609720230105,-0.9302257895469666,2.1650092601776123,Can you state a #COVID19 vaccine preference on the basis of which pharmaceutical company you dislike the least? @QandA,COVID19,Australia,Thu Feb 11 10:09:06 +0000 2021
+1359809821441069058,neutral,1.5801236629486084,0.5937310457229614,0.4520586431026459,Can we reengineer the UQ molecular clamp technology vaccine perhaps for next year.  Can be locally manufactured. #qanda,qanda,Australia,Thu Feb 11 10:21:40 +0000 2021
+1359810117613408258,positive,1.5893045663833618,1.9025661945343015,-0.650342583656311,We all want the highly effective vaccine  #qanda,qanda,Australia,Thu Feb 11 10:22:50 +0000 2021
+1359810862261755904,neutral,1.970097661018372,1.40880286693573,-0.11917141824960707,We really need to provide our neighbours with the vaccine.  #qanda,qanda,Australia,Thu Feb 11 10:25:48 +0000 2021
+1359811077282828288,neutral,1.6223478317260742,-0.35395634174346924,1.3725295066833496,@QandA Will my 80 year old mother receive the Pfizer vaccine ? I don’t mind receiving the AZ vaccine myself but I want to know that the elderly will receive the Pfizer vaccine #qanda,qanda,Australia,Thu Feb 11 10:26:39 +0000 2021
+1359811112603058178,positive,1.0916547775268557,2.2900197505950928,-0.5192527174949646,Good neighbours help each other. #vaccine #qanda,"vaccine, qanda",Australia,Thu Feb 11 10:26:47 +0000 2021
+1359816947731374081,positive,1.3563369512557983,2.2361409664154053,-0.4240046739578247,@paulkidd Plus well be lucky to get enough of the A- Z vaccine the way the EU is playing things,,Australia,Thu Feb 11 10:49:59 +0000 2021
+1359808223352557568,positive,1.0341982841491701,1.1265043020248413,0.3848133087158203,Australia is certainly the lucky country when it comes to the corona virus.  #qanda,qanda,Australia,Thu Feb 11 10:15:19 +0000 2021
+1359808731651792902,positive,0.5261009335517883,3.104841709136963,-0.4411457180976868,Let us rejoice in the fact that we have a number of very effective vaccines only a year or so after this virus was first characterised. This is a remarkable achievement. #QandA,QandA,Australia,Thu Feb 11 10:17:20 +0000 2021
+1359814902223757317,negative,0.570287823677063,0.3559362590312958,1.4621679782867432,@Elfvandel20 @fictillius @johnb78 Just goes to show how incredibly hard to combat this virus is.,,Australia,Thu Feb 11 10:41:51 +0000 2021
+1359815430899081222,neutral,1.6428498029708862,-0.7618820071220398,1.3215579986572266,@Elfvandel20 @fictillius @johnb78 Did you just assume the virus' gender?,,Australia,Thu Feb 11 10:43:57 +0000 2021
+1359819599609425920,negative,1.2492995262145996,-1.008541703224182,3.026099443435669,"@bridgerollo @rwillingham @abcmelbourne When is Dans team going to get it right? Yesterday,travellers being transported  wearing garbage bags,quarantine staff not wearing gloves. Today,photos of hotel quaratine staff not wearing masks. An outbreak waiting to happen Disgraceful Dan",,Australia,Thu Feb 11 11:00:31 +0000 2021
+1359821924377841664,negative,0.8352002501487732,-0.0512540265917778,1.3354475498199463,"Why is this so?? We have much work to do.
+
+#WomenInScience #WomenInSTEMM https://t.co/Ktjfm4XjUx","WomenInScience, WomenInSTEMM",Australia,Thu Feb 11 11:09:45 +0000 2021
+1359822157904179205,positive,0.09060685336589812,1.1236060857772827,0.027709636837244037,Yeah! https://t.co/bcRGVh14lQ,,Australia,Thu Feb 11 11:10:41 +0000 2021
+1359822293887717377,neutral,1.681477189064026,1.4451695680618286,0.3221470713615417,"„There is general agreement that these changes are driving institutions towards investment in digital … Creating Instagram-worthy moments”.“ 
+So students will take selfies in front of their computer? The above causality makes no sense. https://t.co/UY7fffbW8t",,Australia,Thu Feb 11 11:11:13 +0000 2021
+1359826165406392322,neutral,1.2261203527450562,0.6067758202552795,0.5038147568702698,"@Patrick51112869 Creighton. A person who has decided that his pay-packet from #Murdoch is worth more than whatever reputation he once had.
+
+#Covidiot #BoycottMurdoch #auspol https://t.co/09NBiqgyAy","Murdoch, Covidiot, BoycottMurdoch, auspol",Australia,Thu Feb 11 11:26:36 +0000 2021
+1359829662306693121,neutral,1.6065425872802734,0.6142502427101135,-0.06284386664628983,"What a stat, what a player 👏🏼 https://t.co/Ey7frYC4UO",,Australia,Thu Feb 11 11:40:30 +0000 2021
+1359830104155643906,positive,0.5541080236434937,2.12963342666626,-0.10363499075174333,"""Be brave and show compassion.""
+#soundadvice https://t.co/kWaLQLhEyI",soundadvice,Australia,Thu Feb 11 11:42:15 +0000 2021
+1359830723868323842,negative,1.6184327602386477,-0.891930878162384,1.7984278202056885,@DarlingBrody @shepoldfirm @noplaceforsheep What for? Managing an outbreak and still getting more stranded Aussies home? https://t.co/LkJVQuId58,,Australia,Thu Feb 11 11:44:43 +0000 2021
+1359832016175329283,positive,0.9021977186203004,2.5686323642730717,0.1559818834066391,"The great thing about being  part of @MIPS_Australia is we have experts to drawn on from so many different fields across pharmaceutical sciences,  #WomenInScience like @CLandersdorfer, whose modeling expertise helped us with a #covid19 project! https://t.co/fjJKk9y4vC","WomenInScience, covid19",Australia,Thu Feb 11 11:49:51 +0000 2021
+1359833838004785154,negative,1.0033725500106812,-0.1880616843700409,1.907477617263794,"I don’t mean to criticise Elizabeth Lee’s intention here (really!), but this photo shows how complacent some of us  are getting in the ACT re social distancing. @RachelSS_MLA #COVIDAct https://t.co/RfJNhA1drV",COVIDAct,Australia,Thu Feb 11 11:57:06 +0000 2021
+1359820333386063876,negative,1.5031565427780151,-0.34646132588386536,1.7637561559677124,"@MarkDando4 @RabeeTourky @PitchfordRohan Aspen Medical are based here and have the (probably expensive) resources and expertise. And we have that special covid hospital they built in case it took off here 
+
+Maybe we don't have enough to manage it while we're wrangling covid risks while pollies are here but otherwise...",,Australia,Thu Feb 11 11:03:26 +0000 2021
+1359824709576085507,negative,1.2521023750305176,0.2382244169712067,1.41179621219635,"@TheRealRudolfo @HyundaiAus @Tesla Official unveiling is scheduled for Feb, so shouldn’t be too far away. Guessing mid-late 2021 release, all depends on production. Most factories worldwide are closed due to COVID, so hopefully no delays",,Australia,Thu Feb 11 11:20:49 +0000 2021
+1359828919348695040,neutral,1.5138919353485107,0.4932187497615814,0.4640891849994659,I’d like it if he could do this when he is in Sydney in the distant covid free future. https://t.co/VlAnMtku0L,,Australia,Thu Feb 11 11:37:33 +0000 2021
+1359829553003204612,neutral,0.3901025652885437,0.08174894005060196,0.3121926784515381,@marth_burton Bionicles predicted Covid,,Australia,Thu Feb 11 11:40:04 +0000 2021
+1359822651665960963,positive,1.3144757747650146,2.4316399097442627,-0.3761763572692871,"@Karl6pr just watched Wildcats live tonight , great overall performance, only a handful of red shirts in the crowd but I was yelling behind my mask , another game Sunday , yeh",,Australia,Thu Feb 11 11:12:39 +0000 2021
+1359829700969852929,negative,0.4134294390678406,-0.9742549061775208,3.259395122528076,@AllisonMPecorin Why is that wank stain allowed to enter without a mask!!!,,Australia,Thu Feb 11 11:40:39 +0000 2021
+1359826153721110528,positive,0.7420664429664612,1.2464669942855835,0.4286124706268311,"I’m glad we have the vaccine, but should we be bragging about massive worldwide health inequality, and the fact that poorer countries will likely wait years for vaccines?! https://t.co/hqhSw9tyfD",,Australia,Thu Feb 11 11:26:34 +0000 2021
+1359831958063173632,negative,0.8937867283821106,-0.5351346135139465,2.129604816436768,"@lifeoftazza @c3convertase People refuse the vaccine because of concerns about the excipients, but will quite happily eat a chicken nugget.",,Australia,Thu Feb 11 11:49:37 +0000 2021
+1359834836374986756,negative,0.07143935561180115,0.561335563659668,0.8210516571998596,THIS IS FUCKED! https://t.co/qvb6EWG8q0,,Australia,Thu Feb 11 12:01:04 +0000 2021
+1359834880670986243,neutral,0.9899274110794068,-0.3719861209392548,0.8288216590881348,Household contacts. Not an issue. https://t.co/UNDdq9yZEI,,Australia,Thu Feb 11 12:01:14 +0000 2021
+1359834922458910726,positive,0.27926105260849,0.3089704215526581,0.011953705921769142,Welp https://t.co/sc1DIQItDm,,Australia,Thu Feb 11 12:01:24 +0000 2021
+1359835659318358016,neutral,1.1516852378845217,0.5391537547111511,0.7434158325195312,Pls go to bed contact tracing team. 🤞🏼🤞🏼 It's still 13 when I wake up. https://t.co/RAndphM90N,,Australia,Thu Feb 11 12:04:20 +0000 2021
+1359837845578387461,neutral,2.8000414371490483,1.276006102561951,-0.6733807325363159,Another two added to Holiday Inn cluster #springst https://t.co/gBBFFyuJwJ,springst,Australia,Thu Feb 11 12:13:01 +0000 2021
+1359840003392557056,neutral,1.0391124486923218,0.6948091387748718,0.8062010407447815,Oh Dear TT the sport we luv never get's boring even during Pandemic lol #AusOpen,AusOpen,Australia,Thu Feb 11 12:21:36 +0000 2021
+1359841857744695297,negative,0.6480575799942017,0.8676953911781311,1.2818466424942017,"@patientsafe3 A lot of us would quite enjoy witnessing that. Also there’s no point having a polished voice, calm exterior and chiselled looks if you’re crap at your job. Especially when you have such an important role during a global pandemic.",,Australia,Thu Feb 11 12:28:58 +0000 2021
+1359842328471474178,neutral,2.203845262527466,1.356784105300903,-0.5927476286888123,The Holiday Inn cluster grows to 13... https://t.co/z9F3CFj0W1,,Australia,Thu Feb 11 12:30:50 +0000 2021
+1359842940600786946,negative,1.34565269947052,-1.100918889045715,2.4067978858947754,This would be an overreaction for cases that are all linked to a cluster https://t.co/59UjuztYwp,,Australia,Thu Feb 11 12:33:16 +0000 2021
+1359845907257126921,negative,0.603482723236084,-0.9119611382484436,3.29327654838562,@lono89 The the people exposed are in isolation. Until there’s known transmission outside of that group of people a lockdown won’t achieve much. Brisbane and Perth show us lockdowns as a precaution are pointless.,,Australia,Thu Feb 11 12:45:03 +0000 2021
+1359840559498596353,negative,0.3820101916790009,-0.26596784591674805,1.1533267498016355,BREAKING: VICTORIA GOVT PLANNING SNAP LOCKDOWN. https://t.co/Jc1fCSRovt,,Australia,Thu Feb 11 12:23:48 +0000 2021
+1359842923374731269,negative,1.5954694747924805,-0.21318551898002625,1.7207661867141724,"#EXCLUSIVE About 10 million Australians are not set up to access a COVID-19 vaccine certificate online, which may be required for international travel as well as entry to cafes, restaurants, and hospitals. https://t.co/E2BQPyv4su via @dailytelegraph",EXCLUSIVE,Australia,Thu Feb 11 12:33:12 +0000 2021
+1359844361626820609,neutral,1.6080414056777954,-0.7258828282356262,1.6058801412582395,@Banafsaa So if you get COVID disease you will not ask for public (Govt) support to treat you or other persons that may be impacted by your condition?,,Australia,Thu Feb 11 12:38:55 +0000 2021
+1359845697713967108,negative,0.4519049227237701,-1.1092591285705566,3.6044924259185787,"TW: Medical Trauma
+
+This shit and similar happens to disabled &amp; chronically ill people EVERY...FUCKING...DAY.
+
+Yes, medical professionals deserve support during COVID. But systemic ableism has only gotten WORSE since it started.
+
+#DoctorsAreDickheads is still valid.
+
+#MedTrauma https://t.co/XffQNxYO8v","DoctorsAreDickheads, MedTrauma",Australia,Thu Feb 11 12:44:13 +0000 2021
+1359851285147656195,neutral,1.1280897855758667,0.16110551357269287,0.9121835231781006,Meanwhile a bunch of fireworks are being let off in the CBD. Makes sense 😇 https://t.co/vV537xonLk,,Australia,Thu Feb 11 13:06:25 +0000 2021
+1359854949065138180,neutral,1.829694151878357,-0.7422357201576233,1.165969729423523,Can we not talk about lockdown until anything eventuates?,,Australia,Thu Feb 11 13:20:59 +0000 2021
+1359851841618518019,neutral,1.3786537647247314,-0.1487424075603485,1.348454475402832,@ColinKi02276809 Don’t think I’ve seen more or less of her than other spouses. We might see more if Morrison did more official overseas visits but I guess covid put a stop to that.,,Australia,Thu Feb 11 13:08:38 +0000 2021
+1359856136644562950,neutral,1.8768773078918457,-0.05525422841310501,0.05617619305849075,13 cases today ng covid. Possible mag lockdown 🥺,,Australia,Thu Feb 11 13:25:42 +0000 2021
+1359862860306817027,positive,0.8107159733772278,1.5640432834625244,0.1975843161344528,"@DebMcPoge Covid has changed the world,it’s lost some of it’s vibrancy we all took for granted &amp; vibrancy = colours,not grey,love it! Ian",,Australia,Thu Feb 11 13:52:25 +0000 2021
+1359865113193242625,negative,1.0887088775634766,0.24984511733055115,1.1195533275604248,"Don’t think many Victorians would cope well with a third lockdown, especially if it was anything near what we had last time - so I hope this won’t happen. 
+
+But some reasonable limits on gatherings etc would be manageable - but I also hope that contact tracing will work. https://t.co/tfe22XyJw1",,Australia,Thu Feb 11 14:01:22 +0000 2021
+1359869578663186437,negative,1.0975357294082642,-0.9770305156707764,2.399287462234497,@SarahJTodd @GeraldKrasner1 @ArisKatzourakis Our government (Aussie)already talking about Covid being a flu like illness that circulates at low levels.,,Australia,Thu Feb 11 14:19:07 +0000 2021
+1359874604559335428,negative,0.7836629748344421,-0.9897860884666444,2.835556983947754,"@JohnOSullivan36 Vaccines STOP the spread, once inoculated your body’s immune system fights the virus so you won’t catch it, the virus is NOT a live culture so you can’t infect others 😷",,Australia,Thu Feb 11 14:39:05 +0000 2021
+1359886348782424065,negative,0.4458483457565308,-0.17156359553337094,1.0453603267669678,And water is wet https://t.co/N2bLqkXytf,,Australia,Thu Feb 11 15:25:45 +0000 2021
+1359890269521383424,positive,0.5883074402809143,0.7809514999389648,0.5600443482398987,@maalmaker You sound so much stress in this status. I am happy your covid test is negative too brother,,Australia,Thu Feb 11 15:41:20 +0000 2021
+1359895505518534656,negative,1.1666865348815918,-0.6376857757568359,2.38661527633667,Seriously Victorian needs a new premier someone who can handle this COVID 19 Daniel Andrews is a joke he should resign #ResignDanielAndrews,ResignDanielAndrews,Australia,Thu Feb 11 16:02:08 +0000 2021
+1359907772104597510,negative,1.0673198699951172,-0.5088678598403931,1.331653714179993,"Australians more worried about money and less confident in the Morrison government, Covid survey finds https://t.co/9HXwZSN5so",,Australia,Thu Feb 11 16:50:53 +0000 2021
+1359919024243568641,neutral,2.0719141960144043,0.2377193868160248,1.004725694656372,@joelgaylor1 @rohancct @VicGovDH It’s Gold Star according to @DanielAndrewsMP and @LisanevilleMP  . 🤦‍♂️😂😂😂😂Let’s see how we go when they lock everything down again #COVID19Vic,COVID19Vic,Australia,Thu Feb 11 17:35:36 +0000 2021
+1359919910952992771,negative,1.1813637018203735,-0.9146581292152404,2.5020983219146733,"@BWChupacabra @ghostofla @ginacarano @disneyplus Well she did actually:
+“Gina Carano mocked people's preferred pronouns, mocked safety measures during a pandemic, and compared being criticized to the holocaust. She made the choice to say these things. Lucasfilm made the choice not to work with her anymore”",,Australia,Thu Feb 11 17:39:07 +0000 2021
+1359920956588756997,negative,0.8138591647148132,0.05446184426546097,1.4738814830780032,"@tedcruz The character was great
+
+Gina Carano mocked people's preferred pronouns, mocked safety measures during a pandemic, and compared being criticized to the holocaust
+
+Gina Carano is the antithesis of Cara Dune",,Australia,Thu Feb 11 17:43:16 +0000 2021
+1359911616259653638,neutral,1.9057159423828125,1.8344545364379885,-0.3181091248989105,Holiday Inn cluster grows to 13 following another TWO new local coronavirus cases. @10NewsFirstMelb #COVID19 https://t.co/5NrNA7pB2q,COVID19,Australia,Thu Feb 11 17:06:09 +0000 2021
+1359910469096509441,negative,0.4268593788146973,0.06899665296077727,2.081773042678833,"Definitely to late to lockdown ,Boris Johnson was spruking at the time that COVID was only a flue ,pandering to big business now you’ve got a disaster https://t.co/W4NbvS0jtl",,Australia,Thu Feb 11 17:01:36 +0000 2021
+1359931614118092803,neutral,0.644381582736969,0.18239030241966248,0.3524918556213379,You are joking 😢 https://t.co/hW1Pt49M6F,,Australia,Thu Feb 11 18:25:37 +0000 2021
+1359934982748205057,positive,0.20969799160957334,3.503123044967652,-0.13350369036197662,Very cool. https://t.co/2MYinf3TPt,,Australia,Thu Feb 11 18:39:00 +0000 2021
+1359926950781808642,negative,1.0776159763336182,-0.6507748961448669,2.753147840499878,"@BWChupacabra @ghostofla @ginacarano @disneyplus She has the right to her opinions and free speech, but simply there are consequences when you go against your employer.
+They’re trying to make films and run theme parks and Carano has been pushing anti-mask and COVID conspiracy propaganda for months 
+
+It’s her own fault",,Australia,Thu Feb 11 18:07:05 +0000 2021
+1359928536643956736,negative,0.8172871470451355,0.16626840829849246,0.9546602964401244,How many medical professionals tell their patients that ghee nose drops are an excellent way of protecting against the Corona virus,,Australia,Thu Feb 11 18:13:24 +0000 2021
+1359944530334654465,negative,0.5859941840171814,-0.03581276535987854,1.37552809715271,For a Covid query pt. Not a pregnancy test. LOL https://t.co/01lBykMpZg,,Australia,Thu Feb 11 19:16:57 +0000 2021
+1359946045879296000,neutral,1.1969070434570312,-0.03696849197149277,0.8037437796592712,Imagine having a Prime Minister whom is just normal. https://t.co/hSgA9hTTTN,,Australia,Thu Feb 11 19:22:58 +0000 2021
+1359948637179052033,negative,1.493336200714111,-1.1092530488967896,2.6711013317108154,"@bijanzayed1 @Jbandos So just not renew their contract for being transphobic, mocking safety measures in a pandemic then?",,Australia,Thu Feb 11 19:33:16 +0000 2021
+1359952268670345216,negative,0.509641170501709,0.7573217749595642,2.378602266311645,Sounds terrific!! Shame on the authorities responsible. How embarrassing 🙈!! https://t.co/XFZytQaFch,,Australia,Thu Feb 11 19:47:42 +0000 2021
+1359952411066916865,negative,0.3729756474494934,-0.8746216893196106,3.8923130035400386,"Hey @TheTodayShow 
+Stop it with fear mongering!!! 
+Change the tone of how you speak.  You’re giving me anxiety !!! Not the idea of a lockdown 
+Stop holding your breath. Rolling your eyes ... just talk normal and deliver the news",,Australia,Thu Feb 11 19:48:16 +0000 2021
+1359955053075783683,neutral,2.1150600910186768,2.0891058444976807,-0.3101775348186493,"Im heading out for after work drinks tonight with my team that I’ve only met twice!! 
+
+If we go into lockdown it better be after midnight  🥂",,Australia,Thu Feb 11 19:58:46 +0000 2021
+1359953685581758464,negative,1.0450968742370603,-0.22379720211029053,2.7719221115112305,"@DanielAndrewsMP #victoria Ahhhh We’re on the brink of another #covid wave in Melbourne you’ve cancelled The @F1 you cancelled #anzac March but you’re allowing the @AustralianOpen To Continue, people are in the crowds without masks 😷???? How is this normal 🤦🏻‍♂️🤦🏻‍♂️🤦🏻‍♂️🤦🏻‍♂️ #victoria","victoria, covid, anzac, victoria",Australia,Thu Feb 11 19:53:20 +0000 2021
+1359950542668091392,negative,1.423652172088623,-1.158338189125061,2.846453666687012,"@3AW693 If the person infected was working at Brunettis was wearing a mask, how could other people be infected ? Or don’t masks work ? 🤔. Then why do we wear masks 😷🤔#COVID19Vic #Morons","COVID19Vic, Morons",Australia,Thu Feb 11 19:40:50 +0000 2021
+1359950795437842432,negative,0.9651523232460022,-0.6114051342010498,2.505257129669189,The cabin lady just said we're permitted to remove our mask in cases of an emergency.  Good to know.  Nothing worse than having to wear a mask as your plane nosedives into a mountain.,,Australia,Thu Feb 11 19:41:50 +0000 2021
+1359950290816933888,negative,0.5562049746513367,0.9812728762626648,1.0339124202728271,"I’m looking forward to receiving the #Liberal vaccine, desperate to become immune.
+@mjrowland68",Liberal,Australia,Thu Feb 11 19:39:50 +0000 2021
+1359950458576539650,neutral,1.2558733224868774,0.2977350354194641,0.9447885751724244,"@Donsvess The name of this vaccine doesn’t indicate success. Try spelling it. Then if you finally it to remain inside your head, try pronouncing it!",,Australia,Thu Feb 11 19:40:30 +0000 2021
+1359956684328771586,neutral,1.9468990564346316,-0.8977099657058716,1.7829194068908691,"@AusNetServices if Melbourne goes into lockdown, will you cancel all planned outages planned for tomorrow?",,Australia,Thu Feb 11 20:05:14 +0000 2021
+1359957582186565633,positive,1.6215603351593018,3.169929981231689,-0.4901112318038941,"After a year featuring drought, bushfires, rain and a pandemic - Brett &amp; Linda Keeping from Two Rivers Wines in Denman are harvesting their reds. A good morning at work. https://t.co/OuDiWya33S",,Australia,Thu Feb 11 20:08:49 +0000 2021
+1359957933224644608,positive,2.3563063144683842,3.328565120697021,-0.6726239919662476,"Righteo. Music time 
+Can someone just tweet me if Melb goes into lockdown today!
+
+1st playlist!!!  Lets goooo Friday!! 🙌
+
+https://t.co/OFwnSlqVun",,Australia,Thu Feb 11 20:10:12 +0000 2021
+1359959150843760641,neutral,1.2566397190093994,0.2661540508270264,-0.2270086258649826,Meanwhile in Australia https://t.co/Cc3R1S6LhF,,Australia,Thu Feb 11 20:15:03 +0000 2021
+1359959765057634304,neutral,1.6401414871215818,-0.264463871717453,1.5478780269622805,"If we’re going to do a 3-5 day snap lockdown, can we please do it now? Because I really don’t feel like doing another 112 day lockdown and I have little to no faith with this Government 🤷🏻‍♂️",,Australia,Thu Feb 11 20:17:29 +0000 2021
+1359961116609191938,positive,1.3081492185592651,4.419585704803467,-1.2474114894866943,I built this beautiful Telecaster style during lockdown November 2020 https://t.co/N8fN3OHkVT https://t.co/9QKcix0FMi,,Australia,Thu Feb 11 20:22:51 +0000 2021
+1359961202911158274,negative,0.21050667762756348,0.16855277121067047,0.3258369863033295,"OUTSTANDING 
+
+@Supermercado99 https://t.co/tzlhQJlaur",,Australia,Thu Feb 11 20:23:12 +0000 2021
+1359961250814255108,neutral,1.3566851615905762,-0.21309822797775269,1.0397289991378784,@mels_mck Hopefully it is only a short lock down to get this thing under control.,,Australia,Thu Feb 11 20:23:23 +0000 2021
+1359962546476752897,negative,1.0753340721130369,-0.7778578996658325,2.843074321746826,"@jemcook69 It all makes you wonder,  we now have a small cluster of 13 cases,  all the govts fault.  Talking about going i into lockdown again. We just submit every time.",,Australia,Thu Feb 11 20:28:32 +0000 2021
+1359963970187059204,negative,1.0236080884933472,-0.5810334086418152,1.95598304271698,"While everyone else is out panic buying toilet paper &amp; rice today 
+
+Me:⤵️
+
+#melbournelockdown https://t.co/O2f6o1Q6Fq",melbournelockdown,Australia,Thu Feb 11 20:34:12 +0000 2021
+1359966523830358017,negative,1.3010566234588623,-1.1924872398376465,2.9972608089447017,@andrewbogut @jasonsnakeblake And that is why Dan won’t have another lockdown plus the selfish grub knows it’s political suicide,,Australia,Thu Feb 11 20:44:20 +0000 2021
+1359969266326380546,neutral,1.4035903215408323,0.5764213800430298,-0.16096721589565274,@LukeDennehy There might be another lockdown!,,Australia,Thu Feb 11 20:55:14 +0000 2021
+1359969662524481539,negative,1.0287961959838867,0.4916694462299347,1.1902852058410645,@therusticwild @IThrewAShoe_ @CrisMDean @abcnews Agree. A WA/SA style lock down for a few days would be better than a full 3rd wave.,,Australia,Thu Feb 11 20:56:49 +0000 2021
+1359969685010141185,neutral,2.7938687801361084,1.0448331832885742,-0.05456208437681198,"#nswpol #auspol #LNPfail #qanda
+Nick following his boss #LiarFromTheShire #ScottyFromPhotoOps 
+
+#COVID19 #abc730 #TheDrum #Insiders #RNDrive #RNBreakfast #7News #9News #afternoonbriefing 
+
+cc @ama_media @amapresident https://t.co/urTJfpDTc9","nswpol, auspol, LNPfail, qanda, LiarFromTheShire, ScottyFromPhotoOps, COVID19, abc730, TheDrum, Insiders, RNDrive, RNBreakfast, 7News, 9News, afternoonbriefing",Australia,Thu Feb 11 20:56:54 +0000 2021
+1359969056342691845,neutral,1.6960129737854004,1.0720871686935425,1.1062825918197632,"If anyone’s keen I’ve got the first release of Pete Evans campaign merchandise. RRP $199. *Tin foil hat protects you from 5g, Coronavirus and cancel culture. https://t.co/aeJGH1t8sg",,Australia,Thu Feb 11 20:54:24 +0000 2021
+1359957147732242432,neutral,1.779884934425354,1.0803748369216921,0.38315287232398987,"Just to show how much quicker COVID is here, I’m travelling to a different state on Sunday and this is the restrictions I have to follow. Where I am going has had 1 case since March last year. https://t.co/rMk8iCQbuv",,Australia,Thu Feb 11 20:07:05 +0000 2021
+1359963622915465216,neutral,1.7756361961364746,1.597033143043518,-0.046429403126239784,"‘digital platforms could be rolled out to crowdsource policy ideas, to communicate key manifesto pledges, and to encourage democractic dialogue between Londoners and their ... leaders’ Covid an opportunity to put digital at the heart of democracy https://t.co/F8r4OwUWwd @cityam",,Australia,Thu Feb 11 20:32:49 +0000 2021
+1359965961927880706,neutral,1.7347418069839478,0.01663593947887421,0.9212087392807008,The blokes at the local are blowing up. The price of Telegraph has increased by 20c or 10%. Where is the justification for 10% increase during COVID when everybody’s income has stayed the same or fallen.,,Australia,Thu Feb 11 20:42:06 +0000 2021
+1359969027041288193,positive,1.2376781702041626,1.3272356986999512,0.5593464374542236,"So, Pete Evans has decided he’s going to stand for a seat in the Senate! I believe he’s going to give everyone who votes for him one of his Covid-curing blenders. Roll up peeps, we don’t have enough nutters in the Senate yet! 🙄🙄",,Australia,Thu Feb 11 20:54:17 +0000 2021
+1359969613539209216,neutral,2.5377628803253174,0.4431213736534119,0.044603604823350906,"Melbourne Airport cafe listed as exposure site, as Victoria works to tackle Holiday Inn outbreak https://t.co/BwGt09Wtz0",,Australia,Thu Feb 11 20:56:37 +0000 2021
+1359955573379272704,negative,1.3316373825073242,-1.178410530090332,3.4107792377471924,No say will I ever respect scientists until they stop blocking the evidence and denying the truth millions are sick and dying because of the Corona virus. A vaccine is not the answer. We need to.go to the root of the problem for the answer. Sahaja yoga meditation is the truth,,Australia,Thu Feb 11 20:00:50 +0000 2021
+1359963425028284417,negative,0.3389860689640045,-0.6187365651130676,2.5013859272003174,This phone is very hot because of never ending Telstra virus attack,,Australia,Thu Feb 11 20:32:02 +0000 2021
+1359964109815517184,negative,0.8158471584320068,0.1471983790397644,1.447776198387146,"@ktdenise It’s way too risky to keep.  We are an island, the virus is brought in by OS travelers. It doesn’t just appear!",,Australia,Thu Feb 11 20:34:45 +0000 2021
+1359971512875315202,negative,0.5682372450828552,0.14758583903312686,1.7909021377563477,Tempting. Ive been asking if anyone had cleat money trail prior to GBD. Hive mind and @GYamey how is it looking and what is present evidence???? Be a great pol econ book in corruption of science and science denial https://t.co/VFV3hyvOxM,,Australia,Thu Feb 11 21:04:10 +0000 2021
+1359971517698695169,negative,0.6770379543304443,-0.43700048327445984,2.6886281967163086,Lock it down! And then please learn from this hotel quarantine disaster! Enough stuff ups!#dobetter,dobetter,Australia,Thu Feb 11 21:04:11 +0000 2021
+1359973797340712960,negative,1.1974738836288452,-1.282715916633606,3.1850986480712886,"Notice Murdoch’s filth are trying to push the fear of another lockdown, all cases are from workers, guests and spouses of already infected, there’s no community transmission, media are stoking fear again but at the moment it’s under control #COVID19Vic",COVID19Vic,Australia,Thu Feb 11 21:13:15 +0000 2021
+1359975006055198721,neutral,1.7295242547988892,1.2814387083053589,0.2850381135940552,@KHriminology @DALupton In Birmingham? The pandemic is at a very different stage there than it is here in Sydney. Last year our students were much more anxious about the f2f options but the mood has lifted now,,Australia,Thu Feb 11 21:18:03 +0000 2021
+1359975460273225728,neutral,1.67538321018219,0.9424527287483216,-0.6348081827163696,“Gold standard.” https://t.co/YE5zr4lvKV,,Australia,Thu Feb 11 21:19:51 +0000 2021
+1359975688531419143,negative,1.0566726922988892,-0.388531893491745,1.3395087718963623,Will @AlboMP commit to ICAC #ClimateAction and #nororting https://t.co/Z2Apt3kerE,"ClimateAction, nororting",Australia,Thu Feb 11 21:20:45 +0000 2021
+1359975957507960832,positive,0.6461765170097351,2.5662431716918945,-0.2348272651433945,"Agree Greg, different this time. Things could change of course but for the moment so far so good. Fast action, very close monitoring. https://t.co/6i2DIfpxox",,Australia,Thu Feb 11 21:21:50 +0000 2021
+1359978502695526402,negative,1.3079825639724731,-0.7921996712684631,2.3585500717163086,@Kmac07 @VicGovDH These outbreak has nothing to do with tennis its UK variant that is airborne &amp; surgical masks aren't enough to stop transmission. If all staff were wearing n95 masks regardless of direct contact with guests it would not have spread.,,Australia,Thu Feb 11 21:31:56 +0000 2021
+1359978825552068608,negative,0.1371225267648697,-0.3690418004989624,2.1708085536956787,Fuck you Covid #COVID,COVID,Australia,Thu Feb 11 21:33:13 +0000 2021
+1359980564355293186,negative,0.7856420278549194,0.4797704815864563,1.687079906463623,Chances of me moving to Perth next week are getting slimmer and slimmer at this point. FFS! 😭 https://t.co/NesTABsHyq,,Australia,Thu Feb 11 21:40:08 +0000 2021
+1359981519167623169,negative,1.7391393184661863,0.3383429050445557,1.958950400352478,"Free live entertainment from 6pm by ""Me &amp; Jodie Lee"" . Bookings essential by calling the club and remember to observe social distancing. You need to sign in using QR code. Staff can assist  if needed. If your sick stay home. For all club information go to https://t.co/FvQx3dwYsl",,Australia,Thu Feb 11 21:43:56 +0000 2021
+1359981532358713344,negative,0.3981384038925171,-0.7406966686248779,3.063071727752685,Finally someone else points out how #morrisons behaviour is well entrenched and toxic #DV #misogyny #perpetrator  letters not forget his best friends protects #pedophile #hillsong https://t.co/Lbh4nKoTYi,"morrisons, DV, misogyny, perpetrator, pedophile, hillsong",Australia,Thu Feb 11 21:43:59 +0000 2021
+1359981587702505473,negative,1.1946035623550415,-1.0180771350860596,3.0257725715637207,"Louder for the ignorant:
+
+All have been reported already. These aren't new on top of the 5 reported since yesterday's tweet.
+
+✅ all linked 
+✅ all directly linked to Hol Inn cluster (worker or primary close contact)
+✅ all isolated
+
+There is still no known community transmission https://t.co/RchfXvUZf6",,Australia,Thu Feb 11 21:44:12 +0000 2021
+1359981837418860545,positive,0.6817322373390198,1.984921932220459,0.30621862411499023,Eek 5. We've got this! https://t.co/ekYJs6pI1D,,Australia,Thu Feb 11 21:45:11 +0000 2021
+1359982774522814464,positive,1.1318620443344116,1.2410311698913574,0.36474463343620295,"Surely it should be the #YearOfThePangolin
+A gift that keeps on giving 🤔
+#COVID19
+
+#YearOfTheOx","YearOfThePangolin, COVID19, YearOfTheOx",Australia,Thu Feb 11 21:48:55 +0000 2021
+1359982900154753024,neutral,1.5571725368499756,0.644298255443573,-0.6034871339797974,Latest from .@VicGovDH 👇🏼 https://t.co/hqfcixundi,,Australia,Thu Feb 11 21:49:25 +0000 2021
+1359983716773187584,negative,1.3523306846618652,-0.7801395058631897,2.387018203735352,"@J0n_Irenicus @blu_boys @VicGovDH Pandemic? What you talking about . Nobody in hospital for 5 months , no deaths for 5 months , hardly a pandemic in Victoria. Suggest you wear 5 masks, 2 Condoms and a nappy #goose",goose,Australia,Thu Feb 11 21:52:40 +0000 2021
+1359984195443986442,positive,0.616438627243042,1.059562921524048,0.7813344001770021,Rex will Refund you and not give you a credit! https://t.co/5rNAfhruA7,,Australia,Thu Feb 11 21:54:34 +0000 2021
+1359984663935111169,negative,1.5449661016464231,-0.5431821942329407,1.8285491466522217,"5 new locally acquired cases 
+
+0 cases acquired interstate 
+
+0 cases acquired overseas 
+
+19 active cases
+
+24,209 test results received 
+
+73 days of zero lives lost 
+
+#COVIDー19 #COVID19Vic","COVIDー19, COVID19Vic",Australia,Thu Feb 11 21:56:25 +0000 2021
+1359985034216624128,negative,1.2966530323028564,0.11204905062913896,1.6069645881652832,Rumour is we’re about to go into a short term lockdown..... looks I’ll won’t be able to do anything on Valentines Day 🙃,,Australia,Thu Feb 11 21:57:54 +0000 2021
+1359985215066656771,negative,0.840083658695221,-1.1249754428863523,3.782325983047485,"I am not against a short lockdown, there a many options available to us. Whatever gets this under control but fuck the media who are trying to scare us. You are absolute trash. 
+
+Looking at @theheraldsun @SkyNewsAust et al. 🗑",,Australia,Thu Feb 11 21:58:37 +0000 2021
+1359985528406298624,negative,0.5539804100990295,-1.1636935472488403,3.943870306015015,"@blu_boys @VicGovDH Jfc there’s a global pandemic and you’re crying about 5 new Covid cases when other places in the world have 1000 deaths a day? 
+You’re making Australians sound like a bunch of whiny losers",,Australia,Thu Feb 11 21:59:51 +0000 2021
+1359971591061270538,negative,0.4888932406902313,-0.3619368374347687,3.7957565784454346,"Thanks a bunch @DanielAndrewsMP you are ""again"" responsible! You just don't have a clue of what you're doing! Absolutely incompetent!  https://t.co/DOqOVyG5wC",,Australia,Thu Feb 11 21:04:29 +0000 2021
+1359980636027555840,positive,0.7481378316879272,1.9325748682022093,-0.06680022180080414,These five coronavirus cases have already been announced. Very strong testing numbers. There are now 19 active cases. @10NewsFirstMelb #COVID19 https://t.co/VCYGHOv2q6,COVID19,Australia,Thu Feb 11 21:40:25 +0000 2021
+1359973601143791617,neutral,1.2870861291885376,-0.16221240162849426,1.1314647197723389,A vaccine might help SARS-COV2 to become endemic more quickly Immunological characteristics govern the transition of COVID-19 to endemicity https://t.co/wVdWu6IwwL,,Australia,Thu Feb 11 21:12:28 +0000 2021
+1359980183697068032,neutral,2.5377626419067383,0.4431212544441223,0.04460367932915688,"Melbourne Airport cafe listed as exposure site, as Victoria works to tackle Holiday Inn outbreak
+https://t.co/dqfA1kqeab",,Australia,Thu Feb 11 21:38:37 +0000 2021
+1359981186362142722,neutral,1.7698276042938232,0.2032153159379959,0.5031755566596985,"Women were let go in greater numbers during COVID, now they face being offered lower-paid roles to return to work
+https://t.co/NkSAbgxdvv",,Australia,Thu Feb 11 21:42:36 +0000 2021
+1359984900837789696,negative,0.5553569793701172,-0.7510280013084412,3.2692108154296875,@theage Oh no not the healthy smilers and in our toxic covid years ... sad betta go to the tennis barrack for vegymite and the no6 at aflW Demons as they make statements worth following for 2021 and aldis blue fridge bags do keep the 40% dark 200gm block intact and the75% snags cheesbega,,Australia,Thu Feb 11 21:57:22 +0000 2021
+1359974167840346112,neutral,1.5302720069885254,-0.04135865718126297,0.8418501615524292,@benschneiders @JamieLeftPeg Genuine questions that I haven't seen answered. Was Brunetti's at T4 keeping good QR records? Was the staff member wearing a mask?,,Australia,Thu Feb 11 21:14:43 +0000 2021
+1359978482701193219,neutral,2.4364633560180664,-0.3374665677547455,0.6928134560585022,@SabraLane @Glaven1994 Can we confirm: Was the Brunetti's at T4 doing QR check-ins? Was the staff member wearing a mask?,,Australia,Thu Feb 11 21:31:52 +0000 2021
+1359970718297903108,negative,1.9732587337493896,-0.8039760589599609,2.0944936275482178,"No
+Sassy can someone tell me why Are these So called Hillsong Members like the PM and Stuart Robert MP getting the Vaccine before the rest of us 
+Hillsong has been against the Vaccine because the blood 🩸🩸of Christ will save them So l gather the PM will say no to the Vaccine https://t.co/FrfhN2wmf2",,Australia,Thu Feb 11 21:01:00 +0000 2021
+1359978022577729537,neutral,1.3978866338729858,0.4665222465991974,0.4806302785873413,🇦🇺🇦🇺Biden to announce his administration has secured 200 million additional vaccine lllldoses promised last month ⁦⁦@washingtonpost⁩ ⁦@JoeBiden⁩ ⁦@KimMHooper⁩  https://t.co/TsnHTsWEwo,,Australia,Thu Feb 11 21:30:02 +0000 2021
+1359980447283904513,neutral,1.609774470329285,0.05372421443462372,1.0492473840713499,@Tinoladobo Putting all the eggs in the vaccine basket isn't the way either - they say at least 70% of the population needs to be vaccinated to start achieving herd immunity,,Australia,Thu Feb 11 21:39:40 +0000 2021
+1359980533325783043,positive,0.8260878920555115,2.02754020690918,0.22020921111106875,@sirfrasersays Thank you. It wasn't intentional but worked out it seems. I hope also your second vaccine dose arrives soon. We can't wait for the roll-out to start here in Australia but still couple of weeks away until the first ones arrive.,,Australia,Thu Feb 11 21:40:01 +0000 2021
+1359981547412025348,negative,0.8516343235969543,0.13334298133850098,2.308969259262085,"I can’t be arsed trawling through opinion pieces and guesswork...can someone just lay it out for me.
+
+Wife &amp; I are flying to the GC (from Melb) next Saturday, then heading into Nrthn NSW.
+
+Should we keep packing, or are we in strife? 
+This virus can once again EAD!
+
+#COVID19Vic",COVID19Vic,Australia,Thu Feb 11 21:44:02 +0000 2021
+1359987033008050179,negative,0.805460512638092,0.7679324746131897,0.8205138444900513,"Oh dear god no! His opinions weren’t welcomed in the restaurant industry, the medical industry and I’m sure as heck sure they won’t be welcomed in the political arena either 🤦🏼‍♀️ https://t.co/nfWiR5XUae",,Australia,Thu Feb 11 22:05:50 +0000 2021
+1359988355979649025,positive,0.09802854061126708,2.131786823272705,-0.21405750513076785,Good. https://t.co/lufIGKcy4Z,,Australia,Thu Feb 11 22:11:06 +0000 2021
+1359988375151759361,negative,1.583341360092163,-1.0333589315414429,2.0952398777008057,"Yeah this should've been mentioned first. 20 minutes of unnecessary panic and for some reason, confused reporters https://t.co/QiGBnykqtw",,Australia,Thu Feb 11 22:11:10 +0000 2021
+1359989934791086082,neutral,2.286989688873291,0.4541617929935455,-0.4018121063709259,Holiday Inn outbreak remains at 13 @TheTodayShow https://t.co/2BwrvENBiA,,Australia,Thu Feb 11 22:17:22 +0000 2021
+1359990522853560321,neutral,1.6865904331207275,1.4860520362854004,-0.015048364177346231,"30% of WA tourism businesses still on JobKeeper and a $4 Billion dollar fall in tourism. 
+Everyone says, “but Tourism is doing so well” 
+That’s exactly what he wants you to think. https://t.co/LhG116gmsd",,Australia,Thu Feb 11 22:19:42 +0000 2021
+1359991752476692481,neutral,1.7700669765472412,-0.07954465597867966,0.1321846842765808,@samanthamaiden @3AW693 Can we lock him down?,,Australia,Thu Feb 11 22:24:35 +0000 2021
+1359991844629696514,positive,1.4592328071594238,2.8386828899383545,0.3583839535713196,"So bummed 😭😭😭 the hours spent rewatching the first 6 seasons in 2020. 
+Thanks for getting me through Melbourne Lockdown 2.0 https://t.co/H9jGGN7rVq https://t.co/9537jfLQGY",,Australia,Thu Feb 11 22:24:57 +0000 2021
+1359993249432182785,negative,1.134271264076233,0.33284303545951843,1.1529773473739624,"Hugely important work on behalf of us all. We must not allow our neighbors to be left behind on vaccines, Oz government doing well here. @CentreHealthSec @MarisePayne https://t.co/Nznjcfct0Z",,Australia,Thu Feb 11 22:30:32 +0000 2021
+1359993995946909698,negative,1.2898901700973509,-0.5096552371978761,1.883445382118225,"I'm afraid of going into lockdown again because Victoria cannot afford to and we've sacrificed so much to get where we are, even with a few bumps here and there.",,Australia,Thu Feb 11 22:33:30 +0000 2021
+1359994312403034113,negative,0.8506678342819214,-0.09089063853025436,1.8704227209091189,"Petra Kvitová: There is a lot of hardship going on in the world right now, and a lost tennis match isn't one of them #COVID19 #AusOpen https://t.co/OW9E5IxV1u","COVID19, AusOpen",Australia,Thu Feb 11 22:34:46 +0000 2021
+1359994962180403200,negative,1.1119563579559326,-0.14393490552902222,1.3645957708358765,"I DARE the government to put us in a snap lock down. No, No, I double dare you. I’ll do it first 🤬",,Australia,Thu Feb 11 22:37:21 +0000 2021
+1359996575955570689,negative,0.2342323660850525,0.15129415690898895,2.413074493408203,"(Bloody Nora) - this is how you unpack a troll!!
+😄 https://t.co/VboGNmsr4i",,Australia,Thu Feb 11 22:43:45 +0000 2021
+1359999445593595904,negative,1.154544234275818,-0.21642237901687625,1.2516292333602903,@PKpies @PieNorthern They did indeed. Maybe the RSL are thinking for the older soldiers who would be most at risk of Covid-19,,Australia,Thu Feb 11 22:55:10 +0000 2021
+1359995540172230656,negative,1.699925661087036,-0.5113068222999573,2.150864839553833,"@murpharoo It is imperative that quarantine is moved out of city hotels. Looking at the rest of the world, this virus is not going away any time soon, and there may be others. @Albo and @Bowenchris  shiuld have a policy of quarantine in facilities for that purpose only, in rural locations",,Australia,Thu Feb 11 22:39:38 +0000 2021
+1360001161114255360,neutral,1.3430196046829224,0.8201793432235718,0.6995661854743958,"If we‘re going to end up back in lockdown, I’d prefer we do it soon and fast. Better to be clawing back from 20 cases than 200. The lockdowns have been hard, but I’d prefer a week or two than another 100 days. #COVID19Vic",COVID19Vic,Australia,Thu Feb 11 23:01:59 +0000 2021
+1360002002147713028,negative,0.8947919607162476,0.7426519393920898,1.3170326948165894,"Look at all the COVID precautions everyone has had to take because no one is vaccinated in an indoor event with more than two thousand people! This is Townsville, Australia for you. Paranoid as. https://t.co/ypTIxDfudY",,Australia,Thu Feb 11 23:05:19 +0000 2021
+1360002266946621440,neutral,1.1837315559387207,0.33257707953453064,0.8153263330459595,Scary :O looks like we might go to lockdown? https://t.co/Ke0YMjr5gV,,Australia,Thu Feb 11 23:06:22 +0000 2021
+1360002503761219584,neutral,1.9746267795562744,-0.2294145226478577,0.1600581854581833,"AFLW ticket sales on hold, impending lockdown?",,Australia,Thu Feb 11 23:07:19 +0000 2021
+1360003374192545792,neutral,1.507074952125549,0.2035171240568161,0.7206975817680359,Cherry Valentine working hard over the lockdown period. 😂👏🏽 https://t.co/TiBW2QPCUu,,Australia,Thu Feb 11 23:10:46 +0000 2021
+1360003479486427136,neutral,1.3740609884262085,0.15324196219444275,0.5301194787025452,Significant news for #pregnant women contemplating #COVIDVaccination https://t.co/wr6T9TfOLh,"pregnant, COVIDVaccination",Australia,Thu Feb 11 23:11:11 +0000 2021
+1360004546370490371,positive,0.9804686307907104,1.8673933744430544,0.2859366834163666,"Love this part of Melbourne. Got to do plenty of laps during #COVID19Vic lockdown.
+
+Far better than the back streets of Brighton aye Karen 😂 https://t.co/D7SHB22UIn",COVID19Vic,Australia,Thu Feb 11 23:15:26 +0000 2021
+1360011306540036097,neutral,2.019357919692993,1.5998669862747192,0.05809559300541878,"@tigertuffmark @DanielAndrewsMP announcement has just been written for him “ you must wear 3 masks , 2 condoms and one nappy ( for the bedwetters )  Gold Star ⭐️ #Covid19VicData #CovidVic #WearAMask 🤦‍♂️😂","Covid19VicData, CovidVic, WearAMask",Australia,Thu Feb 11 23:42:17 +0000 2021
+1360011613454049283,negative,1.046782612800598,-0.29619988799095154,1.4310312271118164,"@samanthamaiden @3AW693 Oh FFS, if there is a lockdown they’ll be notified like the previous occasions.",,Australia,Thu Feb 11 23:43:31 +0000 2021
+1360012331753721857,negative,1.3795150518417358,-1.003962516784668,2.716115713119507,"What's worse - waiting on the call to #lockdown again, or the actual lockdown?",lockdown,Australia,Thu Feb 11 23:46:22 +0000 2021
+1360012845530841089,neutral,1.4261057376861572,0.6048112511634827,1.375554084777832,Booked flights home for the first time in 2 years and they gonna LOCK IT DOWN FML,,Australia,Thu Feb 11 23:48:24 +0000 2021
+1360013048681881600,neutral,2.495212316513061,1.1263930797576904,-0.5852742195129395,😡😡😡😡 here we go...to third lockdown 😡😡😡😡 https://t.co/7PNCU746ov,,Australia,Thu Feb 11 23:49:13 +0000 2021
+1360013184644513793,neutral,2.0250468254089355,1.3255667686462402,-0.6446750164031982,@COVID_Australia I can see another lockdown coming for Melbourne,,Australia,Thu Feb 11 23:49:45 +0000 2021
+1360013558377943046,negative,1.2227041721343994,0.9276890754699708,2.1901538372039795,The pandemic has given us a good look-see at some of Australia’s crap hotels. Would you go on holiday and stay at the Holiday Inn at an Tullamarine? Would a Chancellor travel to Brisbane and stay at the Grand Chancellor?,,Australia,Thu Feb 11 23:51:14 +0000 2021
+1360014806481129473,negative,0.3844528496265411,-0.567347526550293,1.598241090774536,Fight was cursed 🤧😪 https://t.co/J5Xv99bkbf,,Australia,Thu Feb 11 23:56:12 +0000 2021
+1360014973884243968,negative,1.7610101699829102,-1.051746487617493,2.119181632995605,I don’t disagree on a 5 day lockdown.... But I ask why does hotel quarantine continue to be mismanaged in our State 🤦🏻‍♂️😔,,Australia,Thu Feb 11 23:56:52 +0000 2021
+1360015219561402368,neutral,2.102956295013428,-0.5315951704978943,0.930054008960724,So what’s the likelihood of Melbourne having another lockdown? #covidthirdwave,covidthirdwave,Australia,Thu Feb 11 23:57:50 +0000 2021
+1360002860184870915,negative,1.2686666250228882,-0.6783382892608643,2.3835134506225586,"The media keeps inflicting fears. We had 10 local cases in January 2 but our state didn't go into lockdown to overcome the black rock cluster. Today, we only have 5 cases. I don't see a reason why we should be on lockdown.
+#coronavirus #covid19 #chinavirus https://t.co/KFozUPyChB","coronavirus, covid19, chinavirus",Australia,Thu Feb 11 23:08:44 +0000 2021
+1360015508678926340,neutral,2.1686904430389404,0.2760443985462189,0.2034701108932495,Australia's locally-made coronavirus vaccine to begin bottling from next week https://t.co/7ldfxWS4pQ,,Australia,Thu Feb 11 23:58:59 +0000 2021
+1360014140073410563,negative,0.5702559947967529,0.2807885408401489,2.240964651107788,"I was going to go to the zoo seeing as it's my last day in Melbourne... But no one is wearing a mask.
+
+So actually fuck this.",,Australia,Thu Feb 11 23:53:33 +0000 2021
+1360000679289389060,negative,1.3329209089279177,-0.3887037932872772,1.369177222251892,"The name of this vaccine doesn’t indicate success. After you have its spelling inside your head, try to pronounce it. https://t.co/S3Nsxbjjpq",,Australia,Thu Feb 11 23:00:04 +0000 2021
+1360004167448686592,negative,1.6439614295959473,-1.2117024660110474,2.8564083576202397,Why not just do as the pm says and lockdown hot spots Total lockdown is not needed Andrews has no idea how to control the virus and only has clowns running the program,,Australia,Thu Feb 11 23:13:55 +0000 2021
+1360166903000408064,negative,0.4798348546028137,-0.19499948620796204,1.9183385372161863,Ur mum is a shit cook if she at shops panic buying #demonestv,demonestv,Australia,Fri Feb 12 10:00:35 +0000 2021
+1360167329124937738,neutral,1.5622272491455078,0.25448596477508545,1.1566369533538818,Victorian government. Why haven't we got the vaccine?  I know its not 100% immunity but its 100% more than we have now. Its was your job Dan Andrews as you are our voice in Vic to demand the Federal government to get our supply of the vaccine before now. https://t.co/5ROseYBUGb,,Australia,Fri Feb 12 10:02:16 +0000 2021
+1360167420225224708,negative,1.1190214157104492,-0.3571203947067261,1.7974301576614382,this better not last more than 5 days cos my girl’s already raided the liquor cabinet n blasted driver’s license 6 times when the lockdown doesn’t start for another 3 hours,,Australia,Fri Feb 12 10:02:38 +0000 2021
+1360168070203858953,neutral,2.3102972507476807,-1.108635187149048,2.1076202392578125,WHAT IS GOING ON??? contradictory advice from @abcnews and @australian on whether Victorians who just arrived in Sydney have to go into lockdown for 5 days?? @NSWHealth what is the situation??,,Australia,Fri Feb 12 10:05:13 +0000 2021
+1360168357685821441,positive,0.9997891187667848,1.91146457195282,0.9630411863327026,"Getting a workout in before the 5 day stage 4 hardcore lockdown starts.
+
+Can't stop the fit goals! @ Star Fitness https://t.co/U2Yuk46hKn",,Australia,Fri Feb 12 10:06:21 +0000 2021
+1360168445476704259,neutral,1.130723476409912,0.7220627069473267,0.7506837844848633,"So tennis fine (it’s a job), WAFL fine (it’s a job) cycling nah not a job  - it’s not like loads of spectators even come out to see it whizz past them. https://t.co/UNimsxSLe6",,Australia,Fri Feb 12 10:06:42 +0000 2021
+1360168588259151874,neutral,1.453348159790039,1.062479853630066,0.6218324303627014,"Without this type of initiative we will continue to see this issue over and over again. Want to bring Aussies home, they have to go to a national lockdown facility! https://t.co/v7cFvsiYxB",,Australia,Fri Feb 12 10:07:16 +0000 2021
+1360168734271262721,negative,1.66340172290802,-0.4440724551677704,1.7974679470062256,"Someone said to me today that Dan's thrown us into lockdown just to pass the state of emergency extension bill on Thursday.
+
+...methinks someone is a bit too obsessed with conspiracies.
+Also, Vic is the only state with limitations on length of state of emergencies.",,Australia,Fri Feb 12 10:07:51 +0000 2021
+1360168914307567620,positive,0.5788217782974243,4.375430107116698,-0.5625783801078796,"Let’s be honest, Nick’s just being considerate because it’s the last night before lockdown. 
+
+4 sets is good. Drama is good. Nick is very good. 
+
+#Kyrgios #AusOpen #AO2021","Kyrgios, AusOpen, AO2021",Australia,Fri Feb 12 10:08:34 +0000 2021
+1360169104615776257,negative,1.4570807218551636,-0.5390316247940063,1.691712498664856,@DAVEWILLISON1 Unemployment ended up higher at the end of his tenure than what is was before he started...and his pandemic management cost way too many lives. Cost him his tenure the latter,,Australia,Fri Feb 12 10:09:19 +0000 2021
+1360169226221223937,negative,0.6993498802185059,-1.4623453617095947,4.661972999572754,Well said... where the bloody hell are you Morriscum? Step up and do your job you waste of tax payer dollars https://t.co/nJkN4cbiGm,,Australia,Fri Feb 12 10:09:48 +0000 2021
+1360170175564193794,negative,1.321497082710266,-0.027656063437461853,1.7009122371673584,Sound advice from my friend Ian. Think of our fellow people who are in the same situation.. . https://t.co/QmYM9QgIGq,,Australia,Fri Feb 12 10:13:35 +0000 2021
+1360170189032099846,negative,0.5574821829795837,0.5993680357933044,1.353210687637329,"I do apologise for the negativity on my timeline today. I do try and love to have a laugh, but today’s lockdown announcement made it a bit hard..... anyway. Go Kyrgios 🎾",,Australia,Fri Feb 12 10:13:38 +0000 2021
+1360171150945386496,neutral,1.3759377002716064,0.19430531561374664,1.1666138172149658,@cligeey heh min therz a wifie nae farr fae yi thinks yer on twitter aa the time - i said nivver - my office earlier as I escaped snap lockdown in Victoria https://t.co/h4OQx70KuT,,Australia,Fri Feb 12 10:17:27 +0000 2021
+1360171176115326977,negative,1.5981967449188232,-0.5547176599502563,1.8476700782775881,"@FootyRhino @freodockers @WestCoastEagles @7NewsPerth How do they keep training in groups of ten in a lock down , WA couldn’t do that they could train for one hour with one other person ?",,Australia,Fri Feb 12 10:17:33 +0000 2021
+1360173344499191810,positive,0.9461712837219238,3.54584002494812,-0.5403803586959839,"@chrislangmead 😱 congratulations!! Lockdown babies will have an amazing story to tell when they’re older! 
+
+I do often say my Methamphetamine trial is my baby 😭... but more like one that refuses to leave the nest",,Australia,Fri Feb 12 10:26:10 +0000 2021
+1360173555867029504,positive,1.4337270259857178,2.873993396759033,0.13564009964466095,"The @AustraliaSikh’s never fail to step up, sacrifice &amp; help in times of need
+Our community’s are so blessed to have you here - thank-you 👍💜 https://t.co/msSNCsLa39",,Australia,Fri Feb 12 10:27:01 +0000 2021
+1360173564935081984,neutral,1.5503093004226685,0.7602005004882812,0.13353270292282104,Lockdown Five Day Start Tonight 11.59 12Feb 2021 https://t.co/Ik2DFx4vTb,,Australia,Fri Feb 12 10:27:03 +0000 2021
+1360173823597842435,negative,0.7896504402160645,-1.1615875959396362,3.649087190628052,"@Tba122 HQ woeful. Lockdown unfortunately necessary. ScoMo needs to give the PR stunts a rest, get off his arse and do some fucking work by owning a national HQ approach.",,Australia,Fri Feb 12 10:28:05 +0000 2021
+1360173950366437376,neutral,1.2093786001205444,0.1681206077337265,0.9168383479118348,Hughesy having a second attempt of a top shelf cancelation😂 Go Hughsey🤟🏻 https://t.co/TBpfmJos8d,,Australia,Fri Feb 12 10:28:35 +0000 2021
+1360174366651273217,positive,2.326307773590088,3.447455406188965,-0.7757349610328674,The atmosphere is like a final as we enjoy our final live tennis @k1ngkyrg1os  and @domithiem battle before lockdown #ausopen @ John Cain Arena https://t.co/1WgcQwm9lh,ausopen,Australia,Fri Feb 12 10:30:14 +0000 2021
+1360174518946254850,negative,0.9607721567153932,-0.9322980046272278,2.27531099319458,"Could be worse, could be facing 5 days lockdown..🤦‍♂️ https://t.co/VVTFzz5GVj https://t.co/wI3S46d7El",,Australia,Fri Feb 12 10:30:50 +0000 2021
+1360175463167979521,positive,2.563075065612793,2.7882776260375977,-1.0726594924926758,"Friday sunset before lockdown! 
+#Geelong #photography #NOFILTER #sunset #sunsetphotography #VicWeather https://t.co/EpWle6rkpV","Geelong, photography, NOFILTER, sunset, sunsetphotography, VicWeather",Australia,Fri Feb 12 10:34:35 +0000 2021
+1360176314582327298,positive,0.32089874148368835,2.1346380710601807,0.10290825366973876,And wait ... and wait ... #WheresTheVaccine #ScottyDoesNothing https://t.co/tuf9VT0ZrY,"WheresTheVaccine, ScottyDoesNothing",Australia,Fri Feb 12 10:37:58 +0000 2021
+1360176469226364937,positive,1.5733499526977541,2.986304521560669,-0.535359799861908,I'm baked and got Ben &amp; Jerrys to nom and @ClariceCBS to watch. Come at me lockdown! #CovidVic https://t.co/UFMpNtHS70,CovidVic,Australia,Fri Feb 12 10:38:35 +0000 2021
+1360176676991160327,neutral,0.9517593383789062,-0.04224885255098343,0.4307535588741303,@kaayleeeee The lockdown is riciulous,,Australia,Fri Feb 12 10:39:25 +0000 2021
+1360176805429137414,negative,0.12988130748271942,-0.5207476019859314,1.90173602104187,Abso-bloody-lutely https://t.co/i27nVIqB6K,,Australia,Fri Feb 12 10:39:55 +0000 2021
+1360177787487752196,neutral,1.7059093713760376,0.6833049654960632,-0.4308121502399445,Last night of freedom #lockdown,lockdown,Australia,Fri Feb 12 10:43:50 +0000 2021
+1360177787995189250,neutral,1.8637449741363523,0.0012527257204055786,0.5397098064422607,Yikes. When will the roller coaster end? https://t.co/9a6OQBJei6,,Australia,Fri Feb 12 10:43:50 +0000 2021
+1360177902545870848,positive,0.6394023895263672,3.4515082836151123,-0.0350361093878746,"Wow, I got a new lockdown for my birthday! Melbourne you really shouldn’t have! I would’ve just settled for a gift voucher!",,Australia,Fri Feb 12 10:44:17 +0000 2021
+1360178007516663808,negative,0.1539296954870224,-0.425249308347702,1.8293704986572263,Racism is a pandemic too. https://t.co/wCfNlkSrlq,,Australia,Fri Feb 12 10:44:42 +0000 2021
+1360178875800510522,neutral,1.4318090677261353,0.08611998707056047,1.2022536993026731,Just found a spare Xmas pudding in the freezer.... that is lockdown 3 sorted.... #COVID19Vic #custardorbrandycream,"COVID19Vic, custardorbrandycream",Australia,Fri Feb 12 10:48:09 +0000 2021
+1360179483500707840,negative,0.459395706653595,0.4277892708778381,2.602142572402954,@lennyp23 @craighutchy @OffTheBenchTeam just discovered the Buchan Cup has been cancelled due to lockdown!! I’m not Buchan happy boys!!!,,Australia,Fri Feb 12 10:50:34 +0000 2021
+1360180468289703938,neutral,2.0254061222076416,-0.5109946727752686,0.9072046279907228,Australian Open to continue as snap lockdown imposed on Melbourne - https://t.co/5bNWpNLvHs via @FT,,Australia,Fri Feb 12 10:54:29 +0000 2021
+1360180950814973955,positive,2.2988762855529785,3.8653676509857178,-0.8659763932228088,Given that this week’s #aussieED chat (the first for 2021) is all about love 💕 it is timely to send love to my brother and sister educators in Melbourne. Here is hoping it is a short/safe lockdown https://t.co/OR7pduZ4ys,aussieED,Australia,Fri Feb 12 10:56:24 +0000 2021
+1360181163755638788,negative,1.1774768829345703,-0.07656767219305037,1.827634334564209,"In a city about to go into a snap lockdown, 30,000 people congregate together to watch a man have a tantrum. This is so surreal. Is it just me? #ausopen",ausopen,Australia,Fri Feb 12 10:57:15 +0000 2021
+1360166960839888897,negative,0.9605689644813538,-0.8706856369972229,1.9242451190948489,@TheKouk And neither is NZ. And we don't have rampant Covid-19.,,Australia,Fri Feb 12 10:00:48 +0000 2021
+1360167607177867269,positive,1.6558574438095093,4.698880672454834,-1.2873506546020508,"@AndreShapps Ha. Indeed. We’re very lucky. Walk out the back door and see kangaroos, echidnas...and snakes. You’ll have to all visit post COVID: you’d love it!",,Australia,Fri Feb 12 10:03:22 +0000 2021
+1360168048804569090,neutral,2.8152825832366943,0.9657630324363708,-0.6396122574806213,Understanding the Covid-19 Vaccine: In Conversation with Tobi Oredein &amp; Dr. Zoe Williams https://t.co/l3Fyq1IPVk via @Blackballaduk,,Australia,Fri Feb 12 10:05:08 +0000 2021
+1360168540205064193,negative,1.4580914974212646,0.0014621615409851074,1.696324586868286,"How big of a fan of @joelcreasey am I? I've had tickets to his Perth show since start of 2020. Been rescheduled since due to COVID restrictions to August 2021, which is a couple of weeks before my due date, but I still plan to go. Warning: I may go into labour mid-laugh...",,Australia,Fri Feb 12 10:07:05 +0000 2021
+1360169664324636679,negative,0.6015087366104126,-0.2212834060192108,2.0273122787475586,@ the universe i know i’m a bitch but that doesn’t mean i deserve covid so pls let me result be negative,,Australia,Fri Feb 12 10:11:33 +0000 2021
+1360174528857477123,positive,1.0927163362503052,1.358268976211548,0.5675981640815735,"@DThomas_39 Goal posts have shifted! New strain highly contagious! Like changing AFL rules half way through the season, we must adapt! My thoughts are “no vaccine-no trip home” #covid",covid,Australia,Fri Feb 12 10:30:53 +0000 2021
+1360175991482511364,positive,1.3680486679077148,1.4752043485641482,0.1817362755537033,"Also, a five day lockdown sounds like bliss. Since I’ve been commuting to work every single day throughout covid",,Australia,Fri Feb 12 10:36:41 +0000 2021
+1360177848250605570,positive,0.8756937384605408,1.419846773147583,0.6639120578765869,"Crowds one day, empty the next - and after a handful of covid cases. 
+The overseas audiences watching #AusOpen must be scratching their heads... especially those in countries with thousands of cases every day. We’re still doing ok!",AusOpen,Australia,Fri Feb 12 10:44:04 +0000 2021
+1360181305049161735,negative,1.5322312116622925,-1.2739198207855225,2.916843175888061,"@DrEricDing The zero Covid approach, which isn't feasible would be for a start to fix the reason for the lockdown.
+
+A lockdown will not solve hotel quarantine failures.",,Australia,Fri Feb 12 10:57:48 +0000 2021
+1360170248830259201,positive,0.7734156250953674,0.940738320350647,0.6843774318695068,"@StevePriceMedia @constan10101 Kyrios' dickhead brother has a mask on, which is a good thing as it improves his looks.  Move back to Sydney Steve and you won't have anything to whinge about",,Australia,Fri Feb 12 10:13:52 +0000 2021
+1360178073614700544,negative,0.6913337111473083,-0.22054356336593628,2.7506582736968994,Just found out my 76 year old dad and his partner have had their 1st vaccine jabs and have the appointments for the 2nd ones. You’ve no fucking idea how big a relief that is to hear.,,Australia,Fri Feb 12 10:44:58 +0000 2021
+1360178757768601604,neutral,1.9704689979553225,-0.9736053943634032,1.9159102439880369,@BenHopkinsAus @na_mor0 If the EU only approved the vaccine for export yesterday then why has the USA vaccinated millions of people? And the UK?,,Australia,Fri Feb 12 10:47:41 +0000 2021
+1360168072380751872,negative,0.772731602191925,-0.6091439723968506,2.956105709075928,"@RandaltsRandal “A proportionate response” @billbowtell says this is just another way of saying “to live alongside the virus” our dithering, dirty, disingenuous dunce of a PM is always playing with words..#AuspolSoCorrupt #ScottyDoesNothing #ScottyFromPhotoOps","AuspolSoCorrupt, ScottyDoesNothing, ScottyFromPhotoOps",Australia,Fri Feb 12 10:05:13 +0000 2021
+1360168195538100224,negative,1.1598565578460691,-0.9398720264434814,2.4352037906646733,@DrEricLevi Unfortunately he's deflecting blame onto the virus.,,Australia,Fri Feb 12 10:05:43 +0000 2021
+1360169408098836482,negative,1.5407822132110596,-0.523059070110321,2.034496307373047,@abcsport @AustralianOpen Yes be home before the deadly virus which doesn’t discriminate arrives at the tennis centre at 11.59pm #COVID19Vic  #ResignDanielAndrews,"COVID19Vic, ResignDanielAndrews",Australia,Fri Feb 12 10:10:32 +0000 2021
+1360174605982265348,neutral,1.117370843887329,0.8767591714859009,0.4509669244289398,In 2.5 hours hours the magic virus will come and crush everyone...except the players. Because it knows. https://t.co/WtBeKJpQod,,Australia,Fri Feb 12 10:31:11 +0000 2021
+1360177052565991427,negative,1.1352910995483398,-1.1104296445846558,2.346970796585083,"@BomberRicko What a joke mate
+But our govt won't admit fault
+Just keep calling it a wicked virus",,Australia,Fri Feb 12 10:40:54 +0000 2021
+1360177788846657540,negative,1.5173416137695312,-0.6992022395133972,1.973340630531311,@kazza264 @DanielAndrewsMP @CathLAndrews @VictorianCHO @VicGovDH If the virus was in Mildura you think it is appropriate for all of Melbourne to shut down?,,Australia,Fri Feb 12 10:43:50 +0000 2021
+1360178826597158912,negative,1.2224847078323364,-1.3714659214019775,3.7487304210662837,@kitkathai @jetcas1434 @abcsport @AustralianOpen Tell me something Kat . When was the last death in Vic ? How many in Hospital at the moment ? Why aren’t guards wearing masks ? Why is tennis allowed to continue ? @DanielAndrewsMP is the virus if you haven’t worked it out . His incompetence caused this #COVID19Vic,COVID19Vic,Australia,Fri Feb 12 10:47:57 +0000 2021
+1360182348042522626,positive,0.9676899313926696,2.35767149925232,-0.23316742479801175,Nick Kyrgios is giving us a good treat before lockdown again 🔥 #AusOpen,AusOpen,Australia,Fri Feb 12 11:01:57 +0000 2021
+1360182422608900101,positive,2.147369861602783,4.2850661277771005,-1.4769808053970337,Lockdown starts tomorrow here in VIC thank goodness I got back just in time for this lockdown,,Australia,Fri Feb 12 11:02:15 +0000 2021
+1360183371586965505,neutral,1.319231629371643,0.6010547280311584,1.258420467376709,"@JeremyPoxon @TheySaid01 How’s number 2 for ~17 secs in any way ‘Reign Supreme’🤣 
+
+A day a state went into lockdown, you’re proud to be one of many who tweeted about muting an account that’s anonymous &amp; has nothing to do with deciding lockdown?🤔
+
+You reign supreme on a purposeless cause👍",,Australia,Fri Feb 12 11:06:01 +0000 2021
+1360183578743631872,neutral,1.8545886278152464,1.006025314331055,0.3883117139339447,"@DrEricDing This is the fourth ""short sharp"" lockdown in different Australian states in recent months. So far it has been an effective strategy. A chance to get on top of testing and tracing.",,Australia,Fri Feb 12 11:06:50 +0000 2021
+1360184460533108737,negative,1.950958490371704,-1.3447238206863403,3.322539806365967,@beertaster3 @DHughesy @ScottMorrisonMP The refusal to do quarantine came at second HQ set up and at same time refusal to assist in closure of NSW border Did help earlier in Enforcing lockdown rules and ring of steel Don't know if political or where orders come from,,Australia,Fri Feb 12 11:10:21 +0000 2021
+1360185387398746114,negative,0.23492541909217834,-0.6741448640823364,2.761403083801269,I can’t believe people are out there protesting a 5 day lockdown lmao shit for brains honestly,,Australia,Fri Feb 12 11:14:02 +0000 2021
+1360185938060603392,negative,1.0575994253158572,-1.3706995248794556,3.856150150299072,@AshleyLeahy Context though - those states hadn’t endured months of hard lockdown and 100s deaths. It’s HQ leaks with little impact on community vs HQ carnage that underpins the blame.,,Australia,Fri Feb 12 11:16:13 +0000 2021
+1360186035880169472,positive,0.3760830461978912,1.105973720550537,1.0669292211532593,Total got it !! Quarantine Tsar @abcmelbourne @Raf_Epstein #TeflonDan #COVID19Vic @JennyMikakos @LisanevilleMP self isolation into lockdown Thank you Tsar #Tsar https://t.co/FAs5pkBnf7,"TeflonDan, COVID19Vic, Tsar",Australia,Fri Feb 12 11:16:36 +0000 2021
+1360186354307526665,negative,0.5732170939445496,-0.11583726853132248,1.154068112373352,"This account, if true, is really damning https://t.co/t7RSCEjikH",,Australia,Fri Feb 12 11:17:52 +0000 2021
+1360186630519226368,positive,0.8944472670555115,0.9256413578987122,0.890458881855011,"Stay strong Victoria, you’ve got this lockdown thing sorted. https://t.co/7wT2QZBjPo",,Australia,Fri Feb 12 11:18:58 +0000 2021
+1360186871570042880,negative,1.8073389530181885,-1.2116430997848509,3.017122983932495,Pity anyone who lives in the outer suburbs and has to leave in the middle of the 5th set to get home before lockdown.,,Australia,Fri Feb 12 11:19:55 +0000 2021
+1360186874719916032,neutral,1.1759108304977417,1.060266137123108,0.6024829149246216,#AustralianOpen oh my with that crowd going crazy... in Melbourne... 90 mins beore lockdown. Dan Andrews must have as much adrenaline as Kyrgios and Thiem right now.,AustralianOpen,Australia,Fri Feb 12 11:19:56 +0000 2021
+1360186924804100097,positive,0.16258493065834045,2.1689157485961914,-0.05628934875130653,THANK YOU https://t.co/q2fkBuTg6R,,Australia,Fri Feb 12 11:20:08 +0000 2021
+1360187342871355398,negative,1.4506871700286863,-0.3764953315258026,1.7486572265625,"I've been thinking about the different masks I wear a lot lately, and ... that's the pattern
+
+And sometimes it makes sense to mask, to focus on ""navigating the situation"". But sometimes it's automatic because taking off the mask is terrifying",,Australia,Fri Feb 12 11:21:48 +0000 2021
+1360187625294888963,negative,1.1935720443725586,0.4914722144603729,1.2686575651168823,". @AustralianOpen organisers have no hope getting this crowd out of the stadium if @NickKyrgios is still playing at 11:30pm to start lockdown in Melbourne 
+
+What a cracking match of tennis 🎾",,Australia,Fri Feb 12 11:22:55 +0000 2021
+1360188683924611074,positive,1.7423300743103027,2.945240974426269,-0.4532921612262726,Watching the Tennis with an energetic crowd.... you wouldn’t know we’re going into a lockdown in 90 minutes 😲🎾 #AusOpen,AusOpen,Australia,Fri Feb 12 11:27:07 +0000 2021
+1360189498508800004,negative,0.9950936436653136,-0.4329176843166351,2.051309108734131,"@na_mor0 @5Eyes_insider @BenHopkinsAus Not to mention quarantine breaches have occurred in every state, not just Victoria? It’s a highly infectious pandemic and quarantine is occurring in densely populated city centres with staff themselves not being quarantined too... like of course there will be breaches",,Australia,Fri Feb 12 11:30:22 +0000 2021
+1360189962096791558,negative,0.7567805051803589,-0.7487021684646606,3.390660047531128,"Well, we have had to cancel the #MakeLeaksNotWar protest as Melb enters a 5 day hard lockdown from midnight tonight. Ya know what fuck it. Let's postpone instead. Fuck V day. Making leaks not war should be everyday. See you at the US consul the first day restrictions are lifted. https://t.co/6F8Bl0ZwBw",MakeLeaksNotWar,Australia,Fri Feb 12 11:32:12 +0000 2021
+1360190290796027904,positive,1.7891969680786133,2.0157821178436284,-0.29569414258003235,@bgtennisnation In 90 minutes Melbourne is going into a 5 day lockdown. Crowd's will be making the most of tonight.,,Australia,Fri Feb 12 11:33:31 +0000 2021
+1360190843831783431,negative,0.8836970329284668,0.04384469985961914,1.8737212419509888,Cool thing about #lockdown is guilt free multiple stubbies &amp; “Spotify parties 4 1”,lockdown,Australia,Fri Feb 12 11:35:42 +0000 2021
+1360191555022196739,negative,1.2589665651321411,-0.4478853642940521,1.5535118579864502,He has not front up to school for over a year now... roll call say he should be expelled. https://t.co/1oQJ50fTvI,,Australia,Fri Feb 12 11:38:32 +0000 2021
+1360191659728752647,negative,0.5597147345542908,-0.922379434108734,3.138014316558838,"Jeff is giving us the Murdoch propaganda ideology, say the lie enough times, the plebs AKA dumb ‘quiet’ Australians will believe.. #CovidVic #COVID19Vic https://t.co/DNvHproqb6","CovidVic, COVID19Vic",Australia,Fri Feb 12 11:38:57 +0000 2021
+1360192466347937792,negative,0.6053702235221863,1.1044141054153442,1.12896990776062,Well this will be my first lockdown! I won’t be able to see any of my friends but luckily I have all of you on Twitter to talk to!,,Australia,Fri Feb 12 11:42:09 +0000 2021
+1360192762239352832,neutral,1.17633056640625,1.0305138826370241,0.4563467800617218,"Well it’s lucky that the Australian Open is over now since it’s lockdown now anyway, just call the whole thing off there’s no point going on now is there",,Australia,Fri Feb 12 11:43:20 +0000 2021
+1360192939004096514,positive,1.9959888458251955,5.435622215270996,-1.6944717168807983,"Plenty of time for Melbournetennis fans to get home from @AustralianOpen tonight on the eve of lockdown.
+
+Who knows there may even be a #DanMurphy open
+
+Thiem is a very impressive tennis player!
+
+🎾 🎾 🎾 🎾 🎾",DanMurphy,Australia,Fri Feb 12 11:44:02 +0000 2021
+1360193356270247936,positive,0.6326443552970886,2.517485380172729,0.4871699512004852,"Delighted for Thiem to stage a comeback while cool as a cucumber, but sad to see Kyrgios done for the tournament. He’s got a dynamism, fight and swagger which would have kept Melburnians in lockdown well entertained. #AusOpen",AusOpen,Australia,Fri Feb 12 11:45:41 +0000 2021
+1360193687737696258,positive,0.5373800396919249,1.327336668968201,0.6173830032348633,"“Good last match before lockdown.” says @ThiemDomi 
+
+Was it ever. #AusOpen",AusOpen,Australia,Fri Feb 12 11:47:00 +0000 2021
+1360195026098167813,positive,1.2121798992156982,2.235985517501831,-0.049699023365974426,"@KevinHillier @lifeofbrian13 - It's true. They only ever made 12x Eps of Fawlty Towers. 
+
+Empathy with all our Victorian friends on the lock down. We just came out of ours 6pm last Sunday. 
+
+Podcasts are good way to spend time during lock down. TI #thinkingofyouall",thinkingofyouall,Australia,Fri Feb 12 11:52:20 +0000 2021
+1360196746199007232,negative,0.6950136423110962,-0.15522360801696775,1.9481666088104248,"Can't think of anything Scott Morrison has succeeded in.
+
+His only success is as a gigantuan, national failure.
+
+Like the regressive and lost Trump years, Australia has become a laughing stock to the civilized world and like it's ""leader"" a clownish failure on the world stage. https://t.co/hmb9zgPP9Q",,Australia,Fri Feb 12 11:59:10 +0000 2021
+1360194192429883393,neutral,2.316166639328003,0.21765348315238955,0.8638818264007568,"@BenHopkinsAus @na_mor0 https://t.co/ALfag8R795
+This article says they’re beginning vaccinating on 20 February and that we don’t have a date set for Australia yet. 
+10 days from approval to delivery vs ?? days in aus",,Australia,Fri Feb 12 11:49:01 +0000 2021
+1360195257778860039,negative,1.3249518871307373,-0.5022375583648682,1.9783332347869875,"The British Medical Journal @bmj_latest is not messing around... “The most important lessons from this pandemic, are less about the coronavirus itself but what it has revealed about the political systems that have responded to it.” #SocialMurder https://t.co/HX1ShWB8SZ",SocialMurder,Australia,Fri Feb 12 11:53:15 +0000 2021
+1360190474003173378,neutral,2.022362232208252,-0.4990709722042084,1.4588035345077517,@simonahac A friend of mine who works in admin in a uk hospital had her first jab 5 weeks ago and she’s not frontline or on a COVID ward.,,Australia,Fri Feb 12 11:34:14 +0000 2021
+1360191838531903488,negative,0.6312601566314697,-0.14845287799835205,1.919253945350647,"Copped a three-day Facebook ban for ""bullying or harassing"" an antivaxxer. @fbnewsroom are cool with covid misinformation, but don't challenge it.",,Australia,Fri Feb 12 11:39:40 +0000 2021
+1360192583071264769,negative,0.9613634347915648,0.14321893453598022,0.9904937744140624,"@latikambourke I do feel there’s a decent proportion of Australians who would be happy to keep the borders closed indefinitely, COVID or not.",,Australia,Fri Feb 12 11:42:37 +0000 2021
+1360192738247856129,neutral,1.41048264503479,0.7608358860015869,0.5987679958343506,#COVID19Vic #ScottyDoesNothing the vaccine was never going to arrive before Covid hit Victoria again Scotty always gets what he wants,"COVID19Vic, ScottyDoesNothing",Australia,Fri Feb 12 11:43:14 +0000 2021
+1360182766424367108,negative,1.0319896936416626,0.09486953169107436,1.9937388896942136,@kate_cole_ @bron18160254 @nick_coatsworth So why does everyone need to ware a mask? Come on!!!!,,Australia,Fri Feb 12 11:03:37 +0000 2021
+1360186951798718466,negative,0.32428261637687683,0.07896412163972855,2.463327646255493,@BrendanFevola25 @DanielAndrewsMP I’m untouchable Prime Minister Scumo walls through CSL without Mask On! I’m prime minister don’t touch me!!!!!,,Australia,Fri Feb 12 11:20:15 +0000 2021
+1360190764416868353,positive,1.041767716407776,1.624226689338684,-0.12081589549779892,"@monica_2978 Love recognizes no barriers, but first the check list: Pill, prophylactic and mask",,Australia,Fri Feb 12 11:35:24 +0000 2021
+1360193823607984129,neutral,1.2688515186309814,0.1715267151594162,0.9867014884948729,@timpoliti @etjernst @SHamiltonian Benefit of vaccine is something.  Cost is effectively nothing. Something &gt; nothing.  That’s it. That’s the cost benefit analysis.,,Australia,Fri Feb 12 11:47:33 +0000 2021
+1360194865586339840,neutral,0.7617500424385071,0.5352218151092529,0.7470438480377197,@ThembiMrototo @NseleYamangwe88 @NGoetham Not very encouraging as that is only vaccine available to most Aust That is if it passes approval  tests here,,Australia,Fri Feb 12 11:51:41 +0000 2021
+1360183966129479680,negative,1.5996192693710327,-0.2651020884513855,1.6467146873474119,"@worldofBG @rohancct Tonights exposure sites: 12/2: 
+Vic authorities have released a list of public exposure sites after HQ  hotel used to isolate international tennis officials for AO tested positive to the virus. 26-yr old worker visited a no. of places while possibly infectious.",,Australia,Fri Feb 12 11:08:23 +0000 2021
+1360184703400046602,neutral,1.6831723451614382,-0.3315020799636841,1.2627129554748535,@LordofWentworth @ProfPCDoherty Also perfume... If I can tell you are wearing eau de virus from 30m away should I be concerned that not only do you have no taste in perfume but I can see it wafting around you,,Australia,Fri Feb 12 11:11:18 +0000 2021
+1360188943279427584,negative,0.4209118783473969,0.8471861481666565,1.383211612701416,Thank heavens the UK strain of the Virus 🦠 doesn’t come out before midnight at John Cain Arena. Yelling shouting and no social distancing would be a super spreader otherwise. #TeflonDan @JennyMikakos @LisanevilleMP @VicGovDH @PatsKarvelas @CathMurphySport #COVID19Vic https://t.co/lrSqLaobC0,"TeflonDan, COVID19Vic",Australia,Fri Feb 12 11:28:09 +0000 2021
+1360189051098206211,neutral,1.9373433589935305,-0.9623906016349792,1.779069900512695,@Achh15 Except there's a different strain on the virus and not even contact tracing can account for someone having an 8 hour shift at an airport...,,Australia,Fri Feb 12 11:28:35 +0000 2021
+1360197119852699650,negative,0.4122373461723328,-0.7223383188247681,2.533255100250244,My dogs just ate my lockdown toilet paper. I shit you not.,,Australia,Fri Feb 12 12:00:39 +0000 2021
+1360197385238945799,negative,0.5725776553153992,1.9195836782455444,2.034587860107422,@lcrowth15 @SirRubalot @MatthewBeggs @BobLogIV @kapowieb @DownIsTheNewUp_ @DrYobbo @ameltoe @xtgplayer88 @DeadlineDavis @nicksplitter @evilscootus @CapitalCityCody @azzajewell @DDsD @algrke @JeremiahTBrown @HendoHoops @ShaneSullivan32 @RestingPlayers @adamhyphenlee @shanedmitchell @SgtButane @PuntingBaron @WontonJimmy @IEOKIITI1 @RudiEdsall @worldofBG @Adrian_Poly @ChickDill @CarrollRory @CheaperThanDan @Melburnian @AdamLangenberg @roberto_boberto @plalor @bootsthetwit @charlesdavis75 @steinyj86 @GeneralRancour @clkz0r @nathanmj22 @mattturner1986 @Ferrari Happy Snap Lockdown folks. Well this was fucking superb. I'll take anything Counter Culture. https://t.co/CjhAIyIswo,,Australia,Fri Feb 12 12:01:42 +0000 2021
+1360197996420292612,negative,0.6447372436523438,-0.4821023046970368,1.5398753881454468,Apparently most people support snap lockdown - could’ve fooled me https://t.co/jgW03BfFFZ,,Australia,Fri Feb 12 12:04:08 +0000 2021
+1360199659268894725,positive,1.139568567276001,2.0462262630462646,0.1369500756263733,"Once again the @AustraliaSikh  SVA prove why they are the pride of Cranbourne. 
+Thanks to Sikh Volunteers Australia for living your faith in action.
+#optimism https://t.co/rhPOfYh5ue",optimism,Australia,Fri Feb 12 12:10:44 +0000 2021
+1360199690482946052,neutral,1.2027512788772583,0.237135648727417,0.2513765394687653,Waiting for Gladys’ comments ? https://t.co/k6t3VGMOjr,,Australia,Fri Feb 12 12:10:52 +0000 2021
+1360199712230363136,neutral,2.219318628311157,0.18799450993537906,0.1451055258512497,#HappyNewYear  #HappyChineseNewYear before lockdown #XinNianKuaiLe #GongXiFaCai #ChineseNewYear 💕💕💕 https://t.co/PWtwqsGfXZ,"HappyNewYear, HappyChineseNewYear, XinNianKuaiLe, GongXiFaCai, ChineseNewYear",Australia,Fri Feb 12 12:10:57 +0000 2021
+1360199885681643523,neutral,2.255302906036377,1.0008639097213743,-0.07168544828891754,"What a way to enter a 5 day lockdown 🤩🤩🤩 #supportlivemusic @ The Palms, Crown https://t.co/ej0wwo2lWl",supportlivemusic,Australia,Fri Feb 12 12:11:38 +0000 2021
+1360200327039840256,neutral,1.4775176048278809,-0.3419104516506195,0.8305740356445312,Australia’s vaccination process seems convoluted at present. https://t.co/GYkYPZnHJT,,Australia,Fri Feb 12 12:13:23 +0000 2021
+1360200583337050113,neutral,2.2876756191253658,-0.15474286675453186,1.187340259552002,@RoxyB1994 Just leaving the tennis to go home for 5 days in lockdown again 😓,,Australia,Fri Feb 12 12:14:25 +0000 2021
+1360201525750992903,neutral,1.6348779201507568,0.8438653945922852,0.6165823340415955,Shout out to all the Melbourne #SPNFamily as we go back into hard lockdown. https://t.co/syZ54iHBEO,SPNFamily,Australia,Fri Feb 12 12:18:09 +0000 2021
+1360202916326346753,negative,1.5385276079177856,-0.8959022164344788,1.6851592063903809,Imagine being the journo that had to harass him for copy from ICU. https://t.co/ACE8ASDzrz,,Australia,Fri Feb 12 12:23:41 +0000 2021
+1360204027062071297,neutral,3.1235730648040767,1.4586265087127686,-0.785609245300293,"#friday #badminton #session before #lockdown 3.0
+
+@stormersbadminton #stormers #melbourne #victoria #australia @ Tottenham https://t.co/muiQuBog44","friday, badminton, session, lockdown, stormers, melbourne, victoria, australia",Australia,Fri Feb 12 12:28:06 +0000 2021
+1360204118694875142,negative,1.5675241947174072,-1.1400542259216309,2.5288238525390625,@DeeCee451 @AshleyLeahy He didn’t say city wide lockdown he just said a city lockdown... northern beaches is in Sydney and it was locked down.,,Australia,Fri Feb 12 12:28:27 +0000 2021
+1360204139595141127,negative,1.6176064014434814,-0.5626431107521057,1.815772294998169,"@the_unbrain That's correct, that's my opinion and that's your opinion. If he can allow infected Tennis players and their cohorts to enter the country,  if he can allow the event to go on but cancel the Parade, then lockdown the city without any evidence of actual spread he's not responsible.",,Australia,Fri Feb 12 12:28:32 +0000 2021
+1360204197556232192,neutral,1.311830759048462,0.5355026125907898,0.8710071444511414,Still lots of people out and about around Southgate in Melbourne. It's possible they all have accommodation near by and so will make it back to their beds by the time lock down kicks in. #COVID19Vic,COVID19Vic,Australia,Fri Feb 12 12:28:46 +0000 2021
+1360204719981961224,neutral,1.3907486200332642,0.6007068157196045,0.7137193083763123,"🎶Hey now, what’s that sound?🎶That’s the sound of everyone falling off the @FebFastAus wagon 🥴in the lockdown light #🔐⬇️",,Australia,Fri Feb 12 12:30:51 +0000 2021
+1360205375920775168,positive,1.1337019205093384,1.1347709894180298,-0.08975102752447127,How can Victoria still support this premier https://t.co/L5OelEsrLI,,Australia,Fri Feb 12 12:33:27 +0000 2021
+1360205699318337538,positive,0.607957124710083,1.2593605518341064,0.5223449468612671,Still remember as a kid my parent’s displeasure when John Pilger came on screen ... but ❤️ him in 2021. https://t.co/esqFETKRfB,,Australia,Fri Feb 12 12:34:44 +0000 2021
+1360206099857567748,negative,0.5129201412200928,-0.11546648293733595,2.379547595977783,"This is the crowd thinking right now about leaving @RodLaverArena tonight, absolute bizarre scenes 🤯 #AusOpen #COVID19Vic #lockdown #lockdown2021 https://t.co/WnmYnNl2Ji","AusOpen, COVID19Vic, lockdown, lockdown2021",Australia,Fri Feb 12 12:36:20 +0000 2021
+1360206763157409794,negative,1.205361008644104,-0.11558973044157027,1.6678065061569214,I'm gonna comply with the Covid Safe plan. Bahala sila if they wanna be complacent and break the rules. I won't be a party to it. Sumbong ko sila sa unyon at DHHS if they don't want to comply or penalise me for disobeying them.,,Australia,Fri Feb 12 12:38:58 +0000 2021
+1360207356567592965,negative,0.574625551700592,0.06786800920963287,2.393105983734131,@3AW693 Ridiculous!!! Tennis still on. But Rip curl pro cancelled open air on the beach. Anzac March Cancelled. Lockdown non existent as far as I’m concerned,,Australia,Fri Feb 12 12:41:19 +0000 2021
+1360208703098560512,neutral,2.0286726951599117,1.350834846496582,-0.9418898820877076,Steven Miles for PM please https://t.co/SpgDXqOCsD,,Australia,Fri Feb 12 12:46:40 +0000 2021
+1360209562444304390,positive,1.06274151802063,1.4402049779891968,0.7219980359077454,"@agkdesign @ExpanseSYFY It just evolved so much over the course of two books, I’m so ready to just blow through the next one this week.
+Victoria is back in lockdown so it’s time.",,Australia,Fri Feb 12 12:50:05 +0000 2021
+1360210568896860160,negative,0.8473691940307617,-0.5945215821266174,2.6837759017944336,"The weird shit here is there’s no curfew as such, as per full lockdown, people just aren’t supposed to be out unless it’s for work, getting supplies or exercise. So there’s no wiggle room for watching tennis. #AusOpen",AusOpen,Australia,Fri Feb 12 12:54:05 +0000 2021
+1360210899915702273,negative,1.0531710386276243,-0.8028739690780641,2.198638200759888,"Rather a 5 day lockdown, even a 5 month lockdown, to be dead. https://t.co/aJWAyX9cEg",,Australia,Fri Feb 12 12:55:24 +0000 2021
+1360211994188546052,positive,0.36431944370269775,1.6496912240982056,0.9333102107048036,"1 more minute and we're back to lockdown!
+
+Way to go VIC government. 
+Because of AO everyone is suffering. 
+
+Great just Great.",,Australia,Fri Feb 12 12:59:45 +0000 2021
+1360203438546513920,negative,1.1653673648834229,-0.6980297565460205,1.6550054550170898,"Melbourne, Australia begins third lockdown due to COVID-19 cluster /via @globeandmail https://t.co/eMV8TfrGMq",,Australia,Fri Feb 12 12:25:45 +0000 2021
+1360204714890076160,negative,0.9416154623031616,-0.22708553075790405,2.3728702068328857,"No surprise.  Another lie.
+#TrumpLies #TrumpImpeachment
+#TrumpLiedPeopleDied
+""Former president Trump was sicker with COVID-19 than the public knew, according to a report by The New York Times"" https://t.co/BQ17pIyFY4","TrumpLies, TrumpImpeachment, TrumpLiedPeopleDied",Australia,Fri Feb 12 12:30:50 +0000 2021
+1360205615805591553,negative,1.000444412231445,0.6699561476707458,1.1420531272888184,Hahaha #AusOpen telling fans to go home before Covid-19 comes out to get them at 11.59 😂😂,AusOpen,Australia,Fri Feb 12 12:34:24 +0000 2021
+1360207060739129346,negative,0.9825698137283324,-1.4588027000427246,4.135629177093507,"How sad is it that people in the USA are literally begging for a real lockdown to contain COVID, yet people in Victoria are whining over a government who made tough calls to save our lives putting health&gt;economy bringing 800 cases a day to 0 in under 3 months https://t.co/gZL7scuzzp",,Australia,Fri Feb 12 12:40:09 +0000 2021
+1360207332513173519,neutral,1.5393880605697632,0.9923952221870422,0.3215206563472748,"If you sit in the seat you've been in for hours after 11:30pm, you will catch Covid. #AustralianOpen2021",AustralianOpen2021,Australia,Fri Feb 12 12:41:14 +0000 2021
+1360207650156212228,neutral,1.581633448600769,0.5093150138854979,1.121889352798462,"@AnneSpaceCoast Seems Racketeering has applied in Medicine since the advent of #ME at least, 
+&amp; is now being rebooted to respond to Long Covid.
+In what universe is this ok!?",ME,Australia,Fri Feb 12 12:42:29 +0000 2021
+1360208498118676480,negative,0.8022801876068115,-0.5854347944259644,2.2930493354797363,"@PeterDo25464905 @sophieelsworth @GideonCRozner @TimSmithMP @Bolt_RSS Or just go to NSW where they know how to mane COVID, such a dipshit",,Australia,Fri Feb 12 12:45:52 +0000 2021
+1360209017545478145,positive,1.6085548400878906,1.8217151165008545,-0.37192267179489136,Long distance covid-19 before I just finally my relationship boyfriend real a person been two years ago ❤️😘 🇺🇸🇦🇺 https://t.co/ZIDluQOLFv,,Australia,Fri Feb 12 12:47:55 +0000 2021
+1360202228552749061,neutral,1.237176537513733,0.07317926734685898,0.5927841663360596,"@Indounik And a local guy sitting, not wearing a mask",,Australia,Fri Feb 12 12:20:57 +0000 2021
+1360197704136097793,positive,0.5287978053092957,1.301975965499878,0.3480366468429565,Great news for people who are going to get the Pfizer vaccine https://t.co/GsW0BIE8pA,,Australia,Fri Feb 12 12:02:58 +0000 2021
+1360197805650845699,negative,1.4824788570404053,-0.23178666830062866,2.0348570346832275,"Just one hour to lockdown. In Victoria we know how this works - 5 days is a breeze. Pity there is no national leadership, quarantine policy, or a vaccine @ScottMorrisonMP @GregHuntMP #COVID19Vic #vaccine #Leadership #ScottyDoesNothing #DanielAndrews","COVID19Vic, vaccine, Leadership, ScottyDoesNothing, DanielAndrews",Australia,Fri Feb 12 12:03:22 +0000 2021
+1360210095477411848,negative,0.8068267703056335,-0.2763237953186035,2.1842057704925537,"@noplaceforsheep He didn’t mean to, he just fucked up as usual. Now he’s just trying to make out there nothing to see here, all’s good. It’s a pity there’s not a vaccine for the Liberalism germs!",,Australia,Fri Feb 12 12:52:12 +0000 2021
+1360204034607517699,positive,0.4904919862747192,4.899057865142822,-0.904821276664734,Very pleased this new-and-improved quick virus was happy to wait until midnight to spread. https://t.co/MlSYkrVnAh,,Australia,Fri Feb 12 12:28:07 +0000 2021
+1360211525810544641,negative,1.0941615104675293,-0.13517051935195926,1.767161250114441,@vixx_pixx @Travinport Plenty of clusters in nsw have never had index cases identified. It’s the nature of a pandemic and a virus. It’s not some sign of being no good at public health. A sign of NSW getting it right is our relatively normal lives since May 2020,,Australia,Fri Feb 12 12:57:53 +0000 2021
+1360212131828822022,positive,1.8108757734298704,3.5876400470733643,-0.8614718317985535,literally finished my last booking juuuuust before lockdown hits. A dinner date that was changed to an incall + ubereats date at the last minute today and which ended up being the perfect note to go out on ✨ https://t.co/KCMpichosM,,Australia,Fri Feb 12 13:00:18 +0000 2021
+1360212405679136770,positive,1.1888493299484253,2.8680477142333984,-0.6872093677520752,We’ve got this Victoria ♥️ https://t.co/xI74G4X3QG https://t.co/YihfYEI8Tq,,Australia,Fri Feb 12 13:01:23 +0000 2021
+1360212489825251331,neutral,2.260751247406006,2.098717451095581,0.012460241094231606,Thoughts going out to our friends and colleagues in Victoria🙏we are lucky to be back to pre-lockdown restrictions on Sunday in Western Australia @educationlisa @tvaughanEdu @teacherasleader @acelaustralia @aitsl,,Australia,Fri Feb 12 13:01:43 +0000 2021
+1360212545752080389,negative,0.6639612317085266,-1.241013765335083,4.208249568939209,Even if he does if you are able to come out at the end alive hes done his job.  Stop bitching and realize this isnt done to piss us off. We don't want to see everyone die and this kills https://t.co/4cZN54KdaT,,Australia,Fri Feb 12 13:01:57 +0000 2021
+1360212680561229824,negative,0.7727553844451904,0.6453831195831299,2.1415669918060303,"Oh well, lockdown happened. Again. There goes UooUoo hunting plans, lunch dates, and CNY-Valentine dinner plan with the gang. Even my shift was cancelled. 
+
+Welcome to the interconnectedness of the Universe. One's wrong decision can make HUGE impact on other's life unconsciously. https://t.co/IuAcs3PKmT",,Australia,Fri Feb 12 13:02:29 +0000 2021
+1360213271542833155,neutral,1.899469375610352,1.2254854440689087,-0.3569948673248291,Here we go again Melbourne #lockdown https://t.co/i56b5hioZB,lockdown,Australia,Fri Feb 12 13:04:50 +0000 2021
+1360213795122028544,negative,0.6577430963516235,-0.8822545409202576,3.3968074321746826,WTF is wrong with you people? You may be happy to live in ignorance but for how long? In case you have lived in a cave or under a rock this strain has caused millions to die. This WILL get worst unless something is done. 5 days is nothing compared to what it could be. Your alive https://t.co/5nciLlZGPR,,Australia,Fri Feb 12 13:06:54 +0000 2021
+1360213919294365698,neutral,1.134840488433838,0.02881279215216637,0.5777835845947266,Lockdown is now in force #COVID19Vic https://t.co/o54RiIhHDt,COVID19Vic,Australia,Fri Feb 12 13:07:24 +0000 2021
+1360214530249297927,negative,0.3428449332714081,-0.07805486768484116,2.809147834777832,Spent the last night before lockdown getting absolutely fucked and made it home on 11:59pm on the dot 👏🏼👏🏼👏🏼,,Australia,Fri Feb 12 13:09:50 +0000 2021
+1360214537396359173,positive,0.970703125,1.341209888458252,0.5504764914512634,"Ironically, #antilockdown #novax #djocovid benefits most from COVID-19 lockdowns.
+
+It's taken away the very hostile crowd, which was very pro #Fritz
+
+#novak #Djokovic #novakdjokovic","antilockdown, novax, djocovid, Fritz, novak, Djokovic, novakdjokovic",Australia,Fri Feb 12 13:09:51 +0000 2021
+1360214760822743045,negative,0.29550114274024963,0.8044572472572327,1.391314148902893,Vey informative! Didnt realise the amount of work put into making these properly https://t.co/blz7ZCo8Ve,,Australia,Fri Feb 12 13:10:45 +0000 2021
+1360216796381417473,neutral,1.3764302730560305,0.3816657662391663,-0.5108330845832825,5 days lockdown 😷,,Australia,Fri Feb 12 13:18:50 +0000 2021
+1360220169637797890,negative,1.186569333076477,-0.6795258522033691,2.907759189605713,"@Sajma @DrEricDing There is sound leadership in Victoria, taking notice of scientific advice to guide our response.
+
+A short lockdown will limit spread, plus we wear masks, and seek to protect each other. A cohesive society (with a few idiots).",,Australia,Fri Feb 12 13:32:14 +0000 2021
+1360220526627573761,negative,1.237019181251526,-0.15800580382347107,1.3852232694625854,"No, you are looking at being made to take responsibility for your role under the Commonwealth Constitution Scummo https://t.co/aIOGOW1RUX",,Australia,Fri Feb 12 13:33:39 +0000 2021
+1360222414269870086,neutral,2.7514007091522217,1.731921911239624,-0.5226169824600221,The fringe left in overdrive tonight.    Are you guys part of the #TeflonDan Red Shirts #ScottyDoesNothing #lockdown,"TeflonDan, ScottyDoesNothing, lockdown",Australia,Fri Feb 12 13:41:09 +0000 2021
+1360224806071721984,negative,1.491668462753296,-0.32675740122795105,2.069692611694336,"I’m trying to explain to an 8y.o that a person that plays tennis is an essential worker.... Because they are NOT.  
+
+How do I tell an 8y.o we are in lockdown for 5 days because the government wanted to host a tennis match?
+#melbourne #lockdown #AusOpen","melbourne, lockdown, AusOpen",Australia,Fri Feb 12 13:50:40 +0000 2021
+1360225580751286277,neutral,1.854281544685364,0.003756187856197357,1.2418911457061768,"You can bag @DanielAndrewsMP all you like, but there are some honest truths here 👇🏼 
+
+(Also @ScottMorrisonMP &amp; @GregHuntMP your fraudulently branded liberal party vaccine was approved weeks ago... why have none of our front line workers had a jab yet? Or anyone, for that matter?) https://t.co/R3pT86GHqq",,Australia,Fri Feb 12 13:53:44 +0000 2021
+1360214089755070469,neutral,1.906310558319092,-0.2302410900592804,0.6314542889595032,"Coronavirus is the Flu 💥
+The Purge - The Weekend https://t.co/e04fK1Hntq",,Australia,Fri Feb 12 13:08:05 +0000 2021
+1360226079424712708,positive,1.4632270336151123,1.481464385986328,-0.1729796677827835,"Anzac Day March sidestep has vets up in arms. #SavedByMichelle #mcthejourno #couriermail
+
+https://t.co/Qj0li0rDBB","SavedByMichelle, mcthejourno, couriermail",Australia,Fri Feb 12 13:55:43 +0000 2021
+1360214770670997508,negative,1.2777856588363647,-0.10177815705537796,1.612379789352417,Well Done Scotland. This is how it should be done @ScottMorrisonMP &amp; #LNP. Australia hasn’t even commenced administration of the Covid vaccinations. #WheresTheVaccine https://t.co/sefPWTGWsg,"LNP, WheresTheVaccine",Australia,Fri Feb 12 13:10:47 +0000 2021
+1360220020802940932,neutral,1.3889780044555664,0.8828253746032715,0.7614895105361938,Unlike the msm and abc news and current affairs Foxtel’s covid channel gives Anthony Albanese and his vastly superior team regular uninterrupted airtime to push Labor policy and attack the Morrison cartel. https://t.co/SxciArKIOc https://t.co/AWaNacjy3S,,Australia,Fri Feb 12 13:31:39 +0000 2021
+1360222952965373954,negative,1.094299554824829,-1.314965009689331,3.567427158355713,Stupid idea Victoria seems  to have thru no fault have a greater covid problem.  Spend our vaccination resources in Victoria 1st then move on.,,Australia,Fri Feb 12 13:43:18 +0000 2021
+1360213269999308802,neutral,2.1127400398254395,-0.9895243644714355,1.5982521772384644,On time delivery of a vaccine could have been used to vaccinate hotel quarantine workers and kept the virus contained. https://t.co/PsRAh9TuWG,,Australia,Fri Feb 12 13:04:49 +0000 2021
+1360221188090286088,negative,1.4129222631454468,-0.7793370485305786,1.540844440460205,Is there a vaccine to repair a torn muscle? #AusOpen,AusOpen,Australia,Fri Feb 12 13:36:17 +0000 2021
+1360215779312979968,negative,1.212248921394348,-0.6035218238830566,2.2269890308380127,"If this 'wicked' virus was spreading all over Melbourne,  as our lying criminal Premier would have you believe,  EVERYONE would have caught it and spread it between 5pm and 11:30pm tonight. https://t.co/ijyxDuYdM9",,Australia,Fri Feb 12 13:14:48 +0000 2021
+1360217574076600322,neutral,1.370063304901123,0.30880066752433777,0.6888062953948975,"Djokovic has found a second wind after lockdown started , maybe the virus has helped him #AusOpen",AusOpen,Australia,Fri Feb 12 13:21:55 +0000 2021
+1360227230324977666,negative,1.0602942705154421,-0.7529147863388062,1.671459078788757,Prefer a dragged out one to death https://t.co/lcnq8u9Snt,,Australia,Fri Feb 12 14:00:18 +0000 2021
+1360227268442820616,neutral,1.5963103771209717,0.160702645778656,0.07159943878650665,"Sikhs man.,,,they’re where it’s at https://t.co/wpFp5Hdl3n",,Australia,Fri Feb 12 14:00:27 +0000 2021
+1360228159581478914,positive,1.3647129535675049,5.064994812011719,-1.1135517358779907,"Our new Roast Pumpkin Salad is both healthy and delicious - who knew that was possible?!
+.
+Think Local, Eat Italian!
+.
+Available Take Away 
+.
+For Bookings after Lockdown : 03 9776 5277 @ Fratelli Frankston https://t.co/VMS62nncy1",,Australia,Fri Feb 12 14:03:59 +0000 2021
+1360228686520176640,positive,0.6627596616744995,3.050093173980713,0.043743398040533066,Knuckleheads stocking up with a three month supply of toilet paper for 5 days. Makes perfect sense #COVID19 #crazy,"COVID19, crazy",Australia,Fri Feb 12 14:06:05 +0000 2021
+1360228702542434304,negative,1.7685281038284302,-1.0077084302902222,2.0241622924804688,"@custard13337871 @MarkMcGowanMP The whole state was not in lock down just Perth and the Peel region, the test false either.",,Australia,Fri Feb 12 14:06:09 +0000 2021
+1360228807450443778,positive,1.898529052734375,1.9802829027175903,-0.41120603680610657,"Take Away or Delivery
+.
+Think Local, Eat Italian!
+.
+Available Take Away 
+.
+For Bookings after Lockdown : 03 9776 5277 @ Fratelli Frankston https://t.co/fcYp6stqdF",,Australia,Fri Feb 12 14:06:34 +0000 2021
+1360229462516719625,negative,1.1744871139526367,-0.1583220362663269,1.7924158573150637,"Hes trying to protect ALL Victorians. Instead of sooking about 5 days be thankful he doesn't sit around hoping all will be ok only to see it spread &amp; thousands to die, maybe even someone you know. Ask what would you do if you were in his place? Lockdown or be Trump, nothing https://t.co/NRv8cSBFSx",,Australia,Fri Feb 12 14:09:10 +0000 2021
+1360229754075443200,positive,1.3553789854049685,3.226672649383545,-0.9554561376571656,@ZhengpingLiow Blessed for Victorians. We go into sudden stage 4 lockdown 12am onwards!,,Australia,Fri Feb 12 14:10:19 +0000 2021
+1360229977489248259,neutral,1.3219279050827026,0.6428911685943604,1.2957621812820437,@RoryBurnside @fladdle Caregiving is one of the 4 reasons allowed to leave home during a Stage 4 lockdown. You will be able to keep seeing your Dad as he is proving you Caregiving.,,Australia,Fri Feb 12 14:11:13 +0000 2021
+1360230863670177796,neutral,2.97139048576355,0.5081386566162109,-0.7353788614273071,Also going back into a 5 day lockdown 🙃🙃,,Australia,Fri Feb 12 14:14:44 +0000 2021
+1360231027365474309,positive,0.268545001745224,4.258200168609618,-0.0863172709941864,Haha very good! https://t.co/tHDIVJh4H1,,Australia,Fri Feb 12 14:15:23 +0000 2021
+1360231785402015744,negative,0.5756014585494995,-0.12895414233207705,0.6812131404876709,5 days lockdown sigh,,Australia,Fri Feb 12 14:18:24 +0000 2021
+1360235890518355972,negative,0.6838746070861816,-0.5898202061653137,3.6651582717895512,@piepaulie I'm with you! This lockdown will go for 3 weeks! This fuckwit is panicking and has no other solution other than to lock down the whole state for 13 cases. Absolute imposter and needs to be eradicated out of the job!!!,,Australia,Fri Feb 12 14:34:42 +0000 2021
+1360239859969912832,positive,0.6054011583328247,4.69251823425293,-1.0509099960327148,Wrapping up Friday with a little good news. Cheers. https://t.co/oYX3POV5qI,,Australia,Fri Feb 12 14:50:29 +0000 2021
+1360228620384432134,negative,1.254249095916748,-1.4531792402267456,3.616711616516113,"Because they are fools that dont fully understand the mess the world is in &amp; how many deaths due to Covid, whatever strain. Inaction by Trump &amp; Johnson caused plenty of deaths that didn't need to be. This is what Vic Libs say. Never mind how it harms Vics, just make it political https://t.co/tuiDZEbk2i",,Australia,Fri Feb 12 14:05:49 +0000 2021
+1360235340900958211,neutral,2.569484233856201,0.8404921293258667,0.2586452066898346,The @AustralianOpen contenders and their entourages will enter a COVID-safe bubble over the next five days in order to ensure the already controversial tournament continues as Victoria goes into lockdown. https://t.co/Bt5N3x1S90,,Australia,Fri Feb 12 14:32:31 +0000 2021
+1360235676831129604,neutral,1.8764711618423464,0.622705340385437,1.000568151473999,Doing the heavy lifting here is  @brentread_7 as sports across the country deal with the fall out from the lockdown of Victoria for the next five days. https://t.co/mvsx0GmQnH,,Australia,Fri Feb 12 14:33:51 +0000 2021
+1360237637202636805,neutral,1.7632925510406494,-0.8176889419555664,1.5922746658325195,@kathylord2 Well Vic did have a BLM protest at the height of the virus last year.,,Australia,Fri Feb 12 14:41:39 +0000 2021
+1360248814297206787,positive,1.6099178791046145,1.6216810941696167,-0.30708378553390503,"Siri, play ‘Here I go again’ by whitesnake https://t.co/1QoteCTQS2",,Australia,Fri Feb 12 15:26:04 +0000 2021
+1360253784274911232,negative,0.3890843391418457,0.1202840805053711,0.8045708537101746,"@gabioule @shaunmicallef Sorry,I meant #COVID19",COVID19,Australia,Fri Feb 12 15:45:49 +0000 2021
+1360248368732114946,positive,0.2906129062175751,0.9990090727806092,0.600436270236969,Crazy - imagine tackling a guy with covid and not getting covid. Still soooo much we don’t know. https://t.co/VAKZWUZFWI,,Australia,Fri Feb 12 15:24:17 +0000 2021
+1360264706686996480,negative,0.9851645827293396,0.6282336711883545,1.3400863409042358,"Rough day.
+Started with sobbing daughter missing sister in lockdown state.
+Finished with my first view of a recording of past TV news director recalling a work plane crash, that killed 2 out of 4, but not my 18yo father, a cadet, who “went on to be an outstanding journalist”.
+💗",,Australia,Fri Feb 12 16:29:13 +0000 2021
+1360266471776022529,neutral,2.1855731010437007,0.8896816372871399,-0.7641639113426208,At least I can have another Twilight lockdown sesh,,Australia,Fri Feb 12 16:36:14 +0000 2021
+1360257740782804993,neutral,1.8058269023895264,1.5450402498245241,0.20994766056537628,@DrEricDing @JeffreyMeursing I want to live. I want my kids to live &amp; my grandchildren &amp; my parents who r 87 &amp; 84. If it takes a snap lockdown to get back on track u can bet we r all going to do it.  Mask up people &amp; get it done 😷,,Australia,Fri Feb 12 16:01:32 +0000 2021
+1360269247461564424,neutral,1.4954795837402344,-0.7444403767585754,1.439488649368286,@WayneMcCurrie - not exactly “virus coming to an end” https://t.co/VFNWbSCUdI,,Australia,Fri Feb 12 16:47:15 +0000 2021
