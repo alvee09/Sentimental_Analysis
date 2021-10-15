@@ -1,0 +1,514 @@
+Tweet_ID,Sentiment_Label,Logits_Neutral,Logits_Positive,Logits_Negative,Tweet_text,hashtags,country,created_at
+1384809684943605760,neutral,0.7994959950447083,0.0228497460484504,0.451852023601532,@brisbaneroar Leckie &gt; No Gol https://t.co/UMvffxkmIv,,Australia,Wed Apr 21 10:02:12 +0000 2021
+1384809971129278465,positive,1.366123080253601,1.4267730712890625,0.7826231718063354,"Ice Cream with a Cherry Granita, Originally from Country Victoria and now living in Sydney, She was a Markerteer until COVID-19 &amp; there’s an Hour to go as Depinder makes Choux Pastry with a Cherry Compote and the Judges see no Pressure as Emelia thinks so. #MasterChefAU",MasterChefAU,Australia,Wed Apr 21 10:03:20 +0000 2021
+1384810074120417282,negative,1.2033348083496094,-1.127152442932129,2.816879749298096,"Across seven districts in India, numbers of COVID-19 victims who have been cremated are 10x larger than official COVID-19 death counts in same areas. https://t.co/1pIlD6c4aK",,Australia,Wed Apr 21 10:03:44 +0000 2021
+1384815312298643466,neutral,1.6654424667358398,0.8807069063186646,0.6062605977058411,"And based on this data from the Philippine Statistics Authority, the estimated cumulative number of confirmed cases in the Philippines today would be more than 5.6 Million cases. That's about one positive case for every 20 residents in the country.
+
+https://t.co/QY4sybeOSc",,Australia,Wed Apr 21 10:24:33 +0000 2021
+1384815625076314113,negative,1.0235732793807983,0.456287533044815,1.0601977109909058,Important COVID emergency contacts in Delhi please share @Preeti48882508 @thakurpreethi3 @Kulvinderkgrew1 @kul_kaur2 @Moumita88029944 @Mou02961073 @loudwisper05 @TheCurlyPoet @ItsSakshii @nainaseth31 @NeetuBansalBTI @N24bansal #Sidnaaz #ShehnaazGiIl #SidharthShukla https://t.co/7tgfZvFBN0,"Sidnaaz, ShehnaazGiIl, SidharthShukla",Australia,Wed Apr 21 10:25:48 +0000 2021
+1384820096783175685,negative,1.041254639625549,0.3690724968910217,1.380346417427063,"Australia must act to prevent airborne transmission of SARS-CoV-2 in @theMJA https://t.co/NBMlcyBzka “SARS-CoV-2 more readily aerosolised than SARS &amp; MERS, can retain infectivity for at least 16 hours in air under laboratory conditions. Speech sufficient to produce aerosols..”",,Australia,Wed Apr 21 10:43:34 +0000 2021
+1384821652672843778,neutral,0.9878494143486024,-0.4343115389347076,0.7924399375915527,Housing policies under lockdown https://t.co/nFjbazSCIF,,Australia,Wed Apr 21 10:49:45 +0000 2021
+1384821685040283648,negative,1.3686699867248535,-0.6783323884010315,2.149989128112793,"Repeated requests over 2 years to owner to fix kitchen drawer, never done. Owner took $750 of bond trying to get it back. Tenants paid full rent during Covid pandemic even though both made redundant. They &amp; their 7mo exposed to asbestos &amp; mould. Have lodged complaints.... https://t.co/pByGEfiwI1",,Australia,Wed Apr 21 10:49:53 +0000 2021
+1384820820208328704,positive,1.7015764713287354,1.71542489528656,-0.1768355667591095,"C is currently for #coronavirus 
+F is Always for #fashion 
+BN Couture @BarbwireNoose
+https://t.co/djIM3lNpSY https://t.co/mo29IetQmn","coronavirus, fashion",Australia,Wed Apr 21 10:46:26 +0000 2021
+1384822517630525447,negative,1.6740407943725586,-1.048614501953125,2.3149688243865967,"Childcare worker sacked for refusing flu vaccine loses legal appeal https://t.co/uKNOnJHzFa “Fair Work Commission backed childcare provider, which required its staff to get flu shot in decision with major implications for businesses’ power to demand employees get coronavirus jab”",,Australia,Wed Apr 21 10:53:11 +0000 2021
+1384811000889626627,negative,0.799216628074646,-0.3527993261814117,1.583299994468689,"@reardon_shaun Not to mention the Covid Vac deals ..... AZ, Pfizer etc.",,Australia,Wed Apr 21 10:07:25 +0000 2021
+1384812962154569733,negative,1.3805216550827026,-0.5554160475730896,2.537813425064087,"In the Philippines, the Philippine Statistics Authority has registered 27,967 deaths due to COVID-19 for 2020 alone, more than 3x the number published by the Department of Health for the same year. #COVID19PH
+https://t.co/CHq0kyAaUr",COVID19PH,Australia,Wed Apr 21 10:15:13 +0000 2021
+1384820213691011077,negative,0.9773181676864624,-0.9276869297027588,2.550844430923462,"@DaveSharma @abcnews Hardly a rort, rape or robodebt is it Dave?
+Covid management 
+Fire crisis
+International Trade relations 
+Vaccine rollout
+Etc...",,Australia,Wed Apr 21 10:44:02 +0000 2021
+1384820716852318218,negative,1.388054132461548,-0.2072411179542541,1.5830250978469849,"Different Match but this happened this evening. 
+I asked what he meant, he said ‘were you worried about getting covid?’, I said ‘yes, or spreading it, others spreading it and still am to an extent as the pandemic is far from over unfortunately 😞’
+No reply, and I’m #UNMATCHED https://t.co/sxmcKFyyaG",UNMATCHED,Australia,Wed Apr 21 10:46:02 +0000 2021
+1384812081468174337,neutral,1.941189885139465,0.8704755902290344,0.9115775227546692,"BN Couture - Designer Face Masks. #Corona #fashion #barbwirenoose 
+'Diamond Graf' Black Face Mask, hand painted finish with @swarovski embellishments - RRP: $99.98AU @BarbwireNoose
+Hand crafted each mask is similar but not the same. Your Call Drama.
+https://t.co/djIM3lNpSY https://t.co/4deRlaO7nk","Corona, fashion, barbwirenoose",Australia,Wed Apr 21 10:11:43 +0000 2021
+1384812542850080773,neutral,2.201266288757324,1.2808090448379517,0.4452806413173675,"BN Couture - Designer Face Masks. #Corona #fashion #barbwirenoose 
+'Diamond Graf' - Black, hand painted finish with @swarovski embellishments - RRP: $99.98AU
+Hand crafted by designer @marciabnoose each mask is similar but not the same. 
+Your Call Drama.😷
+https://t.co/4BECC4gRwe","Corona, fashion, barbwirenoose",Australia,Wed Apr 21 10:13:33 +0000 2021
+1384812302268997632,neutral,1.967259407043457,-0.3372257351875305,1.609894871711731,@mohapatra @virsanghvi My sister had her booked appointment (already delayed by 2 days) in Chennai for this morning for her second jab of Covaxin. It was all booked and confirmed. They have run out of vaccines &amp; there's no ETA on the vaccine availability.,,Australia,Wed Apr 21 10:12:36 +0000 2021
+1384828824177627139,neutral,2.5968258380889893,1.7432873249053955,-0.7970587611198425,@corvinellia Stay safe. Let us know you are home 🙋‍♀️🙏🏻,,Australia,Wed Apr 21 11:18:15 +0000 2021
+1384829017103106055,neutral,2.0314695835113525,0.639725387096405,-0.5595899820327759,Cold storage comes full circle https://t.co/5p8eMUfRPx,,Australia,Wed Apr 21 11:19:01 +0000 2021
+1384829259978477570,positive,1.192467451095581,5.924872398376465,-0.8895474672317505,"Happy Ram Navami to all my Hindu friends and their families!!
+
+Ram Navami is a Hindu festival that celebrates the birthday of the Hindu God Lord Rama.
+
+May this Ram Navami bring all the good and best of health to you and your near and dears in this pandemic crisis. https://t.co/UuZTR3lr64",,Australia,Wed Apr 21 11:19:59 +0000 2021
+1384830463294906368,negative,0.5365726351737976,-0.3756373524665832,0.9260857701301576,THIS 🤣😂🤣😂 https://t.co/QsWQrkXctc,,Australia,Wed Apr 21 11:24:46 +0000 2021
+1384833310430433284,negative,1.4037954807281494,-0.1760585308074951,1.6505814790725708,What's with the elbow bumps on #MasterChefAU? Surely that was just for early 2020 before we realised just being in the same room with an infected person was enough to give you covid.,MasterChefAU,Australia,Wed Apr 21 11:36:04 +0000 2021
+1384836573670166531,negative,1.179942011833191,-0.3514420986175537,2.299630880355835,"This wouldnt surprise me. He was a 1st round prospect coming into this year before covid hit. Assuming the medical is OK and there are no additional red flags, no reason to think that 1st round grade would suddenly disappear. https://t.co/zYcPDAl37w",,Australia,Wed Apr 21 11:49:02 +0000 2021
+1384826844709412867,positive,0.5699836015701294,1.7872390747070312,-0.1224601492285728,@SkyNewsAust I love it when these Rupert Murdoch’s dogs remind us about freedom while talking about covid and health!,,Australia,Wed Apr 21 11:10:23 +0000 2021
+1384831879799443459,negative,1.435420036315918,-1.2508893013000488,3.1890363693237305,@rohancct @SkyNewsAust Just add another one to the litany of double standards these  morons have been enforced on Victorians since Covid started,,Australia,Wed Apr 21 11:30:23 +0000 2021
+1384827397233537027,negative,0.8482223749160767,-0.0350120067596435,2.0079901218414307,@MollyJongFast He’s creeped me out ever since I saw video of him talking with his mask covering his lower jaw so he looked like a puppet. He reminds me of an evil shoebill muppet.,,Australia,Wed Apr 21 11:12:35 +0000 2021
+1384843645375893504,negative,1.3247735500335691,-1.251395344734192,3.078835964202881,@drvyom I have my parents in India and am worried to death. The situation on the ground is an abject failure on so many levels. As a Melbourne resident I am perplexed why more restrictions are being opposed. Covid does not discriminate. It’s airborne and real,,Australia,Wed Apr 21 12:17:08 +0000 2021
+1384845123364827136,neutral,1.436777949333191,-0.1684194505214691,0.1582810282707214,@marcmaronrawme should probably lock that one down,,Australia,Wed Apr 21 12:23:01 +0000 2021
+1384847048579633153,negative,1.2957602739334106,-1.352603316307068,3.477900505065918,@CabaiPanas @ProfPCDoherty Scary that the government has convinced people to expose themselves to the risk of serious injury or death by being vaccinated. Vaccine does not stop you from getting Covid19.,,Australia,Wed Apr 21 12:30:40 +0000 2021
+1384854022104965120,neutral,1.7009412050247192,0.4312001466751098,0.7449608445167542,Don’t book a holiday overseas until after 30th January 2023. 🤦 https://t.co/rMYuixyvPY,,Australia,Wed Apr 21 12:58:22 +0000 2021
+1384841093443952641,neutral,1.503385066986084,-0.4069560468196869,1.4031586647033691,Australia has received fewer than two million syringes that would enable doctors and nurses to extract the maximum number of doses from the Pfizer vials | via @tamsinroses @tminear https://t.co/8JH5I2jh5w,,Australia,Wed Apr 21 12:07:00 +0000 2021
+1384841679316742145,negative,0.3717632293701172,0.1836441159248352,2.758996963500977,"next weekend can't come quick enough. 
+I'm going HOME! just stay the fuck away covid.",,Australia,Wed Apr 21 12:09:20 +0000 2021
+1384843330509578242,neutral,1.6573407649993896,-0.2104220986366272,1.4196027517318726,"@jfwduffield @sidvee @DholRaj My tweet on ambulance &amp; silly obfuscation in commentary was about Covid. Regarding BLM or Poppyism, some will take offence to that and some will support it. It depends on who we speak to.",,Australia,Wed Apr 21 12:15:53 +0000 2021
+1384849636695978008,negative,1.1909133195877075,-1.1107937097549438,2.936260938644409,Squadrons of planes flying overhead virtually every few minutes one flies over. Where the hell are they coming from or where are they going. Who or what are they carrying. As proven in NZ planes can infect people with COVID-19. Quarantined Hotel returnees are infecting each other,,Australia,Wed Apr 21 12:40:57 +0000 2021
+1384842346706001926,neutral,2.0840330123901367,-0.3057010471820831,1.3473734855651855,"In the context of what’s happening with #COVID19  in India right now, their export of 44% of the vaccine doses they manufactured stands in contrast to the 0% exported by the US and UK. Meanwhile, Australia is manufacturing AZ doses but barely using or exporting. 🤷🏻‍♂️ https://t.co/A8kayybcpm",COVID19,Australia,Wed Apr 21 12:11:59 +0000 2021
+1384842349122101248,neutral,1.21853768825531,0.5567871332168579,-0.5237654447555542,Source: https://t.co/PYHwtGm3ow,,Australia,Wed Apr 21 12:11:59 +0000 2021
+1384848904080957447,negative,0.6697985529899597,0.1014038175344467,2.303672790527344,"@DominicMc999 Hi Dom,
+We have an analogous situation here in Oz🇦🇺; eg, a leading parliamentarian has shares in makers of AstraZeneca vaccine. 
+Lots of rorts being(Not) investigated, we’re sick of this self serving NLP.
+I’m off to bed as I had a cataract  op today so bit washed out.
+Rest well.",,Australia,Wed Apr 21 12:38:02 +0000 2021
+1384854889529028609,negative,1.133106708526611,-0.8912166357040405,2.3352720737457275,Shut the borders. Short sharp lockdown. Also what is COVID-19? https://t.co/7LpfmKHkAb,,Australia,Wed Apr 21 13:01:49 +0000 2021
+1384856165129981955,negative,1.0234745740890503,1.0352694988250732,1.0472060441970823,@kylieedo @DaveMilbo @realCarrickRyan From QLD I followed your Victorian lockdown journey every single day. My heart was with you all. I felt your pain. I thank you Dave for your writing in @shot_au You helped me feel as if I was there with you sharing your pain. I empathised but knew I couldn't feel your pain,,Australia,Wed Apr 21 13:06:53 +0000 2021
+1384856363201974272,neutral,1.688149094581604,-0.4002764523029327,1.3188682794570925,"@StacySollitt84 @tric440 I’ve only used public charging a few times during lockdown to get out of the house, but I just charge at home once a week.",,Australia,Wed Apr 21 13:07:41 +0000 2021
+1384858022711681024,positive,0.4765697717666626,2.115752696990967,-0.0317818745970726,Worth knowing for my Aussie compatriots! https://t.co/69IwhR7TXW,,Australia,Wed Apr 21 13:14:16 +0000 2021
+1384863557100220417,neutral,1.654748797416687,0.3786899149417877,1.0738816261291504,"@MissLucy_2011 @liammannix I know an Australian who was invited to talk at BioNTech to tell them what he knew about RNA! So what I'm saying is that yes, we need to make COVID vaccines now, but mRNA is likely to be the foundation of a whole lot of therapies in the future. We need the whole pipeline.",,Australia,Wed Apr 21 13:36:16 +0000 2021
+1384854999356776449,negative,1.509224534034729,-0.2849883437156677,1.5921694040298462,@sjwill99 https://t.co/xpuAdD9PUq no numbers of doses but clearly a steady supply of batches. I heard an interview describing at least one of the batches as being 300K doses. They were claiming to be able to make 1M/week.,,Australia,Wed Apr 21 13:02:15 +0000 2021
+1384856484194947074,neutral,1.5577473640441897,0.7737545967102051,0.698762834072113,"@sjwill99 4 weeks ago: 4 batches = 830K
+
+There have been 10 batches released since then. That suggests well over 2M doses of AZ. We’ve only administered 1.7M but a lot of that is Pfizer. 
+
+https://t.co/WRYDPwZpeC",,Australia,Wed Apr 21 13:08:09 +0000 2021
+1384865473083318278,positive,1.6704881191253662,3.082324266433716,-0.1091151610016822,@Reuters Israel is setting an example how to face the enemy ( covid ) in a smart brave and strategic way the way they have done in the past with other challenges and today they placed orders with Medorna for booster dose way ahead of everyone! Great job guys!!,,Australia,Wed Apr 21 13:43:52 +0000 2021
+1384857737062912007,negative,1.0829963684082031,-0.1971481740474701,1.7426639795303345,"@oranglaut Don't panic too much mate. You can put your mask back on, socially isolate, order coles/woolies on line, work fm home or get the vax. Or even live life as we know it and don't worry about something the majority of the population will survive",,Australia,Wed Apr 21 13:13:08 +0000 2021
+1384858151858618368,neutral,1.7402665615081787,-0.8766636252403259,1.6769728660583496,@RonniSalt A virus leading in times of a virus. How appropriate.,,Australia,Wed Apr 21 13:14:47 +0000 2021
+1384862988180590594,negative,1.077433705329895,-0.5374535918235779,1.0987699031829834,@PTI_News @SayNoToSino indian vaccine against Chinese virus,,Australia,Wed Apr 21 13:34:00 +0000 2021
+1384870589907755009,neutral,2.267020463943481,1.8504773378372192,-0.606952428817749,https://t.co/uXjENZw0UG Join this WhatsApp group for covid related information for Lucknow. #Lucknowcovid #Lucknow #CovidIndiaInfo #COVIDEmergency2021 #covidlucknow,"Lucknowcovid, Lucknow, CovidIndiaInfo, COVIDEmergency2021, covidlucknow",Australia,Wed Apr 21 14:04:12 +0000 2021
+1384883595861504003,negative,0.637377917766571,-1.286923885345459,3.8740832805633545,Just been told a close family frien has died in his sleep at 40 with ZERO symptoms of COVID-19. Fuck off world,,Australia,Wed Apr 21 14:55:53 +0000 2021
+1384904940783558660,negative,1.6119499206542969,0.077057734131813,3.0731770992279053,"#Drop We are currently too busy suffering the pandemic implications that we have almost lost our attention to climate change.Last chance to visit @scenicworld_aus before the exhibition finishes on the 1st of May
+#art #sculpture #exhibition #contemporaryart #outdoor #climatechange https://t.co/pfPQNjeVhi","Drop, art, sculpture, exhibition, contemporaryart, outdoor, climatechange",Australia,Wed Apr 21 16:20:42 +0000 2021
+1384918313554391042,neutral,2.095008373260498,-0.7744548320770264,1.0833463668823242,"India COVID-19 outbreak hits NT as Howard Springs quarantine facility records surge of new cases
+https://t.co/A1k8d2jltj",,Australia,Wed Apr 21 17:13:51 +0000 2021
+1384918385553776648,neutral,2.40726637840271,-0.5615434646606445,0.5879863500595093,"WA Health Department confirms two people contracted COVID-19 in hotel quarantine in Perth
+https://t.co/m2Kk6JIayg",,Australia,Wed Apr 21 17:14:08 +0000 2021
+1384922401461395459,negative,0.645392656326294,-0.0364379957318306,0.6733382344245911,life w no mask go crazy,,Australia,Wed Apr 21 17:30:05 +0000 2021
+1384918572506492933,positive,1.5497932434082031,2.0090994834899902,-0.1220272257924079,"@stephendziedzic Meanwhile @DanielAndrewsMP working on his recovery (""you only get one shot at this"" he says) AND pulled off a great deal with Monash, Melb.Uni and Doherty Institute for a vaccine production facility for MRNA vaccines to deal with variants,  and possibly future cancer vaccines. ✔",,Australia,Wed Apr 21 17:14:52 +0000 2021
+1384926117354688513,negative,1.4398645162582395,-0.9467665553092957,2.130458354949951,"@JJVHouse Yes, a friend doesn't want the vaccine because she's worried about blood clots. Most of us here in Australia are being offered the AstraZeneca vaccine.",,Australia,Wed Apr 21 17:44:51 +0000 2021
+1384937333678608384,negative,1.3538130521774292,-0.2809561789035797,1.6043959856033323,"@varindersingh24 Yes, a friend of mine doesn't want the vaccine because she's worried about blood clots. Most of us here in Australia are being offered the AstraZeneca vaccine. I will get it as soon as I'm eligible.",,Australia,Wed Apr 21 18:29:25 +0000 2021
+1384956212626735107,negative,0.4283903539180755,-0.3548401296138763,1.9267380237579343,"Massive baffling Indian wave multiple mutations, impacting under 40s - complacency is dangerous https://t.co/ggbyLLZCIR",,Australia,Wed Apr 21 19:44:26 +0000 2021
+1384956887368704001,positive,2.392378807067871,4.645711421966553,-1.41862690448761,"Every Thursday from 6pm our “all you can eat” Schnity Night returns!
+
+To be Covid Compliant we will “serve U” from our buffet!
+
+Bookings are VERY essential!!
+
+📞 83892319 to book (now even MORE essential) to reserve your table! https://t.co/bjOWqvhx70",,Australia,Wed Apr 21 19:47:07 +0000 2021
+1384971574508494849,negative,0.7280110716819763,-0.2213897407054901,2.4336133003234863,"‘Couldn’t be happier’: .@VictorianCHO Brett Sutton gets jab https://t.co/0wJqb5pqev @theage We just need to get on &amp; #ImmuniseNow #COVID19 is just a sneeze away. Don’t want another lockdown, get infected or worse. Need clear steer esp &lt;50. @ausgpalliance @amavictoria @racgp","ImmuniseNow, COVID19",Australia,Wed Apr 21 20:45:29 +0000 2021
+1384965009252524032,positive,1.990772008895874,3.883746862411499,-1.1026149988174438,@DavidCampbell73 How sweet I have 7 Maori cousins and love NZ. We had our honeymoon there 25 years ago in June this year. We wanted to go back this year and have vow renewal but the virus and other hurdles came along. Maybe one day again.,,Australia,Wed Apr 21 20:19:24 +0000 2021
+1384978291442929666,negative,1.2440255880355835,-1.2207860946655271,3.1982548236846924,Your state was literally in a 3month lockdown and had numerous businesses shut down and your city is dead 🤦🏻‍♂️ https://t.co/D91qUDsN9k,,Australia,Wed Apr 21 21:12:10 +0000 2021
+1384980459176689666,negative,0.5948552489280701,0.2335908412933349,0.8466553092002869,This global recovery is still progressing at breakneck speed. https://t.co/gyADLkEn0t,,Australia,Wed Apr 21 21:20:47 +0000 2021
+1384984597860012034,neutral,2.0792951583862305,-0.8386716842651367,1.5500274896621704,"@pattymalone2000 @ChrisReason7 Two people staying at a Perth quarantine hotel have contracted COVID-19 while at the facility, the Western Australian Health Department has reported.    22/4",,Australia,Wed Apr 21 21:37:14 +0000 2021
+1384985393053851648,negative,0.9392134547233582,0.2785516381263733,1.660660743713379,"After a period of lockdown, health and economic pressures, it’s time to think about prevention and management of cardiovascular disease again. UNSW Staff can now book in with our 4th year Ex Phys students to do a quick heart health check! No treadmills or difficult tests involved https://t.co/iWZqQwpG2T",,Australia,Wed Apr 21 21:40:24 +0000 2021
+1384987715456831492,negative,0.9593149423599244,-0.809096097946167,1.7690657377243042,@DDsD In America they are only now realising Corona is a problem,,Australia,Wed Apr 21 21:49:37 +0000 2021
+1384988884568739842,positive,1.4267117977142334,2.3056869506835938,-0.1157395765185356,"Was in WA a few weeks ago; travelled around a bit 
+
+Overwhelming positive feel in community in &amp; around Perth; business booming, people happy, etc 
+
+State election example of democracy at work 
+
+In short McGowan’s approach re boarder closures has strong WA community support 👀 https://t.co/ENgEExKfXm",,Australia,Wed Apr 21 21:54:16 +0000 2021
+1384979140407742465,positive,0.6705408096313477,1.343552589416504,0.9778522849082948,"@safiakhan71 I’m glad your family got hit by this pandemic too, I hope this covid would do what @BJP4India couldn’t do. May soon they depart this earthly vessel and fly on the color full rainbow. Omar can stay, I reckon he isn’t too bad. Cheers",,Australia,Wed Apr 21 21:15:33 +0000 2021
+1384989218141663234,neutral,2.1327474117279053,0.7188769578933716,0.3666357696056366,"Victoria does what Morrison Government should have done last July.             Victoria announces $50m to fund mRNA COVID-19 vaccine production in Australia, paving way for Pfizer-style manufacturing - ABC News https://t.co/ETZTealazt",,Australia,Wed Apr 21 21:55:36 +0000 2021
+1384975945908375554,negative,1.8001675605773926,-0.8216961026191711,2.253817558288574,"@HospitalsApollo so, we called Apollo to setup appointment for vaccine and they took details and said would call. No call. Then, we used the govt app to setup appointment but was told “no vaccine. Call tomorrow and come ..”WTH",,Australia,Wed Apr 21 21:02:51 +0000 2021
+1384979106131976192,negative,1.152260184288025,-0.9188475012779236,2.3948214054107666,"What's gone wrong with Australia's vaccine rollout?
+https://t.co/q24ZS9aOE4
+
+#COVID19Vaccine #Australia #ballsup","COVID19Vaccine, Australia, ballsup",Australia,Wed Apr 21 21:15:25 +0000 2021
+1384982197132619778,positive,0.8099054098129272,0.9766690135002136,0.4599252343177795,"Australia, why not support your own brilliant researchers? I was told there have been so many wonderful things invented in Australia, including frige, usb, hpv vaccine, etc. --- through Chinese media",,Australia,Wed Apr 21 21:27:42 +0000 2021
+1384980927244349444,negative,0.6704790592193604,-0.3941056430339813,2.649421453475952,"I’m gunna REALLY show my stupid here... if I can still catch and transmit corona when vaccinated, is it just to lessen the impact of the virus on myself (should I contract it) that I’m being vaccinated?",,Australia,Wed Apr 21 21:22:39 +0000 2021
+1384991729971916802,neutral,1.130182862281799,0.6936421394348145,0.9606186747550964,"Max has built an outstanding website, but why does he need to do it for free when there are many global bodies that just won’t do the basic work of data collection? They would have a lot more coercive power to ensure consistency, rather than a researcher and his small team. https://t.co/F0jUz6d9EC",,Australia,Wed Apr 21 22:05:34 +0000 2021
+1384992315626848256,negative,1.5470614433288574,-0.74361652135849,2.043087720870972,"People’s actions shows exactly who they are not necessarily what they say. Look at pandemic holding on to power at all cost, the same power he used to rubbish before he was invited to the table. Hypocrite",,Australia,Wed Apr 21 22:07:54 +0000 2021
+1384996553685803011,negative,1.450018286705017,-0.9067599177360536,2.141291856765747,"55 days of zero locally cases
+
+0 cases acquired interstate 
+
+2 cases acquired overseas 
+
+19 active cases
+
+13,951 test results received 
+
+142 days of zero lives lost
+
+#COVIDー19 #COVID19Vic","COVIDー19, COVID19Vic",Australia,Wed Apr 21 22:24:45 +0000 2021
+1384996666051153922,neutral,2.0010812282562256,0.8848526477813721,-0.8702243566513062,Locally acquired in HQ https://t.co/XPNbnTJs9R,,Australia,Wed Apr 21 22:25:11 +0000 2021
+1384996942917226497,neutral,1.9445949792861936,-0.2561487257480621,1.520336389541626,"1/3
+What is the duty of care &amp; legal responsibility of the @ausgov  &amp;  @healthgovau 
+to protect their citizens around the nation from a further new contagious COVID19 pandemic continuing into 2022, 2023, 2024 &amp; so on ?
+Cc:
+@SkyNewsAust
+@newscomauHQ
+@abcnews
+@4corners",,Australia,Wed Apr 21 22:26:17 +0000 2021
+1384997472158707713,neutral,1.8521535396575928,-0.1299097537994384,1.405980944633484,"1/3
+What is the duty of care &amp; legal responsibility of the @ausgov  &amp;  @healthgovau 
+to protect their citizens around the nation from a further new contagious COVID19 pandemic continuing into 2022, 2023, 2024 &amp; so on ?
+Cc:
+@ForeignOfficial
+@7NewsAustralia
+@9NewsAUS
+@10NewsFirst",,Australia,Wed Apr 21 22:28:24 +0000 2021
+1384997614077157380,neutral,1.9083306789398196,-0.1590157449245453,1.3789397478103638,"1/3
+What is the duty of care &amp; legal responsibility of the @ausgov  &amp;  @healthgovau 
+to protect their citizens around the nation from a further new contagious COVID19 pandemic continuing into 2022, 2023, 2024 &amp; so on ?
+Cc:
+@SBSNews
+@BBCNewsAus
+@GuardianAus",,Australia,Wed Apr 21 22:28:57 +0000 2021
+1385002485824196609,negative,1.582184910774231,-1.090148687362671,2.5487914085388184,"2/3
+If the @ausgov  @healthgovau knowingly allows infected citizens &amp; or overseas visitors to enter  Australia from today without being vaccinated twice &amp; compulsory 14 day isolation plus a citizen dies from that COVID19 strain, isn't the @ausgov legally liable?
+Cc:
+@SkyNewsAust",,Australia,Wed Apr 21 22:48:19 +0000 2021
+1385003220561371138,negative,1.2188093662261963,-1.0427794456481934,3.1201534271240234,"3/3
+Is the @ausgov  @healthgovau
+going to make compulsory vaccinations, tests and 14 day hotel isolation before entering Australia to stop all variants of COVID19.
+AUSTRALIA is still at high risk of third wave pandemic worse than the first with overseas flights, cruise ships . .",,Australia,Wed Apr 21 22:51:14 +0000 2021
+1385003650246799361,neutral,1.2602654695510864,1.1333516836166382,0.4683612287044525,"3/3
+. . . . private jets, super yachts, cargo ships as recently reported in WA.
+Cc:
+@ausgov
+@healthgovau
+@SkyNewsAust
+@newscomauHQ
+@abcnews
+@4corners
+
+@ForeignOfficial
+@7NewsAustralia
+@9NewsAUS
+@10NewsFirst
+
+@SBSNews
+@BBCNewsAus
+@GuardianAus https://t.co/q2QHyczPJ6",,Australia,Wed Apr 21 22:52:56 +0000 2021
+1385003701253730307,neutral,2.178300380706787,-0.4091071486473083,1.550638198852539,"The NT Howard Springs quarantine facility is dealing with more than 20 COVID-19 cases — its highest number since it began handling repatriation flights last year — with the majority coming from India in the wake of the country’s record second wave.
+Open borders, Mr Morrison?",,Australia,Wed Apr 21 22:53:09 +0000 2021
+1385004197528047622,positive,1.4833282232284546,1.6365900039672852,0.090273730456829,"And we get it with covid - it's hard to try and predict what could happen! Let's hope when we reach the new normal, the floating fixture is done!",,Australia,Wed Apr 21 22:55:07 +0000 2021
+1384990890440073217,positive,1.1747252941131592,3.049170970916748,-0.2631121873855591,"@AndyBlaho We have a few investors already keen on LA. Because of covid, we are going to spend the next few months focusing on Australia and then expand out! So exciting!",,Australia,Wed Apr 21 22:02:14 +0000 2021
+1384995467612749826,negative,0.9846980571746826,-0.7535406351089478,2.474104404449463,"Port Arthur Massacre: 8 years old. 
+Columbine: 11
+9/11: 13
+Iraq: 15
+Great Recession + Wall Street gets away with it: 20
+
+But sure, COVID was the wake up call for “death anxiety” https://t.co/IH5TM9b81Y",,Australia,Wed Apr 21 22:20:26 +0000 2021
+1384997336326180864,positive,0.3077612519264221,2.511157989501953,-0.3884730637073517,great for Bunnings. Aussies could get their COVID-19 jab at Bunnings https://t.co/ZPGFHLhuNv,,Australia,Wed Apr 21 22:27:51 +0000 2021
+1385002439527387136,positive,1.2939085960388184,1.374375581741333,0.1072213053703308,"@TiboreTime If you spend time close in the same space, a hug, elbow bump, or high five will  probably make no difference when covid particles are air bourne. You might as well hug.",,Australia,Wed Apr 21 22:48:08 +0000 2021
+1385004488658882562,neutral,2.2663424015045166,0.0295791923999786,1.041128635406494,"WA’s Health Department has confirmed two people contracted COVID-19 in hotel quarantine in Perth, news The West Australian ($) reports has seen Mark McGowan also suggest a potential flight ban. NSW is also examining a potential spread in a second Sydney hotel.
+Crikey",,Australia,Wed Apr 21 22:56:16 +0000 2021
+1385006521726103554,neutral,2.043179988861084,-0.1218638494610786,1.164714813232422,"Two months of zero community transmission in the state of Victoria, with 19 active cases all from overseas arrivals and all in hotel quarantine. https://t.co/0zLijscT1w",,Australia,Wed Apr 21 23:04:21 +0000 2021
+1385007421794394114,negative,0.3755293488502502,-0.5607752799987793,3.638077974319458,"Shame on you @TheTodayShow, you know you have WA viewers too right? You do a big story on Sydney hotel COVID, but only says at the end ‘the same is happening in Perth’ WA always gets forgotten!! SHAME!!!",,Australia,Wed Apr 21 23:07:56 +0000 2021
+1385010614288846851,neutral,2.06911563873291,-0.4033008515834808,1.7977291345596311,"(3)
+The British-registered Diamond Princess was the first cruise ship to have a major outbreak on board, with the ship quarantined at Yokohamafrom 4 February 2020 for approx 1 month. 
+Over 700 people became infected, and 14 people died.",,Australia,Wed Apr 21 23:20:37 +0000 2021
+1385011014232539140,neutral,1.5838568210601809,0.6264874935150146,0.6435516476631165,"At the time, the ship accounted for over half the reported cases of SARS-CoV-2 outside of mainland China.
+https://t.co/g7zsgYxCs6 
+CC:
+@DrTedros
+@WHO
+
+@POTUS
+@VP
+@CDCDirector
+@CDCGlobal
+@HHS_ASH
+@SpoxHHS
+@NIHDirector
+@NIHprevents
+@Alaska_DHSS
+@GovDunleavy
+@HawaiiDOH
+@GovHawaii https://t.co/AlwyvjU4zi",,Australia,Wed Apr 21 23:22:12 +0000 2021
+1385011514462019587,neutral,1.4395748376846311,0.2285935580730438,0.973471462726593,"At the time, the ship accounted for over half the reported cases of SARS-CoV-2 outside of mainland China.
+https://t.co/g7zsgYxCs6 
+CC:
+@CanadianPM
+@JustinTrudeau
+@CPHO_Canada
+@CanadaFP
+
+@BorisJohnson
+@10DowningStreet
+@CMO_England
+@PHE_uk
+
+@thepmo
+@healthgovau
+@GregHuntMP https://t.co/IqLFqq11i7",,Australia,Wed Apr 21 23:24:11 +0000 2021
+1385014360859361284,neutral,1.1119744777679443,0.5475947260856628,0.9363325834274292,"Please remember when the COVID19 pandemic began how the cruise industry acted.
+For accurate COVID19 cruise ship stats, contact 
+@taydolven
+CC:
+https://t.co/r9DZRylhWx
+@CDCDirector
+@NIHDirector
+@SpoxHHS
+@SecAzar
+@WhiteHouse
+@HIgov_Health
+@HawaiiDOH
+@Alaska_DHSS
+@AlaskaDHSEM https://t.co/sS5jKGJWcq",,Australia,Wed Apr 21 23:35:30 +0000 2021
+1385014507773206533,positive,1.4553531408309937,1.8204611539840696,-0.6326113939285278,55 in a row!! https://t.co/ID57fiZx7P,,Australia,Wed Apr 21 23:36:05 +0000 2021
+1385015113027973121,positive,1.1256434917449951,1.5056378841400146,0.2467938214540481,@seanmmitchell Just had my flu jab for upcoming southern hemisphere winter. Fortunately for us in 🇦🇺 it could be argued it's more important than #COVID19 jab atm. Good luck rest of 🌏,COVID19,Australia,Wed Apr 21 23:38:29 +0000 2021
+1385015221324972037,neutral,1.1101077795028689,0.5970849990844727,0.7862467765808105,"Please remember when the COVID19 pandemic began how the cruise industry acted.
+For accurate COVID19 cruise ship stats, contact 
+@taydolven
+
+CC:
+@minhealthnz
+@MOHFiji
+@CMO_England
+@CPHO_Canada
+@healthgovau 
+ https://t.co/LkbtmSBhV2 https://t.co/dt0SeKVF2c",,Australia,Wed Apr 21 23:38:55 +0000 2021
+1385017293231456260,neutral,2.7331433296203613,2.2888529300689697,-0.8040618300437927,If Sunday’s crowd is a sell-out it’ll be the biggest in the Tropic of Capricorn this close to a full moon since the pandemic began,,Australia,Wed Apr 21 23:47:09 +0000 2021
+1385006346555199491,negative,1.4973162412643433,-1.0189253091812134,2.4642951488494877,"(1)
+How dangerous are the COVID19 new variants to the global population? https://t.co/05h6V69DBA. 
+
+Cruise ships affected by COVID19 infections &amp; deaths of passengers and crew members worldwide.
+https://t.co/g7zsgYxCs6
+
+CC:
+@CPHO_Canada
+@CanadaFP",,Australia,Wed Apr 21 23:03:39 +0000 2021
+1385006642563981313,negative,1.4937108755111694,-1.0150532722473145,2.4718356132507324,"(1)
+How dangerous are the COVID19 new variants to the global population? https://t.co/05h6V69DBA. 
+
+Cruise ships affected by COVID19 infections &amp; deaths of passengers and crew members worldwide.
+https://t.co/g7zsgYxCs6 
+CC:
+@BorisJohnson
+@10DowningStreet
+@CMO_England
+@PHE_uk",,Australia,Wed Apr 21 23:04:50 +0000 2021
+1385006866351095816,negative,1.387337565422058,-0.8770890235900879,2.413607597351074,"(1)
+How dangerous are the COVID19 new variants to the global population? https://t.co/05h6V69DBA. 
+
+Cruise ships affected by COVID19 infections &amp; deaths of passengers and crew members worldwide.
+https://t.co/g7zsgYxCs6 
+CC:
+@thepmo
+@pmc_gov_au
+@healthgovau
+@GregHuntMP",,Australia,Wed Apr 21 23:05:43 +0000 2021
+1385007097809543168,negative,1.4437581300735474,-0.9566933512687684,2.450373411178589,"(1)
+How dangerous are the COVID19 new variants to the global population? https://t.co/05h6V69DBA. 
+
+Cruise ships affected by COVID19 infections &amp; deaths of passengers and crew members worldwide.
+https://t.co/g7zsgYxCs6 
+CC:
+@jacindaardern
+@winstonpeters
+@minhealthnz",,Australia,Wed Apr 21 23:06:38 +0000 2021
+1385007549062148100,negative,1.3430923223495483,-0.8021905422210693,2.3677260875701904,"(1)
+How dangerous are the COVID19 new variants to the global population? https://t.co/05h6V69DBA. 
+
+Cruise ships affected by COVID19 infections &amp; deaths of passengers and crew members worldwide.
+https://t.co/g7zsgYxCs6 
+CC:
+@fiji_opm
+@FijiPM
+@MOHFiji
+@Fiji_MOFA 
+@FijiAG",,Australia,Wed Apr 21 23:08:26 +0000 2021
+1385011070285221888,negative,1.105543613433838,-1.199979543685913,3.291616916656494,"Is there anything else this government can bugger up with this vaccine rollout???
+
+Syringe shortage could mean wasted Pfizer vaccine
+
+https://t.co/H40k0E5UfF",,Australia,Wed Apr 21 23:22:26 +0000 2021
+1385006592576212992,negative,0.820249080657959,-1.1849355697631836,3.3239870071411133,@HashCatzNFT Damn... did you workout hard? Or is it that crap of Covid?,,Australia,Wed Apr 21 23:04:38 +0000 2021
+1385006817441304576,neutral,2.8403189182281494,2.101229190826416,-0.4701780080795288,"But the recent research from Oxford University’s Economic Recovery Project showed Germany – a likely partner with Australia in one of the projects – spent $9bn on hydrogen alone as part of the Covid-19 recovery.
+The Guardian Australia",,Australia,Wed Apr 21 23:05:32 +0000 2021
+1385006913327300608,negative,0.8825597763061523,-0.4608031809329986,1.9410595893859863,"Plenty of masks, little or no social distancing &amp; parents can’t control screaming kids. Remind me what I missed not flying for 17 months #COVID #ThursdayThoughts","COVID, ThursdayThoughts",Australia,Wed Apr 21 23:05:54 +0000 2021
+1385008195056242690,negative,1.3393654823303225,-1.5800989866256714,4.118995189666748,The presenter on @triplej just said with reference to the people who caught Covid in hotel quarantine ‘but I want to dance’. Which perfectly summarises Australians’ selfish response. Not ‘those poor people who got ill due to NSW shitty quarantine’ but ‘how does this affect ME?’,,Australia,Wed Apr 21 23:11:00 +0000 2021
+1385009275831951364,neutral,1.575343370437622,0.4107257425785064,0.8870134353637695,"The COVID19 spread to dozens of cruise ships, with the nature of such ships—including crowded semi-enclosed areas, increased exposure to new environments, &amp; limited medical resources—contributing to the heightened risk &amp; rapid spread of diseases.
+https://t.co/g7zsgYxCs6",,Australia,Wed Apr 21 23:15:18 +0000 2021
+1385009375455039488,positive,0.6116697192192078,2.15726375579834,0.670690655708313,First time I haven’t seen my son for his birthday in 23 years ~ damn you Covid. It warms my heart though that he is very much loved and spoiled by his mother in law in Singapore ~ Tom ♥️🥳 https://t.co/mmiiwIJVxg,,Australia,Wed Apr 21 23:15:41 +0000 2021
+1385010091355611137,negative,0.9567704200744628,0.0003585517406463,1.3236507177352903,"Heightened risk &amp; rapid spread of diseases.
+https://t.co/g7zsgYxCs6  
+CC:
+@BorisJohnson
+@10DowningStreet
+@CMO_England
+@PHE_uk
+
+@thepmo
+@pmc_gov_au
+@healthgovau
+@GregHuntMP
+
+@jacindaardern
+@winstonpeters
+@minhealthnz
+
+@FijiPM
+@MOHFiji
+@Fiji_MOFA https://t.co/iKRwzAuomC",,Australia,Wed Apr 21 23:18:32 +0000 2021
+1385011929488400389,neutral,1.4737541675567627,0.4321638941764831,0.7539061307907104,"At the time, the ship accounted for over half the reported cases of SARS-CoV-2 outside of mainland China.
+https://t.co/g7zsgYxCs6 
+CC:
+@jacindaardern
+@winstonpeters
+@minhealthnz
+
+@FijiPM
+@fiji_opm
+@MOHFiji
+@Fiji_MOFA 
+@FijiAG https://t.co/73XOGI1oko",,Australia,Wed Apr 21 23:25:50 +0000 2021
+1385012643946123266,neutral,1.3890419006347656,0.7603024840354919,0.6813958287239075,@ParladeJr Focus to the situation which is the covid. The insurgency you are talking is always there ask your president he knows better. Gastosin nyo ang Intel budget sa kabutihan at kalusugan ng sambayanan.,,Australia,Wed Apr 21 23:28:41 +0000 2021
+1385013466331684867,negative,0.7368026375770569,-1.3854756355285645,4.401132106781006,"@TurnbullMalcolm 
+Remember this pack of bastards Mal.
+What a scurrilous mob
+.Michael Sukkar linked to branch stacking
+.Alan Tudge An immoral misogynist- a contradiction 
+  In terms
+.Greg Hunt Alledgedly untrustworthy,full of it,stuffed up Covid vaccination buy up and programme. https://t.co/m1qXADSGls",,Australia,Wed Apr 21 23:31:57 +0000 2021
+1385020071232241664,negative,1.392560601234436,-0.904411256313324,1.8644315004348757,"@funder No, bc here in Australia we took covid seriously and have no cases in the population, you had trump.",,Australia,Wed Apr 21 23:58:12 +0000 2021
+1385009598491283457,neutral,3.014312028884888,1.145967721939087,-0.3621284067630768,"Local vaccine clinic is open on Monday, Wednesday and Friday. These are the available appointments for just 1 vaccinator (they have 5) tomorrow.
+
+Perhaps it is time to move to the next phase? https://t.co/jaTYBeSGFL",,Australia,Wed Apr 21 23:16:35 +0000 2021
+1385012020836147200,positive,0.9720385670661926,0.9763679504394532,0.5098974704742432,@EddieMoore59 @abcnews @IndigenousX @NACCHOAustralia @WHO @AstraZeneca Still *very* rare when you compare number of cases to number of vaccine shots administered.,,Australia,Wed Apr 21 23:26:12 +0000 2021
+1385013258113851395,neutral,1.0654242038726809,0.1624913215637207,0.7565968632698059,"@VictorianCHO my 81yo father had the AZ vaccine with no after effects, gee you’re soft 🤣",,Australia,Wed Apr 21 23:31:07 +0000 2021
+1385171854164303878,negative,1.268083930015564,0.3772745728492737,1.2842199802398682,"@softsignalout It's beyond words, Srini. I spoke with a few friends in Bangalore. Everyone had a story - mass infections in a household, a few recoveries, death of someone, ICU, Oxygen etc. But the Corona War room in Bangalore seems to be well organised, with a few of my friends volunteering",,Australia,Thu Apr 22 10:01:19 +0000 2021
+1385172469858770944,negative,1.3317389488220217,-0.602834939956665,1.788366675376892,"@chardycatt @mpsmithnews Yes &amp; you can’t call it the China virus  yet all the mutant variants are named UK, South African etc. what a hide",,Australia,Thu Apr 22 10:03:46 +0000 2021
+1385180817236713473,negative,1.6723463535308838,-0.6057412624359131,1.7764945030212402,"Send back all those illegal immigrants to their homes countries as what had been practically done in my country Malaysia without further compromise and consideration ✌️👍🥇 in case they are legal, let's give them a chance if there is https://t.co/Fjzw78jmRs",,Australia,Thu Apr 22 10:36:56 +0000 2021
+1385182647857532935,negative,0.8073092699050903,-0.0852145031094551,2.0047547817230225,I don’t think some people actually realise how blessed we are to be living in a country like Australia. Covid causing havoc in the whole world and life in Australia is completely normal as if nothing ever happened.,,Australia,Thu Apr 22 10:44:13 +0000 2021
+1385182734557978624,negative,0.8137292265892029,-0.0239954888820648,0.8346917629241943,Animals are animals. That's why they are animals https://t.co/PnleJoXG3r,,Australia,Thu Apr 22 10:44:34 +0000 2021
+1385185824459747328,negative,1.2639648914337158,-0.6085821986198425,2.1748807430267334,"@RaoDpk @ArunKrishnan_ @softsignalout @Onlycriceat Yes, the misinformation on vaccination is going crazy. In 2020, they used Jasleen Bhalla's voice on phone messages to propagate messages on Covid, masking &amp; social distancing. Why are they not updated in 2021 for vaccination? PS: I've not heard from any phone so far.",,Australia,Thu Apr 22 10:56:50 +0000 2021
+1385175884269719552,negative,0.8192801475524902,0.7567653059959412,1.4624584913253784,@wokabaut_meri @JudithSherry1 @captain_stavros @TheRoyalRant @Russputin2 @pastry212 @PCKJ3627 @FionaPatton10 @alasnich @denniallen Yep good to know the odds and compare it to other risks. Perhaps risks of developing blood clots from other drugs used and activities eg flying. and the risks of what Covid presents. We are in desperate times and need to make decisions.,,Australia,Thu Apr 22 10:17:20 +0000 2021
+1385176701525577731,negative,1.1401102542877195,0.1724185943603515,1.19316828250885,@monica_2978 @matthewhayden What will happen if we don’t open our boarders to countries with high COVID rates. I’ll tell you nothing.,,Australia,Thu Apr 22 10:20:35 +0000 2021
+1385183895696539654,negative,0.3866748213768005,-0.3436794281005859,2.7590949535369877,I lost my father yesterday to COVID-19. Couldn’t even say good bye as I was thousands of kilometres away. Nor could my family say a proper goodbye due to COVID protocol. This tribute touched me as he trained 100s of doctors who serve today in J&amp;K in this pandemic.  #unfair https://t.co/PUOGjjPBZJ,unfair,Australia,Thu Apr 22 10:49:10 +0000 2021
+1385176283445829637,neutral,1.370685338973999,0.4895922243595123,0.7508931159973145,"@bigyahu There will be one vaccine for quite a lot of money, and another ridiculously cheap one (I think we can guess which), and they will be your only choices",,Australia,Thu Apr 22 10:18:55 +0000 2021
+1385180129068929032,neutral,1.7620501518249512,1.2200568914413452,-0.2754880785942077,@MFWitches I want to get the Pfizer vaccine and will wait until there are more supplies,,Australia,Thu Apr 22 10:34:12 +0000 2021
+1385177084054564864,negative,0.6967573165893555,-1.0077018737792969,3.692235231399536,Totally agree but let’s makes sure the weak and poor don’t the shit end of the deal as the usually do. Don’t import the  virus for the sake of a quick economic fix. Brains are required not emotions to fix this virus. Don’t manipulate the experts for political gain. Just saying!!! https://t.co/D2zsfwwirT,,Australia,Thu Apr 22 10:22:06 +0000 2021
+1385188883546075141,negative,0.5339460968971252,0.1795926839113235,1.437313199043274,Cannot imagine the terror and trauma of watching a loved one or patients tick closer towards suffocation as O2 stores run out... https://t.co/672qGrdXCT,,Australia,Thu Apr 22 11:09:00 +0000 2021
+1385189026194329601,positive,0.9224595427513124,3.514788627624512,-0.9210989475250244,Help each other for good and goodness https://t.co/6irK9IBTvN,,Australia,Thu Apr 22 11:09:34 +0000 2021
+1385193290266406917,positive,1.3867104053497314,1.6981583833694458,0.6218985915184021,"1000 people standing last night at The @teskeybrothers show at the @ForumMelbourne Theatre. Actual capacity is 2100. They play two sessions over one night. The band has to work TWICE as hard to play to almost the same number of punters, pre-pandemic. These are the facts! 🤷‍♂️❤️⚡️🐓 https://t.co/NSLQ1srhQ0",,Australia,Thu Apr 22 11:26:30 +0000 2021
+1385193892744613890,negative,1.0137804746627808,-0.3970746994018554,1.9052472114562988,"@ArunKrishnan_ Arun, yes, there have been biased stories published about India. I know those authors very well. But on Covid-from BBC to Sky&amp;from CNN to Fox, they have showed heartrending stories on deaths, morgues, funerals, sobbing relatives from Italy, Spain, New York, Brazil. Not just India",,Australia,Thu Apr 22 11:28:54 +0000 2021
+1385195831968497672,negative,0.9451773166656494,-0.5574250221252441,2.653968811035156,Of course there is nothing wrong with making money @parang_dalal - I spend my waking life helping to make business thrive. This is not the issue - it is that a small number of people are privileged and prosper during the #pandemic because they are belong to an elite culture https://t.co/IBXLHKNdGi,pandemic,Australia,Thu Apr 22 11:36:36 +0000 2021
+1385195836443742209,positive,0.8463274836540222,2.6373279094696045,0.2543668448925018,Excited to see this one out! I wonder if qual findings on face-to-face vs online learning would be different now with pandemic?! https://t.co/lXioAWuXXA,,Australia,Thu Apr 22 11:36:37 +0000 2021
+1385197712182636546,neutral,1.5454730987548828,-0.2837891578674316,0.4969473481178283,"500,000 children paralysed by 
+Gates vaccine in India. https://t.co/N4CvWpitxu",,Australia,Thu Apr 22 11:44:04 +0000 2021
+1385201206830637057,neutral,2.93526029586792,2.105259418487549,-0.2460624426603317,"Join our online ASEAN symposium which will bring together educators from across the ASEAN region to discuss the major issues faced by education systems through the region during, and following the COVID-19 pandemic.
+https://t.co/h4nkMPJYlP",,Australia,Thu Apr 22 11:57:58 +0000 2021
+1385188139082289155,neutral,1.3817873001098633,0.7916370630264282,0.5852466225624084,"@SamirMadi01 I would hope covid patients would be inactive, or is that how it all spread around the world in the first place? 🤔",,Australia,Thu Apr 22 11:06:02 +0000 2021
+1385188763182137344,negative,1.23160719871521,-1.4101094007492063,3.585805654525757,Snot everywhere. Doctor certificate obtained. Covid test ordered. Whole days work done and sent in. Why tf do I still feel like a guilty lying scumbag when I call in sick?,,Australia,Thu Apr 22 11:08:31 +0000 2021
+1385191831512576002,neutral,1.1112736463546753,0.2081169039011001,0.619788646697998,@masterchefau @Zonfrillo I can imagine Jock using that as a face mask https://t.co/t3M5nNquPI,,Australia,Thu Apr 22 11:20:42 +0000 2021
+1385204505772388356,positive,1.2498880624771118,1.5535733699798584,-0.4681279361248016,@umashankarsingh @news24tvchannel I wish you Covid Mr k,,Australia,Thu Apr 22 12:11:04 +0000 2021
+1385208792644603909,negative,1.2249586582183838,0.1935849785804748,1.5381544828414917,"@Anthony70069930 @CNN A good therapist will also tell you if you hang in the past for so long you won’t be able to move on. My comment was for Biden, instead of worrying about what others have done in the past, he should concentrate on covid and gun related issues in the US rather than worry about",,Australia,Thu Apr 22 12:28:06 +0000 2021
+1385212987284230148,negative,1.6162922382354736,-0.7332699298858643,1.886576771736145,"@guchaetama Yeh I texted him...still no reply ..
+apparently he stayed home cos got COVID-19 vaccination yesterday leaving me in stress and point of totally mental melt down....left everything to me who has been away from the work place for nearly a week",,Australia,Thu Apr 22 12:44:46 +0000 2021
+1385216071259418626,negative,0.9610018134117126,-0.6714026927947998,1.4883646965026855,No false statements here. https://t.co/R09PrtSFyC,,Australia,Thu Apr 22 12:57:02 +0000 2021
+1385212931927801859,negative,1.2715933322906494,0.3486727774143219,1.5483030080795288,"@Pleasure_Lab Well they originally had them just in hell but then the Hillsongers opened the portal and out popped 7.30 am breakfast meetings, coronavirus and earl grey tea! (Bergamot should not be in beverages)!",,Australia,Thu Apr 22 12:44:33 +0000 2021
+1385207323568705537,negative,1.0401792526245115,-0.6153019070625305,1.4314525127410889,More Exercise Lowers Risk of Severe COVID-19: Study https://t.co/VN4eiWz0rz from @WebMD,,Australia,Thu Apr 22 12:22:16 +0000 2021
+1385210841599934466,neutral,1.766146183013916,0.902198851108551,0.0404746197164058,"This resonates and maybe they’re right... maybe we start by giving it a name.
+https://t.co/w8rmSLnzOb",,Australia,Thu Apr 22 12:36:15 +0000 2021
+1385217992171003906,negative,0.025899551808834,-0.017189435660839,0.5868681073188782,Grief https://t.co/KmOwinQdiF,,Australia,Thu Apr 22 13:04:40 +0000 2021
+1385220721501118465,negative,0.9047141671180724,-0.0740546062588691,0.9161567091941832,@ChloeBouras @10NewsFirst AZ protects against Covid-19 varients like tonic water protects against Malaria.,,Australia,Thu Apr 22 13:15:30 +0000 2021
+1385228020944801801,negative,1.220250129699707,-0.7924465537071228,2.278507232666016,@narendramodi Please don’t go PM looks after your nation and lots of people dying. Emergency alert in the country and lock down all over the Indian. Please save india,,Australia,Thu Apr 22 13:44:31 +0000 2021
+1385231359422058508,negative,1.1332876682281494,-0.505515992641449,1.4005589485168457,"Coronavirus NSW: Healthcare workers in NSW cancelling AstraZeneca jab appointments, waiting for Pfizer https://t.co/VQzQ3NCu4U",,Australia,Thu Apr 22 13:57:47 +0000 2021
+1385229135203602433,negative,1.1678776741027832,-0.6771394610404968,1.413061022758484,@SaintEd61 The only change is the CCP Virus 🦠🦠🦠,,Australia,Thu Apr 22 13:48:56 +0000 2021
+1385238196535971844,negative,1.2709940671920776,-1.0266172885894775,3.5959253311157227,"@DrEricLevi Tomorrow is the first day of no masks in our rooms. And we are a paediatric practice.
+
+However I fear the worst for  mass infection with the Covid-19 varients this winter. And AZ does nothing to protect from the SA or Brazialian strains.",,Australia,Thu Apr 22 14:24:57 +0000 2021
+1385240914247913474,positive,0.559554398059845,1.0352567434310913,0.5965359807014465,Support the people helping the people! https://t.co/iP3WiQCOha,,Australia,Thu Apr 22 14:35:45 +0000 2021
+1385243093218119680,negative,0.8857284784317017,-0.2244094610214233,1.1406335830688477,"Support the people who support the people...
+
+https://t.co/Sr7ZdkdkDI https://t.co/iP3WiQCOha",,Australia,Thu Apr 22 14:44:24 +0000 2021
+1385254579416170502,negative,0.3794840276241302,-0.2373876869678497,2.924801826477051,"Sad And disturbing.
+I hope @Asad_Umar  @fslsltn  and @ImranKhanPTI   @Jhagra  and every one involved in COVID response in Pakistan expediate their efforts and take timely decision.
+Pakistan Need to take drastic steps for next 6 weeks to survive the Third wave. https://t.co/QBkUxIsMDS",,Australia,Thu Apr 22 15:30:03 +0000 2021
+1385248401084743681,negative,1.198603630065918,-0.7054495811462402,2.4470009803771973,"If you've ever said to yourself, idk maybe the conservative party in my state have some valid points, then don't worry, you're golden. 
+
+You're immune to the effects of your own stupidity, and now also mainstream COVID.",,Australia,Thu Apr 22 15:05:30 +0000 2021
+1385247641278181379,neutral,1.6687558889389038,-0.1984675526618957,0.9886677861213684,"If you've ever been sunburned that you've looked like a cooked lobster served with tomatoes, then don't worry about what's in the vaccine.",,Australia,Thu Apr 22 15:02:28 +0000 2021
+1385247728695795715,negative,1.3753457069396973,-0.6653685569763184,2.02056097984314,"If you've ever sped in a school zone, you were in more danger of losing your license than from what's in the vaccine.",,Australia,Thu Apr 22 15:02:49 +0000 2021
+1385247810606407687,negative,0.992466926574707,-0.3580737709999084,1.788172960281372,"If you've ever cried about a boy, then don't worry about what's in the vaccine. Boys hurt you way more of the time.",,Australia,Thu Apr 22 15:03:09 +0000 2021
+1385247879141281793,negative,1.3365205526351929,-0.7000702619552612,1.8410563468933103,"If you've ever forgot someone's name during sex, don't worry about what's in the vaccine. Getting vaccinated is much less risky.",,Australia,Thu Apr 22 15:03:25 +0000 2021
+1385248227482505225,neutral,1.6287047863006592,-0.1603026390075683,0.830217719078064,"If you've ever mixed weed and beer, don't worry about what's in the vaccine.",,Australia,Thu Apr 22 15:04:48 +0000 2021
+1385248555854536715,neutral,1.8092331886291504,-0.5385132431983948,1.3376201391220093,"If you've ever just let YouTube take you to a strange corner of the internet, then don't worry about what's in the vaccine.",,Australia,Thu Apr 22 15:06:07 +0000 2021
+1385248803532410881,negative,1.5741695165634155,-0.527514636516571,1.9126938581466677,"If you've ever listened to a Joe Rogan podcast and also don't know what a slippery slope is, then don't worry about the consequences of the vaccine, just go and get it.",,Australia,Thu Apr 22 15:07:06 +0000 2021
+1385251171963523077,neutral,1.825034737586975,0.3556522727012634,0.4409112632274627,"If you've ever spent money on a Jordan Peterson book, then you can afford to get the vaccine.",,Australia,Thu Apr 22 15:16:30 +0000 2021
+1385266498726371331,negative,0.6252909898757935,-1.0122650861740112,3.6031370162963863,@RoryBurnside @migga Awful situation for so many people. Must be terrifying to be in India now. If it were me or my family in India I’d be devastated by this news. On the other hand I don’t want my peeps here exposed either. Or another lockdown. No win.,,Australia,Thu Apr 22 16:17:24 +0000 2021
+1385273784286908416,negative,1.1880617141723633,-0.6871713399887085,2.7722620964050293,"@TheKouk @MdmAbsentMinded The arts, before COVID 19  was worth $$$$ billions to our national economy compared to the crap dug up thus defacing vast swathes &amp; just walking away to defile &amp; corrupt some poorer country.",,Australia,Thu Apr 22 16:46:21 +0000 2021
+1385282965526122497,neutral,1.7401673793792725,1.1322511434555054,0.5105610489845276,Everyone is still midst in a pandemic and here's Katy planning a Vegas residency and hoping for less restrictions.,,Australia,Thu Apr 22 17:22:50 +0000 2021
+1385295926961479680,negative,0.8681180477142334,0.4180446267127991,1.948150396347046,"#freedom and coming home, at the same time. That’s the way you’re supposed to live your life.... right after the #australianfires right before the #pandemic I never wasted a minute .... #tbt #throwbackthursday https://t.co/DqWmqNizhW","freedom, australianfires, pandemic, tbt, throwbackthursday",Australia,Thu Apr 22 18:14:21 +0000 2021
+1385301875356954626,negative,0.4790278077125549,0.2904985547065735,1.4050955772399902,@AliSaoirse @Milliganreports Ali such heartbreak - it’s desperately sad the depth of tragedy that COVID is bringing to that beautiful country and people,,Australia,Thu Apr 22 18:37:59 +0000 2021
+1385301649032323072,negative,1.3500043153762815,-0.4568360149860382,1.846496820449829,"My 94 year old mother in a nursing home. No staff or residents have had covid vaccine. Authorities cannot tell them when it might occur.
+Total absence of an effective plan from @ScottMorrisonMP despite dozens of announcements to the contrary.
+#whereismyvaccine
+#auspol 
+#LNPfail https://t.co/ViykSpesfr","whereismyvaccine, auspol, LNPfail",Australia,Thu Apr 22 18:37:05 +0000 2021
+1385321003253833732,neutral,0.811127781867981,0.796050488948822,-0.4417968690395355,This 👇 https://t.co/xVag7HGg0N,,Australia,Thu Apr 22 19:53:59 +0000 2021
+1385332280210558979,negative,1.6719167232513428,0.2523095607757568,2.034630298614502,"Free live entertainment from 6pm by ""Craig Shaw"" . Bookings essential by calling the club and remember to observe social distancing. You need to sign in using QR code. Staff can assist  if needed. If your sick stay home. For all club information go to https://t.co/FvQx3dwYsl",,Australia,Thu Apr 22 20:38:48 +0000 2021
+1385325557752107010,neutral,1.7215487957000732,-0.3866606950759887,0.7442749738693237,@MeenaSrinivasa5 #Ivermectin are there any ongoing research? @aiims_newdelhi https://t.co/qh1mQC0Lav,Ivermectin,Australia,Thu Apr 22 20:12:05 +0000 2021
+1385325790275915779,negative,0.957864224910736,1.0490062236785889,1.109178066253662,"James makes a very heartfelt point. What a  Massive Cluster F⚡☄K the UK has put itself. 1st Brexit then COVID. Why the  UK didn't do what we in the AUS &amp; NZ did. Block entry &amp; restrict movement between Wales  Scotland , NI unless needed. Your a Island. 🙄 
+#UK 
+#COVID_19 https://t.co/u81hf1ttqa","UK, COVID_19",Australia,Thu Apr 22 20:13:01 +0000 2021
+1385335149588455425,negative,1.0153368711471558,-0.2839470505714416,2.192367553710937,@Vic_Rollison @FullerGraeme I was over that Swine before he became PM &amp; as for the AZ Vaccine he can stick it where the sun don’t shine fuckwit .,,Australia,Thu Apr 22 20:50:12 +0000 2021
+1385333314223951874,positive,1.141573429107666,1.4444159269332886,0.5706405639648438,@mjrowland68 every year we get a new flu jab that contains 4 or 5 different vaccines to cover the most common mutations since last year. Corona Virus is mutating faster. The truth is we’re stuffed. Thanks China.,,Australia,Thu Apr 22 20:42:55 +0000 2021
+1385336390100021250,negative,0.964758574962616,-1.1732181310653689,3.481084108352661,@Paul_Karp @mjrowland68 Sadly AZ does not protect against the SA or Brazilian strains of the virus. And they will likely be the cause of new infections we see this winter. The comolete failure of the vaccination program may well kill many of us.,,Australia,Thu Apr 22 20:55:08 +0000 2021
+1385337956664176641,negative,1.103106141090393,-0.0249253436923027,1.6434166431427002,"@PetherickLisa @StewartMatty @Racing Really. I’d like to know who made it and how this decision was arrived at. It just does not seem sensible considering no community covid and other mass crowds gathering e.g. MCG 85,000 allowed Sunday - no segregation there. Not too late to revoke it.",,Australia,Thu Apr 22 21:01:21 +0000 2021
+1385342136892198913,positive,2.0310046672821045,3.137944221496582,-0.6580575108528137,"Nature is healing, waiting for the first international flight for a holiday since the pandemic started :P https://t.co/rB75qDydFx",,Australia,Thu Apr 22 21:17:58 +0000 2021
+1385344879602012160,negative,0.792913556098938,-1.1958078145980835,3.263090133666992,Because they are bastards who only support the privileged few. Just where are the controls. https://t.co/26dJRcwCNv,,Australia,Thu Apr 22 21:28:52 +0000 2021
+1385346507231010817,neutral,1.2690051794052124,0.6344870924949646,1.2313178777694702,@tumcarayol Serbia is a nation of #Covidiots who would go there as a tourist now? In the time of #COVID19 #pandemic #StayHomeSaveLives #WashYourHands #PhysicalDistance,"Covidiots, COVID19, pandemic, StayHomeSaveLives, WashYourHands, PhysicalDistance",Australia,Thu Apr 22 21:35:20 +0000 2021
+1385350004307464196,neutral,2.4403226375579834,1.4077316522598269,-0.4052784740924835,"Started #COVID19India care centre in #Delhi 
+Also providing #OxygenCylinders &amp; Mortuary Van #OxygenShortage https://t.co/1jMAFq8q5h","COVID19India, Delhi, OxygenCylinders, OxygenShortage",Australia,Thu Apr 22 21:49:14 +0000 2021
+1385352208158396417,negative,0.6149922013282776,-0.3755209147930145,2.9019775390625,Just horrified by the statistics coming out of India. Equally despairing of the selfish #covid19 discourse in Australia. @AlboMP glad you have put having our own CDC on the #auspol platform. No one is safe unless we are all safe. We are all connected #PublicHealth #collectivism,"covid19, auspol, PublicHealth, collectivism",Australia,Thu Apr 22 21:57:59 +0000 2021
+1385346498922106883,neutral,1.4528305530548096,0.6887636780738831,1.04011070728302,@dukewindsor388 And I want to lay on the beach reading a book on an island 😊 If it wasn’t for Covid I’d be on one somewhere in Asia 🤔,,Australia,Thu Apr 22 21:35:18 +0000 2021
+1385352178097790981,neutral,1.934170365333557,0.5744873285293579,-0.0859448835253715,Is getting my covid vaccine at 3:15 this afternoon,,Australia,Thu Apr 22 21:57:52 +0000 2021
+1385338545779273728,negative,0.5516168475151062,0.4468032419681549,1.7410380840301514,"You must be so proud @ScottMorrisonMP 
+Where is my 94 year old nursing home residents mother's vaccine? Head of the queue you said. You lied. And repeated the lie dozens of times.
+#ScottyDoesNothing 
+#ScottyMustGo 
+#AlboForPM 
+#auspol https://t.co/Csj2mzjRrA","ScottyDoesNothing, ScottyMustGo, AlboForPM, auspol",Australia,Thu Apr 22 21:03:42 +0000 2021
+1385347070874165250,neutral,1.7240467071533203,-0.0599341318011283,1.510158658027649,"@Reweth To enter the bubble from outside, it is compulsory for people to stay in a quarantine building for a full 14 days. It is quite tricky for the virus to get in, and the ones that gets out (which has been pretty rare) are quickly eliminated.",,Australia,Thu Apr 22 21:37:34 +0000 2021
+1385357108174934017,negative,1.1640615463256836,-0.747746467590332,2.64374041557312,"But Melbourne loses its shit because we’re only allowed (checks notes) 85,000 people at the MCG to watch two bottom teams. https://t.co/aXJdNE2nQb",,Australia,Thu Apr 22 22:17:27 +0000 2021
+1385357763899916288,negative,0.9131328463554382,-0.7726545929908752,2.889115571975708,@ian_hickie @BrainMind_Usyd @orygen_aus @YOUTHe_au @DavidColemanMP @Mark_Butler_MP As a father with a 15 year old suffering post lock downs; adolescent mental health in this country is a joke. It needs attention asap. They wilk be collateral damage of the pandemic.,,Australia,Thu Apr 22 22:20:04 +0000 2021
+1385361130357346304,positive,0.3787741363048553,3.5853195190429688,-0.3105786442756653,Love it!!! https://t.co/Ftbb9SEQ14,,Australia,Thu Apr 22 22:33:26 +0000 2021
+1385361183503314944,neutral,1.5131560564041138,0.7266388535499573,-0.4862679243087768,Location location location https://t.co/Ftbb9SEQ14,,Australia,Thu Apr 22 22:33:39 +0000 2021
+1385363917879218179,neutral,1.876326322555542,-0.3396442830562591,1.585715651512146,"@MacaesBruno @davidfrum Look at active cases in the community, and then restrictions on international travel,  these two conditions mean you constrained by a Pandemic.  How you remove the conditions will vary, but metrics  such as vaccination rates are not relevant, it's the conditions that matter.",,Australia,Thu Apr 22 22:44:31 +0000 2021
+1385364250273599488,negative,0.9763715863227844,-1.0131547451019287,2.6256303787231445,"Two deaths in Sydney after being vaccinated with COVID19.
+Are there more not being reported?
+Please investigate.
+@10NewsFirst
+@9NewsAUS
+@ABCaustralia
+@4corners
+@AustralianStory
+@60Mins
+@GuardianAus https://t.co/FPMcAw5jg1",,Australia,Thu Apr 22 22:45:50 +0000 2021
+1385365492471271426,negative,1.2066123485565186,0.7106491923332214,1.6632192134857178,Huge for Townsville after Covid wiped the planned @wallabies Test last year. Quality Reds v Chiefs game + d-header weekend #SuperRugby #nrl https://t.co/kB18PSX7zc,"SuperRugby, nrl",Australia,Thu Apr 22 22:50:46 +0000 2021
+1385359030231523330,negative,1.034230351448059,-0.4484589993953705,1.6567429304122925,@USDA_RedSox @ByJayKing I wouldn’t say it’s a joke. Things are pretty far gone in US so it’s hard to contain players getting covid or contact tracing.,,Australia,Thu Apr 22 22:25:06 +0000 2021
+1385363410129358848,neutral,1.0957378149032593,0.3780753016471863,0.0834868997335434,Covid jab and a Snag 😎 https://t.co/kcRCakhvEk,,Australia,Thu Apr 22 22:42:30 +0000 2021
+1385355476167057415,negative,1.1438796520233154,0.7419660091400146,1.204520344734192,@Paul_Karp @mjrowland68 I am 60 next month. If not for the fact I already have a blood clotting disorder I'd line up for the AZ vaccine. I will wait until my haemotologist appointment in August and discuss my options with her.,,Australia,Thu Apr 22 22:10:58 +0000 2021
+1385358828867252226,negative,0.8700998425483704,-1.092710256576538,2.9790806770324707,"@Wenin_Rome North Queensland has been relatively virus-free for a while, why ruin this... 🤮 🤮",,Australia,Thu Apr 22 22:24:18 +0000 2021
+1385368118818525186,positive,1.4046181440353394,1.7254719734191897,-0.5514276623725891,56 in a row!! https://t.co/uixgXtanRm,,Australia,Thu Apr 22 23:01:13 +0000 2021
+1385370750446497796,positive,0.2201154381036758,2.794454574584961,-0.0157478284090757,Brilliant!! https://t.co/nx6JMnSC8u,,Australia,Thu Apr 22 23:11:40 +0000 2021
+1385371840093192196,neutral,1.6388267278671265,0.6117874383926392,-0.532604992389679,@erinrileyau An early lockdown highlight,,Australia,Thu Apr 22 23:16:00 +0000 2021
+1385375826267435009,negative,1.446358561515808,-0.8927324414253235,2.121746063232422,"56 days of zero locally cases
+
+0 cases acquired interstate 
+
+2 cases acquired overseas 
+
+21 active cases
+
+13,233 test results received 
+
+143 days of zero lives lost
+
+#COVIDー19 #COVID19Vic","COVIDー19, COVID19Vic",Australia,Thu Apr 22 23:31:50 +0000 2021
+1385376667703513091,neutral,1.134503960609436,1.0566900968551636,0.7704285979270935,"@ArticulateBat @noplaceforsheep I'm not prepared to catch Covid while I wait. I had AZ in March.
+
+There may be a Pfizer booster later, that will deal with variants, and I'll be able to have we that too.",,Australia,Thu Apr 22 23:35:11 +0000 2021
