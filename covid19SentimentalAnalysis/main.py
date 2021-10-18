@@ -257,7 +257,7 @@ if __name__ == "__main__":
             testsets[observed].add(i)
 
 
-        print("Naive Bayes Classifier")
+   
         print('Precision Positive:', precision(refsets['Positive'], testsets['Positive']))
         print('Recall Positive:', recall(refsets['Positive'], testsets['Positive']))
         print('F-measure Positive: ', f_measure(refsets['Positive'], testsets['Positive']))
