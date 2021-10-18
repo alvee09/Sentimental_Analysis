@@ -217,6 +217,7 @@ if __name__ == "__main__":
     print('Precision Neutral:', precision(refsets['Neutral'], testsets['Neutral']))
     print('Recall Neutral:', recall(refsets['Neutral'], testsets['Neutral']))
     print('F-measure Neutral: ', f_measure(refsets['Neutral'], testsets['Neutral']))
+    print("")
 
     # ALl other classifiers
     classifiers = {
@@ -230,7 +231,7 @@ if __name__ == "__main__":
         # "DecisionTreeClassifier": DecisionTreeClassifier(),
         "RandomForestClassifier": RandomForestClassifier(),
         "LogisticRegression": LogisticRegression(max_iter=10000),
-        # "MLPClassifier": MLPClassifier(),
+        "MLPClassifier": MLPClassifier(),
         # "AdaBoostClassifier": AdaBoostClassifier(),
     }
 
@@ -268,6 +269,7 @@ if __name__ == "__main__":
         print('Precision Neutral:', precision(refsets['Neutral'], testsets['Neutral']))
         print('Recall Neutral:', recall(refsets['Neutral'], testsets['Neutral']))
         print('F-measure Neutral: ', f_measure(refsets['Neutral'], testsets['Neutral']))
+        print("")
 
     custom_tweet = "This is bad and wrong"
     # print("5")
