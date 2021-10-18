@@ -204,8 +204,8 @@ if __name__ == "__main__":
         refsets[label].add(i)
         observed = classifier.classify(feats)
         testsets[observed].add(i)
-    print(refsets)
 
+    print("Naive Bayes Classifier")
     print('Precision Positive:', precision(refsets['Positive'], testsets['Positive']))
     print('Recall Positive:', recall(refsets['Positive'], testsets['Positive']))
     print('F-measure Positive: ', f_measure(refsets['Positive'], testsets['Positive']))
@@ -236,19 +236,41 @@ if __name__ == "__main__":
 
 
 
-    # train_count = 31000
-    # # print("4")
-    # for name, sklearn_classifier in classifiers.items():
-    #     classifier = nltk.classify.SklearnClassifier(sklearn_classifier)
-    #
-    #     classifier.train(train_data)
-    #
-    #     accuracy = nltk.classify.accuracy(classifier, test_data)
-    #
-    #     print(F"{accuracy:.2%} - {name}")
-    #
-    # custom_tweet = "This is bad and wrong"
-    # # print("5")
-    # custom_tokens = remove_noise(word_tokenize(custom_tweet))
-    #
-    # print(custom_tweet, classifier.classify(dict([token, True] for token in custom_tokens)))
+    train_count = 31000
+    # print("4")
+    for name, sklearn_classifier in classifiers.items():
+        classifier = nltk.classify.SklearnClassifier(sklearn_classifier)
+
+        classifier.train(train_data)
+
+        accuracy = nltk.classify.accuracy(classifier, test_data)
+
+        print(F"{accuracy:.2%} - {name}")
+
+        refsets = collections.defaultdict(set)
+        testsets = collections.defaultdict(set)
+
+        for i, (feats, label) in enumerate(test_data):
+            refsets[label].add(i)
+            observed = classifier.classify(feats)
+            testsets[observed].add(i)
+
+
+        print("Naive Bayes Classifier")
+        print('Precision Positive:', precision(refsets['Positive'], testsets['Positive']))
+        print('Recall Positive:', recall(refsets['Positive'], testsets['Positive']))
+        print('F-measure Positive: ', f_measure(refsets['Positive'], testsets['Positive']))
+
+        print('Precision Negative:', precision(refsets['Negative'], testsets['Negative']))
+        print('Recall Negative:', recall(refsets['Negative'], testsets['Negative']))
+        print('F-measure Negative: ', f_measure(refsets['Negative'], testsets['Negative']))
+
+        print('Precision Neutral:', precision(refsets['Neutral'], testsets['Neutral']))
+        print('Recall Neutral:', recall(refsets['Neutral'], testsets['Neutral']))
+        print('F-measure Neutral: ', f_measure(refsets['Neutral'], testsets['Neutral']))
+
+    custom_tweet = "This is bad and wrong"
+    # print("5")
+    custom_tokens = remove_noise(word_tokenize(custom_tweet))
+
+    print(custom_tweet, classifier.classify(dict([token, True] for token in custom_tokens)))
