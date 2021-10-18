@@ -88,7 +88,7 @@ if __name__ == "__main__":
     # print(df.head())
 
     # ---------------------------------------------
-    df = pd.read_csv('~/Desktop/Data_output/jan_feb_mar_mergedfile.csv', index_col=False)
+    df = pd.read_csv('~/Documents/GitHub/Sentimental_Analysis/covid19SentimentalAnalysis/Data_output/allMerged.csv', index_col=False)
 
     df = df[['Sentiment_Label', 'Tweet_text']]
     print("1")
@@ -164,9 +164,9 @@ if __name__ == "__main__":
 
     random.shuffle(dataset)
     print(len(dataset))
-    train_data = dataset[:8500]
+    train_data = dataset[:40000]
     print(len(train_data))
-    test_data = dataset[8500:]
+    test_data = dataset[40000:]
     print(len(test_data))
     # print("3")
     classifier = NaiveBayesClassifier.train(train_data)
