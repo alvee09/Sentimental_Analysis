@@ -10,6 +10,7 @@ import csv
 # nltk.download('wordnet')
 # nltk.download('punkt')
 import pandas as pd
+import nltk.metrics
 import os
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.corpus import twitter_samples, stopwords
@@ -19,10 +20,8 @@ from nltk import FreqDist, classify, NaiveBayesClassifier
 from pandas import Series
 import re, string, random
 from nltk.tokenize import TweetTokenizer
-import collections
 from nltk.metrics.scores import precision
 from nltk.metrics.scores import recall
-
 tknzr = TweetTokenizer()
 from sklearn.naive_bayes import (
     BernoulliNB,
@@ -38,6 +37,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.neural_network import MLPClassifier
 from sklearn.linear_model import SGDClassifier
 from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
+import collections
 from nltk.metrics import f_measure
 
 def remove_noise(tweet_tokens, stop_words=()):
@@ -57,12 +57,11 @@ def remove_noise(tweet_tokens, stop_words=()):
         token = re.sub("vaccine", "", token)
         token = re.sub("pandemic", "", token)
         token = re.sub("^\s+", "", token)  # remove the front
-        token = re.sub("\s+\Z","",token) #remove the back
+        token = re.sub("\s+\Z", "", token)  # remove the back
         token = re.sub("19", "", token)
         token = re.sub("Australia", "", token)
         token = re.sub("AUSTRALIA", "", token)
         token = re.sub("sydney", "", token)
-
 
         if tag.startswith("NN"):
             pos = 'n'
@@ -74,7 +73,8 @@ def remove_noise(tweet_tokens, stop_words=()):
         lemmatizer = WordNetLemmatizer()
         token = lemmatizer.lemmatize(token, pos)
 
-        if len(token) > 0 and token not in string.punctuation and token.lower() not in stop_words and token != "..." and token != "’" and token != 'covid':
+        if len(
+                token) > 0 and token not in string.punctuation and token.lower() not in stop_words and token != "..." and token != "’" and token != 'covid':
             cleaned_tokens.append(token.lower())
     return cleaned_tokens
 
@@ -105,36 +105,36 @@ if __name__ == "__main__":
     # print(df.head())
 
     # ---------------------------------------------
-    df = pd.read_csv('allMerged.csv', index_col=False)
+    df = pd.read_csv('mergedfile.csv', index_col=False)
 
     # Merge hastags with Tweet------------
-    df['Tweet_text_merged'] = df.Tweet_text.astype(str).str.cat(df.hashtags.astype(str), sep=' ')
+    # df['Tweet_text_merged'] = df.Tweet_text.astype(str).str.cat(df.hashtags.astype(str), sep=' ')
     # ----------------------
-    # df = df[['Sentiment_Label', 'Tweet_text']]
-    df = df[['Sentiment_Label', 'Tweet_text_merged']]
+    df = df[['Sentiment_Label', 'Tweet_text']]
+    # df = df[['Sentiment_Label', 'Tweet_text_merged']]
     print("1")
     positive_tweets = df.loc[df['Sentiment_Label'] == 'positive']
     negative_tweets = df.loc[df['Sentiment_Label'] == 'negative']
     neutral_tweets = df.loc[df['Sentiment_Label'] == 'neutral']
 
-    positive_tweets = positive_tweets[['Tweet_text_merged']]
-    negative_tweets = negative_tweets[['Tweet_text_merged']]
-    neutral_tweets = neutral_tweets[['Tweet_text_merged']]
+    positive_tweets = positive_tweets[['Tweet_text']]
+    negative_tweets = negative_tweets[['Tweet_text']]
+    neutral_tweets = neutral_tweets[['Tweet_text']]
 
     positive_tweet_tokens = []
     negative_tweet_tokens = []
     neutral_tweet_tokens = []
 
     for index, row in positive_tweets.iterrows():
-        positive_tweet_tokens.append(tknzr.tokenize(row['Tweet_text_merged']))
+        positive_tweet_tokens.append(tknzr.tokenize(row['Tweet_text']))
         # positive_tweet_tokens.append(nltk.word_tokenize(row['Tweet_text']))
 
     for index, row in negative_tweets.iterrows():
-        negative_tweet_tokens.append(tknzr.tokenize(row['Tweet_text_merged']))
+        negative_tweet_tokens.append(tknzr.tokenize(row['Tweet_text']))
         # negative_tweet_tokens.append(nltk.word_tokenize(row['Tweet_text']))
 
     for index, row in neutral_tweets.iterrows():
-        neutral_tweet_tokens.append(tknzr.tokenize(row['Tweet_text_merged']))
+        neutral_tweet_tokens.append(tknzr.tokenize(row['Tweet_text']))
         # neutral_tweet_tokens.append(nltk.word_tokenize(row['Tweet_text']))
 
     # ---------------------------------------------
@@ -185,11 +185,11 @@ if __name__ == "__main__":
 
     random.shuffle(dataset)
     print(len(dataset))
-    train_data = dataset[:31000]
+    train_data = dataset[:3000]
     print(len(train_data))
-    test_data = dataset[31000:]
+    test_data = dataset[3000:]
     print(len(test_data))
-    # print("3")
+    print(len(test_data[0]))
     classifier = NaiveBayesClassifier.train(train_data)
 
     print("Accuracy is:", classify.accuracy(classifier, test_data))
@@ -205,7 +205,6 @@ if __name__ == "__main__":
         observed = classifier.classify(feats)
         testsets[observed].add(i)
     print(refsets)
-
     print('Precision Positive:', precision(refsets['Positive'], testsets['Positive']))
     print('Recall Positive:', recall(refsets['Positive'], testsets['Positive']))
     print('F-measure Positive: ', f_measure(refsets['Positive'], testsets['Positive']))
@@ -233,8 +232,6 @@ if __name__ == "__main__":
         # "MLPClassifier": MLPClassifier(),
         # "AdaBoostClassifier": AdaBoostClassifier(),
     }
-
-
 
     # train_count = 31000
     # # print("4")
