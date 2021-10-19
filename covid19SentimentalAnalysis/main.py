@@ -108,33 +108,33 @@ if __name__ == "__main__":
     df = pd.read_csv('allMerged.csv', index_col=False)
 
     # Merge hastags with Tweet------------
-    df['Tweet_text_merged'] = df.Tweet_text.astype(str).str.cat(df.hashtags.astype(str), sep=' ')
+    # df['Tweet_text_merged'] = df.Tweet_text.astype(str).str.cat(df.hashtags.astype(str), sep=' ')
     # ----------------------
-    # df = df[['Sentiment_Label', 'Tweet_text']]
-    df = df[['Sentiment_Label', 'Tweet_text_merged']]
+    df = df[['Sentiment_Label', 'Tweet_text']]
+    # df = df[['Sentiment_Label', 'Tweet_text_merged']]
     print("1")
     positive_tweets = df.loc[df['Sentiment_Label'] == 'positive']
     negative_tweets = df.loc[df['Sentiment_Label'] == 'negative']
     neutral_tweets = df.loc[df['Sentiment_Label'] == 'neutral']
 
-    positive_tweets = positive_tweets[['Tweet_text_merged']]
-    negative_tweets = negative_tweets[['Tweet_text_merged']]
-    neutral_tweets = neutral_tweets[['Tweet_text_merged']]
+    positive_tweets = positive_tweets[['Tweet_text']]
+    negative_tweets = negative_tweets[['Tweet_text']]
+    neutral_tweets = neutral_tweets[['Tweet_text']]
 
     positive_tweet_tokens = []
     negative_tweet_tokens = []
     neutral_tweet_tokens = []
 
     for index, row in positive_tweets.iterrows():
-        positive_tweet_tokens.append(tknzr.tokenize(row['Tweet_text_merged']))
+        positive_tweet_tokens.append(tknzr.tokenize(row['Tweet_text']))
         # positive_tweet_tokens.append(nltk.word_tokenize(row['Tweet_text']))
 
     for index, row in negative_tweets.iterrows():
-        negative_tweet_tokens.append(tknzr.tokenize(row['Tweet_text_merged']))
+        negative_tweet_tokens.append(tknzr.tokenize(row['Tweet_text']))
         # negative_tweet_tokens.append(nltk.word_tokenize(row['Tweet_text']))
 
     for index, row in neutral_tweets.iterrows():
-        neutral_tweet_tokens.append(tknzr.tokenize(row['Tweet_text_merged']))
+        neutral_tweet_tokens.append(tknzr.tokenize(row['Tweet_text']))
         # neutral_tweet_tokens.append(nltk.word_tokenize(row['Tweet_text']))
 
     # ---------------------------------------------
@@ -185,9 +185,9 @@ if __name__ == "__main__":
 
     random.shuffle(dataset)
     print(len(dataset))
-    train_data = dataset[:31000]
+    train_data = dataset[:31500]
     print(len(train_data))
-    test_data = dataset[31000:]
+    test_data = dataset[31500:]
     print(len(test_data))
     # print("3")
     classifier = NaiveBayesClassifier.train(train_data)
@@ -230,14 +230,14 @@ if __name__ == "__main__":
         # "KNeighborsClassifier": KNeighborsClassifier(),
         # "DecisionTreeClassifier": DecisionTreeClassifier(),
         "RandomForestClassifier": RandomForestClassifier(),
-        "LogisticRegression": LogisticRegression(max_iter=10000),
+        "LogisticRegression": LogisticRegression(max_iter=20000),
         "MLPClassifier": MLPClassifier(),
         # "AdaBoostClassifier": AdaBoostClassifier(),
     }
 
 
 
-    train_count = 31000
+    train_count = 31500
     # print("4")
     for name, sklearn_classifier in classifiers.items():
         classifier = nltk.classify.SklearnClassifier(sklearn_classifier)
@@ -257,7 +257,7 @@ if __name__ == "__main__":
             testsets[observed].add(i)
 
 
-        print("Naive Bayes Classifier")
+        # print("Naive Bayes Classifier")
         print('Precision Positive:', precision(refsets['Positive'], testsets['Positive']))
         print('Recall Positive:', recall(refsets['Positive'], testsets['Positive']))
         print('F-measure Positive: ', f_measure(refsets['Positive'], testsets['Positive']))
