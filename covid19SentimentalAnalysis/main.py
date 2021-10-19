@@ -184,12 +184,10 @@ if __name__ == "__main__":
     dataset = positive_dataset + negative_dataset + neutral_dataset
 
     random.shuffle(dataset)
-    print(len(dataset))
     train_data = dataset[:31500]
-    print(len(train_data))
     test_data = dataset[31500:]
-    print(len(test_data))
-    # print("3")
+
+
     classifier = NaiveBayesClassifier.train(train_data)
 
     print("Accuracy is:", classify.accuracy(classifier, test_data))
