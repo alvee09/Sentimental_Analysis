@@ -195,41 +195,41 @@ if __name__ == "__main__":
     print(classifier.show_most_informative_features(10))
 
     # Precision and recall
-    refsets = collections.defaultdict(set)
-    testsets = collections.defaultdict(set)
-
-    for i, (feats, label) in enumerate(test_data):
-        refsets[label].add(i)
-        observed = classifier.classify(feats)
-        testsets[observed].add(i)
-
-    print("Naive Bayes Classifier")
-    print('Precision Positive:', precision(refsets['Positive'], testsets['Positive']))
-    print('Recall Positive:', recall(refsets['Positive'], testsets['Positive']))
-    print('F-measure Positive: ', f_measure(refsets['Positive'], testsets['Positive']))
-
-    print('Precision Negative:', precision(refsets['Negative'], testsets['Negative']))
-    print('Recall Negative:', recall(refsets['Negative'], testsets['Negative']))
-    print('F-measure Negative: ', f_measure(refsets['Negative'], testsets['Negative']))
-
-    print('Precision Neutral:', precision(refsets['Neutral'], testsets['Neutral']))
-    print('Recall Neutral:', recall(refsets['Neutral'], testsets['Neutral']))
-    print('F-measure Neutral: ', f_measure(refsets['Neutral'], testsets['Neutral']))
-    print("")
+    # refsets = collections.defaultdict(set)
+    # testsets = collections.defaultdict(set)
+    #
+    # for i, (feats, label) in enumerate(test_data):
+    #     refsets[label].add(i)
+    #     observed = classifier.classify(feats)
+    #     testsets[observed].add(i)
+    #
+    # print("Naive Bayes Classifier")
+    # print('Precision Positive:', precision(refsets['Positive'], testsets['Positive']))
+    # print('Recall Positive:', recall(refsets['Positive'], testsets['Positive']))
+    # print('F-measure Positive: ', f_measure(refsets['Positive'], testsets['Positive']))
+    #
+    # print('Precision Negative:', precision(refsets['Negative'], testsets['Negative']))
+    # print('Recall Negative:', recall(refsets['Negative'], testsets['Negative']))
+    # print('F-measure Negative: ', f_measure(refsets['Negative'], testsets['Negative']))
+    #
+    # print('Precision Neutral:', precision(refsets['Neutral'], testsets['Neutral']))
+    # print('Recall Neutral:', recall(refsets['Neutral'], testsets['Neutral']))
+    # print('F-measure Neutral: ', f_measure(refsets['Neutral'], testsets['Neutral']))
+    # print("")
 
     # ALl other classifiers
     classifiers = {
-        "SGDClassifier": SGDClassifier(max_iter=1000),
+        # "SGDClassifier": SGDClassifier(max_iter=1000),
         # "MultinomialNB": MultinomialNB(),
-        "LinearSVC": LinearSVC(),
+        # "LinearSVC": LinearSVC(),
         # "BernoulliNB": BernoulliNB(),
-        "ComplementNB": ComplementNB(),
+        # "ComplementNB": ComplementNB(),
 
         # "KNeighborsClassifier": KNeighborsClassifier(),
         # "DecisionTreeClassifier": DecisionTreeClassifier(),
-        "RandomForestClassifier": RandomForestClassifier(),
+        # "RandomForestClassifier": RandomForestClassifier(),
         "LogisticRegression": LogisticRegression(max_iter=20000),
-        "MLPClassifier": MLPClassifier(),
+        # "MLPClassifier": MLPClassifier(),
         # "AdaBoostClassifier": AdaBoostClassifier(),
     }
 
@@ -246,31 +246,46 @@ if __name__ == "__main__":
 
         print(F"{accuracy:.2%} - {name}")
 
-        refsets = collections.defaultdict(set)
-        testsets = collections.defaultdict(set)
+        # refsets = collections.defaultdict(set)
+        # testsets = collections.defaultdict(set)
+        #
+        # for i, (feats, label) in enumerate(test_data):
+        #     refsets[label].add(i)
+        #     observed = classifier.classify(feats)
+        #     testsets[observed].add(i)
+        #
+        #
+        #
+        # print('Precision Positive:', precision(refsets['Positive'], testsets['Positive']))
+        # print('Recall Positive:', recall(refsets['Positive'], testsets['Positive']))
+        # print('F-measure Positive: ', f_measure(refsets['Positive'], testsets['Positive']))
+        #
+        # print('Precision Negative:', precision(refsets['Negative'], testsets['Negative']))
+        # print('Recall Negative:', recall(refsets['Negative'], testsets['Negative']))
+        # print('F-measure Negative: ', f_measure(refsets['Negative'], testsets['Negative']))
+        #
+        # print('Precision Neutral:', precision(refsets['Neutral'], testsets['Neutral']))
+        # print('Recall Neutral:', recall(refsets['Neutral'], testsets['Neutral']))
+        # print('F-measure Neutral: ', f_measure(refsets['Neutral'], testsets['Neutral']))
+        # print("")
 
-        for i, (feats, label) in enumerate(test_data):
-            refsets[label].add(i)
-            observed = classifier.classify(feats)
-            testsets[observed].add(i)
-
-
-
-        print('Precision Positive:', precision(refsets['Positive'], testsets['Positive']))
-        print('Recall Positive:', recall(refsets['Positive'], testsets['Positive']))
-        print('F-measure Positive: ', f_measure(refsets['Positive'], testsets['Positive']))
-
-        print('Precision Negative:', precision(refsets['Negative'], testsets['Negative']))
-        print('Recall Negative:', recall(refsets['Negative'], testsets['Negative']))
-        print('F-measure Negative: ', f_measure(refsets['Negative'], testsets['Negative']))
-
-        print('Precision Neutral:', precision(refsets['Neutral'], testsets['Neutral']))
-        print('Recall Neutral:', recall(refsets['Neutral'], testsets['Neutral']))
-        print('F-measure Neutral: ', f_measure(refsets['Neutral'], testsets['Neutral']))
-        print("")
-
-    custom_tweet = "This is bad and wrong"
+    # custom_tweet = "This is bad and wrong"
     # print("5")
-    custom_tokens = remove_noise(word_tokenize(custom_tweet))
+    # custom_tokens = remove_noise(word_tokenize(custom_tweet))
 
-    print(custom_tweet, classifier.classify(dict([token, True] for token in custom_tokens)))
+    # print(custom_tweet, classifier.classify(dict([token, True] for token in custom_tokens)))
+
+    df = pd.read_csv('./Data_output/August/mergedfile.csv', index_col=False)
+    august_tweet = df['Tweet_text']
+    df['predictions'] =""
+    #for index, tweet in august_tweet:
+    #    custom_tokens = remove_noise(word_tokenize(tweet))
+
+    for index, tweet in df.iterrows():
+        custom_tokens = remove_noise(word_tokenize(df['Tweet_text'][index]))
+
+        # tweet, classifier.classify(dict([token, True] for token in custom_tokens))
+        df['predictions'][index] = classifier.classify(dict([token, True] for token in custom_tokens))
+
+    df.to_csv("august_sentiment.csv")
+    print(df.head())
